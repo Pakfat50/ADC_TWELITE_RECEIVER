@@ -1,0 +1,6 @@
+[submodule "software/ADC_EXT_LIB"]
+	path = software/ADC_EXT_LIB
+	url = https://github.com/Pakfat50/ADC_EXT_LIB.git
+[submodule "software/ADC_COMMON_LIB"]
+	path = software/ADC_COMMON_LIB
+	url = https://github.com/Pakfat50/ADC_COMMON_LIB.git

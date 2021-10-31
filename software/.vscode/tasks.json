@@ -1,0 +1,64 @@
+// .vscode/tasks.json
+{
+    "version": "2.0.0",
+    "windows": { "options": { "shell": { "executable": "cmd.exe", "args": ["/c"] } } },
+    "tasks": [
+        {
+            "label": "Full Clean",
+            "type": "shell",
+            "windows": {
+                "command": "cd build & build-clean.cmd",
+                "args": [
+                ]
+            },
+            "problemMatcher": {
+                "base": "$gcc",
+                "fileLocation": [
+                    "absolute"
+                ]
+            },
+            "options": {
+            },
+            "group": "build"
+        },
+        {
+            "label": "Build for TWELITE BLUE",
+            "type": "shell",
+            "windows": {
+                "command": "cd build & build-BLUE.cmd",
+                "args": [
+                ]
+            },
+            "problemMatcher": {
+                "base": "$gcc",
+                "fileLocation": [
+                    "absolute"
+                ]
+            },
+            "options": {
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Build for TWELITE RED",
+            "type": "shell",
+            "windows": {
+                "command": "cd build & build-RED.cmd",
+                "args": [
+                ]
+            },
+            "problemMatcher": {
+                "base": "$gcc",
+                "fileLocation": [
+                    "absolute"
+                ]
+            },
+            "options": {
+            },
+            "group": "build"
+        }
+    ]
+}

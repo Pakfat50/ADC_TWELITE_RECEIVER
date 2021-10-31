@@ -1,0 +1,1905 @@
+Archive member included because of file (symbol)
+
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_event.o)
+                              objs_BLUE/main.o (symbol from plugin) (PRSEV_u8RegisterEx)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_main.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (sToCoNet_Context)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_utils.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetVersion)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_Tx.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (ToCoNet_vReg_mod_Tx_Standard)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_TxRxQueue.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (ToCoNet_vReg_mod_TxRxQueueSmall)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_Nwk_Common.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_vRxProc_Mod)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(ToCoNet_mod_Channel_Mgr.o)
+                              ToCoNet_mod_Tx.o (symbol from plugin) (ToCoNet_ChMgr_bCh_OnTx)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetVersionInfo)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a(AppQueueApi_ToCoNet.o)
+                              ToCoNet_main.o (symbol from plugin) (_u32_INT_ticktimer)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(AppStart.o)
+                              (AppColdStart)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(getMacAddr.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetSerialOnBoot)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(mac.o)
+                              ToCoNet_main.o (symbol from plugin) (Mac_vInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(AES_CCM.o)
+                              AppStart.o (symbol from plugin) (bAES_CCM_KeyReg)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(no_ack_handler.o)
+                              AppStart.o (symbol from plugin) (vInstallNoAckHandler)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetExtVersionInfo)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(serial.o)
+                              objs_BLUE/main.o (symbol from plugin) (SERIAL_bTxChar)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(uart.o)
+                              serial.o (symbol from plugin) (UART_vInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(ByteQueue.o)
+                              ToCoNet_main.o (symbol from plugin) (QUEUE__vInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(ccitt8.o)
+                              AppStart.o (symbol from plugin) (u8CCITT8)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(fprintf.o)
+                              objs_BLUE/sensors/legacy/sensor_driver.o (symbol from plugin) (vfPrintf)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(utils.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (vTimerConfig)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(ccm.o)
+                              AES_CCM.o (symbol from plugin) (ccm_init_and_key)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetUtilsVersionInfo)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(aescrypt.o)
+                              ccm.o (symbol from plugin) (aes_encrypt)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(aeskey.o)
+                              ccm.o (symbol from plugin) (aes_encrypt_key)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a(aestab.o)
+                              aeskey.o (symbol from plugin) (t_im)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twenvm.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWENVM_bRead)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTRCT_pscInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive_settings.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTCT_vSerUpdateScreen_settings)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive_defmenus.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTCT_vSerUpdateScreen_defmenus)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinteractive_nvmutils.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTCT_vSerUpdateScreen_nvmutils)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweprintf.o)
+                              objs_BLUE/mwx_debug.o (symbol from plugin) (TWE_fprintf)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesercmd_ascii.o)
+                              objs_BLUE/main.o (symbol from plugin) (TWESERCMD_Ascii_vInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesercmd_binary.o)
+                              objs_BLUE/main.o (symbol from plugin) (TWESERCMD_Binary_vInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesercmd_plus3.o)
+                              tweinteractive.o (symbol from plugin) (TWESERCMD_Plus3_u8Parse)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweserial.o)
+                              tweinteractive.o (symbol from plugin) (_TWE_fputs)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesettings.o)
+                              tweinteractive_settings.o (symbol from plugin) (TWESTG_u32GetU32FrUDatum)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesettings_std.o)
+                              tweinteractive_settings.o (symbol from plugin) (TWESTG_u32SaveDataToAppStrg)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesettings_validator.o)
+                              objs_BLUE/settings/mwx_stgs_standard_tbl.o (symbol from plugin) (TWESTGS_VLD_u32MinMax)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twestring.o)
+                              twesettings_validator.o (symbol from plugin) (TWESTR_u8SplitTokens)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweserial_jen.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (TWETERM_vInitJen)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesysutils.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWESYSUTL_vWaitPoll)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(printf.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (snprintf_)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twecrc8.o)
+                              twenvm.o (symbol from plugin) (TWE_CRC8_u8Calc)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweinputstring.o)
+                              tweinteractive.o (symbol from plugin) (TWEINPSTR_vInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a(AppApi.o)
+                              (pvAppApiDefGetMacHandle)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a(AppApiSleep.o)
+                              (vAppApiDefSaveMacSettings)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_main.o)
+                              AppApi.o (symbol from plugin) (MAC_pvCtor)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_mcps.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMcpsReqRsp)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_mlme.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMlmeReqRsp)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_pib.o)
+                              AppStart.o (symbol from plugin) (MAC_psPibGetHandle)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_pib_mlme.o)
+                              mac_main.o (symbol from plugin) (mac_vPibSetDefaults)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_pmic.o)
+                              mac_main.o (symbol from plugin) (vPMICreset)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_ind.o)
+                              AppApi.o (symbol from plugin) (MAC_vRegisterMlmeDcfmIndCallbacks)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_scan.o)
+                              mac_main.o (symbol from plugin) (mac_eScanInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_lp.o)
+                              mac_pmic.o (symbol from plugin) (g_sLP)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(MCPS.o)
+                              mac_mcps.o (symbol from plugin) (vTAM_MCPSdataRequest)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(phy_pib.o)
+                              AppApi.o (symbol from plugin) (phy_ePibGet)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM.o)
+                              MCPS.o (symbol from plugin) (bTAMinPAN)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMCO.o)
+                              TAM.o (symbol from plugin) (vTAMCOsetCoordinator)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMDE.o)
+                              TAM.o (symbol from plugin) (vTAMDEdetermineNullState)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_MEM.o)
+                              TAM.o (symbol from plugin) (vMEMreset)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_MLME.o)
+                              mac_scan.o (symbol from plugin) (vMLMEbeaconNotify)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_TAH.o)
+                              TAMCO.o (symbol from plugin) (vTAHsetCutOff)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_TAI.o)
+                              TAM.o (symbol from plugin) (vTAIsetCapTime)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_TAT.o)
+                              TAMDE.o (symbol from plugin) (vTATstartReceiveAt)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMcommon.o)
+                              mac_scan.o (symbol from plugin) (bTACassessBeaconForPayload)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMevent.o)
+                              mac_lp.o (symbol from plugin) (vTAMinsertEvent)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMqueue.o)
+                              TAMcommon.o (symbol from plugin) (vTAQaddToFifo)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMrxEnable.o)
+                              TAMevent.o (symbol from plugin) (vTAMRXEint2Fired)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMsecurity.o)
+                              TAMcommon.o (symbol from plugin) (vTSCgetIncomingInfo)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMsideways.o)
+                              mac_pmic.o (symbol from plugin) (eTAStransmitRequest)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAMtime.o)
+                              TAM.o (symbol from plugin) (vTTIBLETimerExpired)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(TAM_AES.o)
+                              TAMsecurity.o (symbol from plugin) (u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(Endian.o)
+                              TAM_AES.o (symbol from plugin) (vFromU16ToLe)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_acl.o)
+                              TAMsecurity.o (symbol from plugin) (MAC_u8AclFindInfo)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a(mac_misc.o)
+                              mac_mlme.o (symbol from plugin) (vMAC_MISCpollRequest)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a(tsv_main.o)
+                              AppApiSleep.o (symbol from plugin) (s_sTimerList)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a(xcv_main.o)
+                              AppApi.o (symbol from plugin) (XCV_vCtor)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a(xcv_access.o)
+                              mac_main.o (symbol from plugin) (XCV_vDevWriteIER)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a(xcv_isr.o)
+                              AppApi.o (symbol from plugin) (vXCV_IntHandlerPhy)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorCCM.o)
+                              AES_CCM.o (symbol from plugin) (bACI_CCMstar)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AES_CCM_Star.o)
+                              TAM_AES.o (symbol from plugin) (vACI_OptimisedCcmStar)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPI.o)
+                              AES_CCM_Star.o (symbol from plugin) (vACI_CmdWaitBusy)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Analogue.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (bAHI_APRegulatorEnabled)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_BrownOut.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (vAHI_BrownOutConfigure)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Dio.o)
+                              objs_BLUE/mwx_periph_dio.o (symbol from plugin) (vAHI_DioSetDirection)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_PulseCounter.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (bAHI_Read16BitCounter)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Reset.o)
+                              objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (vAHI_SwReset)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Spi.o)
+                              objs_BLUE/sensors/mwx_sns_MC3630.o (symbol from plugin) (vAHI_SpiConfigure)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_System.o)
+                              AppApiSleep.o (symbol from plugin) (u8AHI_PowerStatus)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Timer.o)
+                              utils.o (symbol from plugin) (vAHI_TimerEnable)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_TimerInt.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_Timer0RegisterCallback)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Uart.o)
+                              objs_BLUE/mwx_appcore.o (symbol from plugin) (vAHI_UartSetBaudDivisor)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_WakeTimer.o)
+                              ToCoNet_utils.o (symbol from plugin) (vAHI_WakeTimerEnable)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Flash.o)
+                              AHI_System.o (symbol from plugin) (vAHI_FlashAndEEPROMControllerIntHandler)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Infrared.o)
+                              AHI_TimerInt.o (symbol from plugin) (vAHI_IntHandlerInfrared)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_DO.o)
+                              objs_BLUE/mwx_periph_dio.o (symbol from plugin) (bAHI_DoEnableOutputs)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(InternalFlashApi.o)
+                              AHI_Flash.o (symbol from plugin) (bFlashErase)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_FlashIndexSector.o)
+                              AppStart.o (symbol from plugin) (bAHI_ReadMACID)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Si.o)
+                              objs_BLUE/sensors/legacy/SMBus.o (symbol from plugin) (vAHI_SiMasterConfigure)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_TickTimer.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_TickTimerInit)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                              AppApi.o (symbol from plugin) (vAHI_InterruptSetPriority)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Init.o)
+                              AppStart.o (symbol from plugin) (u32AHI_Init)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_SpiSlave.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerSpiSlave)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroInt_ba.o)
+                              ToCoNet_main.o (symbol from plugin) (vMicroIntEnableOnly)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                              AHI_Reset.o (symbol from plugin) (vMicroSyscall)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(Heap.o)
+                              (u32HeapStart)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                              (_exception_external_interrupt)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a(eeprom_6x.o)
+                              twenvm.o (symbol from plugin) (EEP_6x_bRead)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a(AppHousekeeping.o)
+                              mac_scan.o (symbol from plugin) (sAppHousekeeping)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPIinterrupts.o)
+                              AHI_Init.o (symbol from plugin) (vACI_IntHandlerAes)
+C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(EEP_EEPROM.o)
+                              eeprom_6x.o (symbol from plugin) (u16AHI_InitialiseEEP)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                              objs_BLUE/main.o (symbol from plugin) (memcpy)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                              objs_BLUE/main.o (symbol from plugin) (memset)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+                              objs_BLUE/main.o (symbol from plugin) (strncmp)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans3.ltrans.o (memcmp)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o (strlen)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans5.ltrans.o (__udivsi3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o (__divsi3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__umodsi3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o (__modsi3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o (__fixunsdfsi)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__udivdi3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__umoddi3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__adddf3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__divdf3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__nedf2)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__gedf2)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o (__ledf2)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__muldf3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__subdf3)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__fixdfsi)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o (__floatsidf)
+c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+                              C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o (__floatunsidf)
+
+Allocating common symbols
+Common symbol       size              file
+
+_TWENET_TX_POWER_MAX
+                    0x1               AppStart.o (symbol from plugin)
+EEPROM_6X_USER_SIZE
+                    0x2               eeprom_6x.o (symbol from plugin)
+apvHwIndBufferData  0x2c              AppQueueApi_ToCoNet.o (symbol from plugin)
+prMAC_TofMlmeReqHandler
+                    0x4               mac_mlme.o (symbol from plugin)
+apvMlmeIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+_TWENET_TX_POWER_VALUE
+                    0x1               AppStart.o (symbol from plugin)
+g_tSpiConfiguration
+                    0x4               AHI_Flash.o (symbol from plugin)
+prMAC_TofRxHandler  0x4               TAMcommon.o (symbol from plugin)
+_MAC_u8TxFailReason
+                    0x1               mac.o (symbol from plugin)
+EEPROM_6X_USER_SEGMENTS
+                    0x2               eeprom_6x.o (symbol from plugin)
+apvMcpsIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+bAHI_ExtendedTemperatureOperation
+                    0x1               AHI_System.o (symbol from plugin)
+bMAC_DiscardUnsuccessfulAssocResponses
+                    0x1               mac_pmic.o (symbol from plugin)
+u8Msq               0x1               TAM_TAT.o (symbol from plugin)
+g_bLegacyHwBugEmulation
+                    0x1               AES_CCM_Star.o (symbol from plugin)
+EEPROM_6X_SEGMENT_SIZE
+                    0x2               eeprom_6x.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/SMBus.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans6.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans17.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+ .rodata        0x0000000000000000        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans19.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans20.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans21.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans23.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans23.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans25.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans27.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans28.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans29.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+ .text.exit     0x0000000000000000        0x3 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+ .text.startup  0x0000000000000000       0xfe C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+ .ctors         0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans31.ltrans.o
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x38 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .eh_frame      0x0000000000000000       0x38 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/sensor_driver.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/SHTC3.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/SHT31.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/LTR308ALS.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/BME280.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_debug.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/fs3000_twelite.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE15_cbTweNet_vMainEPv
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2ImtE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1IiE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1ItE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1ImE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IhtE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_3IsssE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L114processev_crtpINS0_12BrdMonoStickEE14vProcessEvCoreEP8_tsEvent7teEventm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vHwEventEPvmm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE17_cbTweNet_u8HwIntEPvmm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L114processev_crtpINS0_12StgsStandardEE14vProcessEvCoreEP8_tsEvent7teEventm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE15_cbTweNet_vMainEPv
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vHwEventEPvmm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE17_cbTweNet_u8HwIntEPvmm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE9_on_eventEPvmRm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L114processev_crtpINS0_9NwkSimpleEE14vProcessEvCoreEP8_tsEvent7teEventm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE9_on_eventEPvmRm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vHwEventEPvmm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE17_cbTweNet_u8HwIntEPvmm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L110serial_jen7vOutputEcPv
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L113serial_parserINS0_12alloc_attachIhEEE4putcINS0_10serial_jenEEEiiP15_tsTWETERM_FILE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE9_on_eventEPvmRm
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE15_cbTweNet_vMainEPv
+                0x0000000000000000        0x0 objs_BLUE/main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_utils_crc8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_appcore.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_memory.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph_dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph_buttons.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph_analogue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_periph_eeprom.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_stream.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_duplicate_checker.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/mwx_parser_pkt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_settings.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112StgsStandard7_serial10_availableEPv
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IiiE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L110serial_jen7vOutputEcPv
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L112StgsStandard7_serial5_readEPv
+                0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/settings/mwx_stgs_standard_tbl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_amb.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_mot.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_mag.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_pal_notice.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_monostick.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_app_twelite.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/boards/mwx_brd_cue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/networks/mwx_nwk_simple.o (symbol from plugin)
+ .gnu.linkonce.t._ZZN3mwx2L110twenet_mac8transmitERNS0_9packet_txEE5u8seq
+                0x0000000000000000        0x0 objs_BLUE/networks/mwx_nwk_simple.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/probe.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_MC3630.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_PCA9632.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_
+                0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_PCA9632.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3mwx2L110serial_jen7vOutputEcPv
+                0x0000000000000000        0x0 objs_BLUE/sensors/mwx_sns_PCA9632.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_event.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Tx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_TxRxQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Nwk_Common.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Channel_Mgr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppQueueApi_ToCoNet.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppStart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 getMacAddr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 no_ack_handler.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 serial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ByteQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccitt8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 fprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aescrypt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aeskey.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aestab.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twenvm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive_settings.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive_defmenus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinteractive_nvmutils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesercmd_ascii.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesercmd_binary.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesercmd_plus3.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweserial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesettings.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesettings_std.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesettings_validator.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twestring.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweserial_jen.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twesysutils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 printf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 twecrc8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tweinputstring.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApiSleep.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mcps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pmic.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_ind.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_scan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_lp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MCPS.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 phy_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMCO.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMDE.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MEM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MLME.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAH.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAT.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMcommon.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMevent.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMqueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMrxEnable.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsecurity.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsideways.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMtime.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_AES.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Endian.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_acl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_misc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tsv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_access.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_isr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorCCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM_Star.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Analogue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_BrownOut.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_PulseCounter.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Reset.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_System.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TimerInt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_WakeTimer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Infrared.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_DO.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 InternalFlashApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_FlashIndexSector.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Si.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TickTimer.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .bss           0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .text          0x0000000000000000        0x0 AHI_Init.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_SpiSlave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MicroInt_ba.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .data          0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .bss           0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .text          0x0000000000000000        0x0 Heap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .data          0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .bss           0x0000000000000000        0x0 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .text          0x0000000000000000        0x0 eeprom_6x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppHousekeeping.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPIinterrupts.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 EEP_EEPROM.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000000080000 0x0000000000028000
+ram              0x000000000400004c 0x0000000000007fb4
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD objs_BLUE/sensors/legacy/SMBus.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans1.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans2.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans3.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans4.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans5.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans6.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans9.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans12.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans13.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans15.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans17.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans19.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans20.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans21.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans22.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans23.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans25.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans27.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans28.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans29.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans31.ltrans.o
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD objs_BLUE/sensors/legacy/sensor_driver.o
+LOAD objs_BLUE/sensors/legacy/SHTC3.o
+LOAD objs_BLUE/sensors/legacy/SHT31.o
+LOAD objs_BLUE/sensors/legacy/LTR308ALS.o
+LOAD objs_BLUE/sensors/legacy/BME280.o
+LOAD objs_BLUE/mwx_debug.o
+LOAD objs_BLUE/fs3000_twelite.o
+LOAD objs_BLUE/main.o
+LOAD objs_BLUE/mwx_utils_crc8.o
+LOAD objs_BLUE/mwx_utils.o
+LOAD objs_BLUE/mwx_appcore.o
+LOAD objs_BLUE/mwx_memory.o
+LOAD objs_BLUE/mwx_periph.o
+LOAD objs_BLUE/mwx_periph_dio.o
+LOAD objs_BLUE/mwx_periph_buttons.o
+LOAD objs_BLUE/mwx_periph_analogue.o
+LOAD objs_BLUE/mwx_periph_eeprom.o
+LOAD objs_BLUE/mwx_stream.o
+LOAD objs_BLUE/mwx_duplicate_checker.o
+LOAD objs_BLUE/mwx_parser_pkt.o
+LOAD objs_BLUE/settings/mwx_settings.o
+LOAD objs_BLUE/settings/mwx_stgs_standard.o
+LOAD objs_BLUE/settings/mwx_stgs_standard_core.o
+LOAD objs_BLUE/settings/mwx_stgs_standard_tbl.o
+LOAD objs_BLUE/boards/mwx_brd_pal_amb.o
+LOAD objs_BLUE/boards/mwx_brd_pal_mot.o
+LOAD objs_BLUE/boards/mwx_brd_pal_mag.o
+LOAD objs_BLUE/boards/mwx_brd_pal_notice.o
+LOAD objs_BLUE/boards/mwx_brd_monostick.o
+LOAD objs_BLUE/boards/mwx_brd_app_twelite.o
+LOAD objs_BLUE/boards/mwx_brd_cue.o
+LOAD objs_BLUE/networks/mwx_nwk_simple.o
+LOAD objs_BLUE/sensors/legacy/probe.o
+LOAD objs_BLUE/sensors/mwx_sns_MC3630.o
+LOAD objs_BLUE/sensors/mwx_sns_PCA9632.o
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a
+START GROUP
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTOF_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libPDM_EEPROM_JN516x_NO_RTOS.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_BLUE.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_BLUE.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_BLUE.a
+LOAD C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a
+END GROUP
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libstdc++.a
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libm.a
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+                0x0000000000001000                _minimum_heap_size = 0x1000
+                0x0000000000000c00                _stack_size = 0xc00
+                0x0000000000080038                _exception_vsr_table = 0x80038
+                0x0000000004000000                pSPIflashFncTable = 0x4000000
+                0x0000000000001000                _minimum_heap_size = 0x1000
+                0x0000000000000c00                _stack_size = 0xc00
+                0x0000000000000044                restore_state = 0x44
+                0x000000000000004a                bZSPIWaitWIPClear = 0x4a
+                0x0000000000000050                u16ZSPIflashRDID = 0x50
+                0x0000000000000056                u8SelectFlashChipType = 0x56
+                0x000000000000005c                memcpy = 0x5c
+                0x0000000000000066                vBootFlashProg = 0x66
+                [0x0000000000001000]                _minimum_heap_size = DEFINED (_minimum_heap_size)?_minimum_heap_size:0xd16
+                0x0000000000000000                _SwConfig = (DEFINED (g_bSWConf_Debug) | (DEFINED (g_bSWConf_AltDebugPort) << 0x1))
+
+.version        0x000000000007fffc        0x4
+                0x000000000007fffc        0x4 LONG 0x4030008
+
+.bir            0x0000000000080000       0x10
+                0x0000000000080000                _flash_start = ABSOLUTE (.)
+                0x0000000000080000                _flash_beg = ABSOLUTE (.)
+                0x0000000000080000        0x4 LONG 0x12345678
+                0x0000000000080004        0x4 LONG 0x11223344
+                0x0000000000080008        0x4 LONG 0x55667788
+                0x000000000008000c        0x1 BYTE 0x8
+                0x000000000008000d        0x1 BYTE 0x1
+                0x000000000008000e        0x2 SHORT 0x0
+
+.flashheader    0x0000000000080010       0x28
+                0x0000000000080010        0x4 LONG 0x0
+                0x0000000000080014        0x4 LONG 0x0
+                0x0000000000080018        0x4 LONG 0x0
+                0x000000000008001c        0x2 SHORT 0x0
+                0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
+                0x0000000000080020                _enc_start = ABSOLUTE (.)
+                0x0000000000080020        0x4 LONG 0x14848 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x9480c ABSOLUTE (_flash_data_start)
+                0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
+                0x000000000008002a        0x2 SHORT 0xf ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
+                0x000000000008002c        0x2 SHORT 0x22 ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
+                0x000000000008002e        0x2 SHORT 0x60b ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x86fd1 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x87980 ABSOLUTE (AppColdStart)
+                0x0000000000000000                _enc_offset = (_enc_start & 0xf)
+                0x0000000000000044                PROVIDE (vException_BusError, restore_state)
+                0x0000000000000044                PROVIDE (vException_UnalignedAccess, restore_state)
+                0x0000000000000044                PROVIDE (vException_IllegalInstruction, restore_state)
+                0x0000000000000044                PROVIDE (vException_SysCall, restore_state)
+                0x0000000000000044                PROVIDE (vException_Trap, restore_state)
+                0x0000000000000044                PROVIDE (vException_StackOverflow, restore_state)
+                0x0000000000080038                . = ABSOLUTE (_exception_vsr_table)
+
+.vsr_table      0x0000000000080038       0x18
+                0x0000000000080038        0x4 LONG 0x44 ABSOLUTE (vException_BusError)
+                0x000000000008003c        0x4 LONG 0x44 ABSOLUTE (vException_UnalignedAccess)
+                0x0000000000080040        0x4 LONG 0x44 ABSOLUTE (vException_IllegalInstruction)
+                0x0000000000080044        0x4 LONG 0x44 ABSOLUTE (vException_SysCall)
+                0x0000000000080048        0x4 LONG 0x44 ABSOLUTE (vException_Trap)
+                0x000000000008004c        0x4 LONG 0x44 ABSOLUTE (vException_StackOverflow)
+
+.vsr_handlers   0x0000000000080050       0xaa
+ *(.vsr_handlers)
+ .vsr_handlers  0x0000000000080050       0xaa C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000000080050                _exception_external_interrupt
+                0x00000000000800f8                _default_vsr_dummy
+
+.rodata         0x0000000000080100     0x14a0
+ *(.rodata*)
+ .rodata        0x0000000000080100      0x117 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000080217       0x1a C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+                                         0x1d (size before relaxing)
+ *fill*         0x0000000000080231        0x3 00
+ .rodata        0x0000000000080234       0xd4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans1.ltrans.o
+                0x0000000000080234                s_aprScanHandleEvt.22174
+                0x0000000000080264                apvActionCalls
+                0x00000000000802ec                aprLPBMacVectorRamTable
+                0x0000000000080300                psTamMacContext
+                0x0000000000080304                psTAMcontext
+ .rodata.str1.1
+                0x0000000000080308      0x2bc C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans2.ltrans.o
+                                        0x2bd (size before relaxing)
+ .rodata        0x00000000000805c4      0x2fc C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans2.ltrans.o
+                0x00000000000805c4                _ZL8pSetList.7588
+                0x00000000000805c8                _ZL14SetList_SINGLE.7589
+ .rodata        0x00000000000808c0        0x4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans3.ltrans.o
+ .rodata.str1.1
+                0x00000000000808c4        0xd C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans4.ltrans.o
+ .rodata        0x00000000000808d1       0x14 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans4.ltrans.o
+ .rodata        0x00000000000808e5      0x100 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans5.ltrans.o
+                0x00000000000808e5                u8CRCTable.16686
+ .rodata.str1.1
+                0x00000000000809e5       0xc1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans6.ltrans.o
+                                         0xc8 (size before relaxing)
+ *fill*         0x0000000000080aa6        0x2 00
+ .rodata        0x0000000000080aa8       0x4c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+ .rodata.str1.1
+                0x0000000000080af4       0x88 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+ .rodata        0x0000000000080b7c       0x10 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+ .rodata        0x0000000000080b8c        0x6 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans9.ltrans.o
+                0x0000000000080b8c                aeXcvPhyEvtToScanEvt.5394.22177
+ .rodata.str1.1
+                0x0000000000080b92       0x11 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+ *fill*         0x0000000000080ba3        0x1 00
+ .rodata        0x0000000000080ba4       0x7c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+                0x0000000000080bd8                u32MacLow_TOCOS
+                0x0000000000080bdc                u32MacHigh_TOCOS
+ .rodata.str1.1
+                0x0000000000080c20       0x40 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+                                         0x43 (size before relaxing)
+ .rodata        0x0000000000080c60        0x5 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+ .rodata.str1.1
+                0x0000000000080c65       0x2c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans12.ltrans.o
+                                         0x33 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000080c91       0x90 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans13.ltrans.o
+                                         0xa0 (size before relaxing)
+ .rodata        0x0000000000080d21       0x16 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans13.ltrans.o
+                0x0000000000080d21                gbHighPowerMode
+                0x0000000000080d22                gu8ModuleID
+ *fill*         0x0000000000080d37        0x1 00
+ .rodata        0x0000000000080d38       0x1c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+                0x0000000000080d38                psTamXcvContext
+ .rodata        0x0000000000080d54        0xa C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans15.ltrans.o
+ .rodata.str1.1
+                0x0000000000080d5e       0x22 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+ .rodata        0x0000000000080d80       0x38 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+                0x0000000000080d80                asStateFuncTbl.12060
+ .rodata.str1.1
+                0x0000000000080db8      0x109 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+ .rodata.str1.1
+                0x0000000000080ec1      0x13e C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans19.ltrans.o
+                                        0x141 (size before relaxing)
+ *fill*         0x0000000000080fff        0x1 00
+ .rodata        0x0000000000081000      0x178 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans19.ltrans.o
+                0x0000000000081000                _ZL7asFuncs.7583
+ .rodata.str1.1
+                0x0000000000081178       0x6b C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans20.ltrans.o
+                                         0x76 (size before relaxing)
+ .rodata        0x00000000000811e3       0x9a C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans21.ltrans.o
+ .rodata.str1.1
+                0x0000000000000000       0x11 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans22.ltrans.o
+ .rodata.str1.1
+                0x000000000008127d      0x131 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans23.ltrans.o
+                                        0x13c (size before relaxing)
+ .rodata        0x00000000000813ae       0x31 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans25.ltrans.o
+ .rodata.str1.1
+                0x00000000000813df       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o
+ *fill*         0x00000000000813f1        0x7 00
+ .rodata        0x00000000000813f8       0x50 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o
+ .rodata.str1.1
+                0x0000000000081448       0xa1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans28.ltrans.o
+                                         0xc7 (size before relaxing)
+ *fill*         0x00000000000814e9        0x3 00
+ .rodata        0x00000000000814ec       0x64 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans28.ltrans.o
+                0x00000000000814ec                psIntr.14918
+                0x00000000000814f0                menu_string.15585
+ .rodata        0x0000000000081550       0x28 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans29.ltrans.o
+                0x0000000000081550                au32TimerBaseAddress
+                0x0000000000081564                CSWTCH.35.32513.32513
+ .rodata.str1.1
+                0x0000000000081578       0x1d C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans31.ltrans.o
+ *fill*         0x0000000000081595        0x3 00
+ .rodata        0x0000000000081598        0x8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans31.ltrans.o
+                0x0000000000081598                au32UartAddrOffset
+
+.text           0x00000000000815a0    0x1326c
+ *(.text*)
+ .text          0x00000000000815a0      0xa74 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+                0x00000000000815a0                _TWE_fputs
+                0x00000000000815bf                SerCmdBinary_Output.15762
+                0x0000000000081628                SerCmdBinary_u8Parse.15715
+                0x0000000000081730                SerCmdAscii_u8Parse.15647
+                0x0000000000081899                vOutputStream.15628
+                0x00000000000818a5                TWEINTCT_vProcessInputString_defmenus
+                0x00000000000818ce                TWEINTCT_vProcessInputString_settings
+                0x000000000008197b                _ZN3mwx2L110serial_jen7vOutputEcPv.local.345
+                0x0000000000081996                vHandlerPatch.13996
+                0x00000000000819cd                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vHwEventEPvmm.local.347
+                0x00000000000819d0                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE17_cbTweNet_u8HwIntEPvmm.local.346
+                0x00000000000819d5                _ZN3mwx2L114processev_crtpINS0_12BrdMonoStickEE14vProcessEvCoreEP8_tsEvent7teEventm.local.358
+                0x00000000000819d8                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vHwEventEPvmm.local.357
+                0x00000000000819db                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE17_cbTweNet_u8HwIntEPvmm.local.356
+                0x00000000000819e0                _ZN3mwx2L112StgsStandard7_serial5_readEPv.local.110
+                0x0000000000081a13                TWEINTCT_u32ProcessMenuEvent_hw(_TWEINTRCT_sContext*, unsigned long, unsigned long, unsigned long, void*)
+                0x0000000000081a18                TWEINTCT_vProcessInputString_hw(_TWEINTRCT_sContext*, _tsInpStr_Context*)
+                0x0000000000081a1b                _ZN3mwx2L112StgsStandard7_serial10_availableEPv.local.114
+                0x0000000000081a2e                mwx::L1::StgsStandard::_vProcessInputByte(_TWEINTRCT_sContext*, short)
+                0x0000000000081a66                _ZN3mwx2L114processev_crtpINS0_12StgsStandardEE14vProcessEvCoreEP8_tsEvent7teEventm.local.355
+                0x0000000000081a69                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vHwEventEPvmm.local.353
+                0x0000000000081a6c                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE17_cbTweNet_u8HwIntEPvmm.local.352
+                0x0000000000081a71                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.366
+                0x0000000000081a8b                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.367
+                0x0000000000081a9c                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE15_cbTweNet_vMainEPv.local.368
+                0x0000000000081a9f                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.369
+                0x0000000000081aa2                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.370
+                0x0000000000081aa5                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.371
+                0x0000000000081aa8                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.372
+                0x0000000000081aab                s_iConvBytesToDatum.15886
+                0x0000000000081b31                TWEINTRCT_u32MenuChange
+                0x0000000000081b6c                TWEINTRCT_bSetInteractive.part.1.14866
+                0x0000000000081b88                u8CCITT8
+                0x0000000000081bae                bAES_CCM_KeyReg
+                0x0000000000081bed                bFifoPush.12701
+                0x0000000000081c26                vAppQApiPostMlme.12687
+                0x0000000000081c45                vAppQApiPostMcps.12694
+                0x0000000000081c60                pvFifoPull.12698
+                0x0000000000081c87                psAppQApiGetMlmeBuffer.12684
+                0x0000000000081c8f                psAppQApiGetMcpsBuffer.12691
+                0x0000000000081c97                PRSEV_vSetState
+                0x0000000000081ca7                PRSEV_u8RegisterEx
+                0x0000000000081ce5                PRSEV_vProcessEv_core.11144
+                0x0000000000081d87                PRSEV_vProcessEvPost
+                0x0000000000081db9                _PRSEV_vProcessEvSingle
+                0x0000000000081dc6                ToCoNet_vMacStart
+                0x0000000000081dd3                mwx::L1::duplciate_checker::_node_ele_init(mwx::L1::duplciate_checker::_node_ele*)
+                0x0000000000081df2                _ZN3mwx2L113serial_parserINS0_10alloc_heapIhEEEC1Ev.local.140
+                0x0000000000081e14                _ZN3mwx2L16twenetC1Ev.local.144
+                0x0000000000081e9c                _ZN3mwx2L110serial_jenC1Eh.local.164
+                0x0000000000081ecc                _ZN3mwx2L115periph_analogueC1Ev.local.178
+                0x0000000000081ef7                _ZN3mwx2L112appdefs_virt8on_eventEmRm.local.186
+                0x0000000000081f09                _ZN3mwx2L112appdefs_virt18cbToCoNet_vTxEventERNS0_12packet_ev_txE.local.189
+                0x0000000000081f1b                _ZN3mwx2L112appdefs_virt19cbToCoNet_vNwkEventERNS0_13packet_ev_nwkE.local.191
+                0x0000000000081f2d                _ZN3mwx2L112appdefs_virt5setupEv.local.193
+                0x0000000000081f4b                _ZN3mwx2L18_smplbufIhNS0_11alloc_localIhLi256EEEE9push_backEOh.local.254
+                0x0000000000081f6a                _ZN3mwx2L18settings10find_by_idEh.local.337
+                0x0000000000081f9d                _ZN3mwx2L18settings12element_type9get_valueEv.local.339
+                0x0000000000081fb1                _ZN3mwx2L112StgsStandard7u8retryEv.local.329
+                0x0000000000081fd7                _ZN3mwx2L112StgsStandard9is_hiddenE14E_STGSTD_SETID.isra.23.2789
+ .text.unlikely
+                0x0000000000082014       0xf2 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+                0x0000000000082014                PRSEV_u8Register
+                0x0000000000082052                _PRSEV_vProcessEvSingleH
+                0x0000000000082062                _ZN3mwx2L112appdefs_virt18cbToCoNet_vRxEventERNS0_9packet_rxE.local.190
+                0x0000000000082074                mwx::L1::div100(long)
+                0x00000000000820b2                _ZN3mwx2L112_div10_shiftEl.local.203
+                0x00000000000820ed                _ZN3mwx2L110_div_chars10push_frontEc.local.204
+ *fill*         0x0000000000082106        0x2 00
+ .text          0x0000000000082108      0xba8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans1.ltrans.o
+                0x0000000000082108                eWBRTTxDone.21831
+                0x0000000000082126                vTAMCOframeTXgoingIdle
+                0x0000000000082140                vTAMCOframeTXcap
+                0x0000000000082166                eWCoRRxDone.21822
+                0x0000000000082210                eWBcnRxDone.21834
+                0x00000000000827fa                vTAMCOframeRXcap
+                0x000000000008280c                vTAMCOframeRXgoingIdle
+                0x0000000000082822                vTAMCOframeRXnobeacon
+                0x0000000000082834                vTAMDEframeRX
+                0x000000000008285d                vTAMDEframeRXtrackingDR
+                0x00000000000828a0                vTAMDEframePreSyncReq
+                0x00000000000828b8                vTAMCOframeTXbeacon
+                0x000000000008297f                vTAMDEframeRXsyncReq
+                0x0000000000082bcf                vTAMDEint1FiredTrackingCAPgts
+                0x0000000000082c82                eWONTTxDone.21828
+ .text          0x0000000000082cb0      0x7f8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans2.ltrans.o
+                0x0000000000082df2                vProcessEvCoreMac
+                0x0000000000082f97                setup()
+ .text          0x00000000000834a8      0xb2d C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans3.ltrans.o
+                0x00000000000834a8                vTACintRXheader
+                0x0000000000083ca3                vTAMCOreqTXinCAP
+                0x0000000000083cc9                vTrySendFromDirectCAP.24413
+                0x0000000000083ce6                vTrySendFromDirectNoBeacon.24417
+                0x0000000000083d13                vTAMCOint1Fired
+                0x0000000000083e2f                vTAMCOstartBeacon
+                0x0000000000083e6a                vStartStoreValues.24481
+                0x0000000000083f21                bStartCallback.24510
+                0x0000000000083f50                vTAMCOint1FiredCAP
+                0x0000000000083fc3                vTAMCOreqTXnoBeacon
+ .text          0x0000000000083fd5      0x9b0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans4.ltrans.o
+                0x0000000000083fd5                UART_vHandleUartInterrupt.14123
+                0x00000000000842aa                vXCV_IntHandlerPhy
+                0x000000000008435c                vScanHandleTimer.21431
+                0x0000000000084362                _ZN3mwx2L114processev_crtpINS0_9NwkSimpleEE14vProcessEvCoreEP8_tsEvent7teEventm.local.350
+                0x0000000000084415                vXCV_IntHandlerBbc
+                0x00000000000844b8                _ZL13s_appLoadDatahhh.6920
+                0x00000000000847c3                u32AHI_ReadIndexSectorBits.constprop.389
+                0x0000000000084824                vTAIsetCapTime
+                0x0000000000084845                vTAIsetRxEnableTime
+                0x0000000000084866                vDoGoActive.28122
+                0x0000000000084888                vTAMRXEint2Fired
+                0x00000000000848c0                _ZN3mwx2L115periph_analogue5setupEbhPFvvE.local.177.constprop.440
+                0x000000000008495a                _ZL5delaym.6925
+ .text          0x0000000000084985      0x95a C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans5.ltrans.o
+                0x0000000000084a17                vHnd_E_STATE_RUNNING.12036
+                0x0000000000084c61                SERIAL_vTxReady
+                0x0000000000084da7                vHnd_E_STATE_FINISH_TX_FAIL.12005
+                0x0000000000084e5d                vHnd_E_STATE_FINISH_TX_SUCCESS.12010
+                0x0000000000084eef                _ZN3mwx2L110serial_jen6_beginEv.part.22.4478
+                0x0000000000085174                TWESTG_cbu32SaveSetting.constprop.419
+                0x00000000000851c6                vTimerStart
+ .text          0x00000000000852df       0x2b C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans6.ltrans.o
+                0x00000000000852f2                _ZN3mwx2L16streamINS0_10serial_jenEElsERNS0_18MWX_Stream_EndLineE.isra.52.2936
+ .text.unlikely
+                0x000000000008530a      0x721 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans6.ltrans.o
+                0x000000000008530a                on_rx_packet(mwx::L1::packet_rx&, unsigned char&)
+ .text          0x0000000000085a2b      0xa52 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+                0x0000000000085a2b                mac_vLPBStartTimer
+                0x0000000000085d7e                vTimerCallback.32165
+                0x0000000000085df4                EEP_6x_bRW_core.33548
+                0x0000000000085f61                TWENVM_bErase
+                0x0000000000085f71                pvHeap_Alloc
+                0x0000000000085f73                operator new(unsigned long)
+                0x0000000000085f96                u32AHI_Init
+                0x0000000000086058                vMicroIntRestoreState
+                0x0000000000086064                vAHI_DoSetDataOut
+                0x0000000000086078                bAHI_DoEnableOutputs
+                0x00000000000860a1                u8AHI_WakeTimerFiredStatus
+                0x00000000000860b5                vAHI_WakeTimerStop.part.3.32845
+                0x00000000000860d5                mac_vLPBStopTimer
+                0x00000000000860df                vAHI_UartSetClocksPerBit.part.18.32641
+                0x0000000000086106                vAHI_UartSetRTSCTS.part.15.32626
+                0x000000000008612d                vAHI_UartReset.part.4.32599
+                0x0000000000086165                vAHI_UartSetControl.part.2.32583
+                0x00000000000861b6                vAHI_UartSetBaudDivisor.part.1.32579
+                0x00000000000861f5                vAHI_WatchdogStop
+                0x000000000008620c                vAHI_CpuDoze
+                0x000000000008621f                vAHI_SwReset
+                0x000000000008624f                _ZN3mwx2L120periph_pulse_counter10_on_wakeupEv.part.15.4459
+                0x00000000000862c5                u32AHI_DioWakeStatus
+                0x00000000000862d6                vAHI_DioWakeEdge
+                0x00000000000862f6                vAHI_DioSetPullup
+                0x0000000000086316                vAHI_DioSetOutput
+                0x00000000000863c5                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE15_cbTweNet_vMainEPv.local.318
+                0x0000000000086408                _ZN3mwx2L116periph_led_timer5beginEh.local.327
+                0x000000000008642b                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.325
+                0x000000000008644a                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.326
+                0x0000000000086469                vAHI_DioSetDirection
+ .text.unlikely
+                0x000000000008647d       0x11 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+                0x000000000008647d                vStartXtal32kExternalRc.32179
+ .text          0x000000000008648e      0xa27 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+                0x00000000000864a3                vExpireHead.31383
+                0x00000000000864d3                MWX_DebugMsg
+                0x0000000000086521                bAHI_SetClockRate
+                0x000000000008662c                bAES_CCM_DecodeKey
+                0x00000000000866e8                QUEUE__u8RemoveItem.part.1.14198
+                0x0000000000086723                QUEUE__vAddItem.constprop.515
+                0x0000000000086755                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.348
+                0x0000000000086e18                ToCoNet_ChMgr_vCh_TxFin
+                0x0000000000086e45                vHnd_E_STATE_WAIT_TX.12028
+ .text.unlikely
+                0x0000000000086eb5       0x45 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+                0x0000000000086eb5                vAHI_MemoryHold.32279
+ *fill*         0x0000000000086efa        0x2 00
+ .text          0x0000000000086efc      0xa84 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans9.ltrans.o
+                0x0000000000086efc                vPostDcfm.21818
+                0x0000000000086fd1                AppWarmStart
+                0x00000000000870a1                vSetNextChannel.21866
+                0x00000000000870fb                MAC_vHandleMlmeReqRsp
+                0x00000000000878a9                vTAMDEint1FiredTracking
+                0x0000000000087919                vTAMDEint1FiredSyncReq
+ .text          0x0000000000087980      0x53c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+                0x0000000000087980                AppColdStart
+ .text.unlikely
+                0x0000000000087ebc      0x43b C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+                0x0000000000087ebc                ToCoNet_vStart
+ *fill*         0x00000000000882f7        0x1 00
+ .text          0x00000000000882f8      0xae4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+                0x000000000008832c                vProcessEvCoreTx.11997
+                0x00000000000883b1                TWESTGS_VLD_u32ChList
+                0x00000000000884d2                vMicroIntEnableOnly.constprop.516
+                0x00000000000884fe                _ToCoNet_bRfChChannel
+                0x0000000000088593                ToCoNet_ChMgr_bCh_Reconfig
+                0x00000000000885fb                vHnd_E_STATE_IDLE.12020
+                0x000000000008865f                vAHI_ProtocolPower.constprop.505
+                0x000000000008866d                XCV_vCtor.constprop.503
+                0x00000000000887d2                pinMode(unsigned char, mwx::L1::enum_wapper<PIN_MODE::eMWX_DIO_MODE, unsigned char>)
+                0x0000000000088948                _ZN3mwx2L112BrdMonoStick6_setupEv.isra.46.2813
+                0x000000000008897e                _ZN3mwx2L16streamINS0_10serial_jenEElsEONS0_10mwx_formatE.local.28
+                0x00000000000889b2                _ZN3mwx2L16twenet5beginEv.local.169.constprop.474
+                0x00000000000889f7                vAHI_TimerEnable.part.1.32380.constprop.465
+                0x0000000000088a62                vAHI_SiMasterConfigure.constprop.451
+                0x0000000000088a96                _ZN3mwx2L115periph_analogue10_adc_startEv.local.125.constprop.437
+                0x0000000000088b7f                u8HwEventHandler.11354
+                0x0000000000088c24                mwx::L1::periph_analogue::ADC_handler(unsigned long, unsigned long)
+                0x0000000000088c6b                TWEINTRCT_vSerFootLine.constprop.418
+                0x0000000000088d0f                bAES_CCMstar
+ .text          0x0000000000088ddc      0x2ce C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans12.ltrans.o
+                0x0000000000088ddc                TWEINTCT_u32ProcessMenuEvent_settings
+                0x0000000000088e19                TWEINTCT_u32ProcessMenuEvent_defmenus
+                0x0000000000088e40                TWEINTCT_u32ProcessMenuEvent_nvmutils
+                0x0000000000088e67                TWEINTRCT_vSerHeadLine
+                0x0000000000088f91                mwx::L1::StgsStandard::_setup()
+                0x000000000008908e                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE9_on_eventEPvmRm.local.351
+ .text          0x00000000000890aa      0x94a C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans13.ltrans.o
+                0x00000000000890aa                SerCmdAscii_Output.15696
+                0x000000000008914b                vAppQApiPostHwIntT.12680
+                0x000000000008921e                TWETERM_iGetC.16386
+                0x0000000000089281                vRxChar.14021
+                0x00000000000892d2                TWE_fprintf
+                0x000000000008930f                MWX_Panic
+                0x000000000008937b                s_bDumpSector.15550
+                0x00000000000893f2                TWEINTCT_vProcessInputString_nvmutils
+                0x00000000000895e7                cbAppColdStart.part.31.4911
+                0x00000000000897ce                _ZN3mwx2L114periph_twowireILi32EE9busy_waitEv.isra.6.10810
+                0x0000000000089817                _ZN3mwx2L114periph_twowireILi32EE17beginTransmissionEh.local.27
+                0x000000000008984b                _ZN3mwx2L114periph_twowireILi32EE14cmd_tx_no_stopEv.isra.11.10816
+                0x000000000008986a                _ZN3mwx2L114periph_twowireILi32EE11cmd_tx_stopEv.isra.10.10814
+                0x0000000000089889                _ZN3mwx2L110serial_jen13_set_baudrateEt.isra.2.4432
+                0x000000000008993a                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
+                0x00000000000899ac                phy_ePibSet.part.1.23641
+ .text          0x00000000000899f4      0xa78 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+                0x00000000000899f4                vPMICassocReqTO_1.20255
+                0x0000000000089a7c                vTAM_MCPSdataRequest
+                0x0000000000089abf                bTACcheckPANconflict
+                0x0000000000089b78                vTAMDEstartSync
+                0x0000000000089bf7                eTAMselect
+                0x0000000000089d38                MAC_pvCtor
+                0x000000000008a153                u32AppApiDefInit
+                0x000000000008a208                _ToCoNet_vMacInit
+                0x000000000008a26e                vDeterminePowerState.25080
+                0x000000000008a2f2                vTAMDEint1FiredTrackingBeacon
+                0x000000000008a392                vTAMDEint2FiredTrackingDR
+                0x000000000008a3b7                vTAMDEframeTXtrackingDR
+                0x000000000008a410                vTAMDEint2FiredPollActive
+                0x000000000008a444                vTAMDEreqTXnullTrackingCAP
+                0x000000000008a45d                vTAM_TxRetryTimer
+ .text          0x000000000008a46c      0x9f3 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans15.ltrans.o
+                0x000000000008a5cc                bAES_CCM_EncodeKey
+                0x000000000008a679                bTAM_AES_CCMstarPatch
+                0x000000000008a7bd                bTAM_AES_CCMstarPatch2006
+                0x000000000008a8c4                vWriteFrame.26658
+                0x000000000008aa9c                bTATsendFrame
+                0x000000000008aaef                vTrySendUnslotted.24958
+                0x000000000008ab08                bSendDataRequest.24960
+                0x000000000008ac1a                bProcessBeaconRX.24963
+                0x000000000008aceb                _ZN3mwx2L110serial_jen10_on_wakeupEv.part.24.4509
+                0x000000000008ad65                _MWX_periph_init()
+ .text          0x000000000008ae5f      0xc07 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+                0x000000000008ae5f                TSV_eStart
+                0x000000000008af43                eTAStransmitRequest
+                0x000000000008b2de                TSV_eOpen
+                0x000000000008b2e6                vAppApiDefRestoreMacSettings
+                0x000000000008b3b7                vAppApiDefSaveMacSettings
+                0x000000000008b414                mac_vLPBSleep
+                0x000000000008b4d2                pvAppApiDefGetMacAddrLocation
+                0x000000000008b4db                eAppApiDefPlmeGet
+                0x000000000008b52d                eAppApiDefPlmeSet
+                0x000000000008b586                vAppApiDefMcpsRequest
+                0x000000000008b5b1                vHnd_E_STATE_PREPARE_TX.12015
+ .text          0x000000000008ba66      0x86b C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans17.ltrans.o
+                0x000000000008ba66                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE9_on_eventEPvmRm.local.320
+                0x000000000008bad4                TWESYSUTL_vWaitPoll
+                0x000000000008bb74                bAHI_ReadMACID
+                0x000000000008bbba                vMLMEbeaconNotify
+                0x000000000008bd18                vTAMRXEsetPhy
+                0x000000000008bddb                vTAHsetPhyState
+                0x000000000008be0b                vTAMCOint2Fired
+                0x000000000008be2b                vSetPHYfromMacValue.24956
+                0x000000000008be5d                vTAMDEint1FiredWaitDR
+                0x000000000008be6a                vTACsetPHYfromMacValue
+                0x000000000008be8b                vTAMRXEsetReceiveForPibChange
+                0x000000000008becb                vMCPSframeReceived
+                0x000000000008bf8e                ToCoNet_vInit
+ .text.unlikely
+                0x000000000008c2d1      0x190 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans17.ltrans.o
+                0x000000000008c34a                bStartXtal32k.32189
+                0x000000000008c452                u32AppQApiInitInt_PATCH
+ .text          0x000000000008c461      0x639 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+                0x000000000008c461                TWEINTCT_vProcessInputByte_settings
+                0x000000000008c9bc                TWEINTCT_vProcessInputByte_defmenus
+ .text.unlikely
+                0x000000000008ca9a       0xc6 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+                0x000000000008ca9a                _ZN3mwx2L16streamINS0_10serial_jenEElsEOKNS0_14div_result_i32E.local.295
+ .text          0x000000000008cb60      0x53e C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans19.ltrans.o
+                0x000000000008cb8c                TWEINTCT_vProcessInputByte_hw(_TWEINTRCT_sContext*, short)
+ .text          0x000000000008d09e      0x538 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans20.ltrans.o
+                0x000000000008d09e                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE15_cbTweNet_vMainEPv.local.354
+                0x000000000008d57d                TWEINTCT_vSerUpdateScreen_hw(_TWEINTRCT_sContext*)
+                0x000000000008d5d1                TWEINTCT_vSerUpdateScreen_settings
+ .text          0x000000000008d5d6      0xad4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans21.ltrans.o
+                0x000000000008d5d6                vAHI_IntHandlerAnalogPeriph
+                0x000000000008d5f6                vTTIBLETimerExpired
+                0x000000000008d601                vACI_CmdWaitBusy
+                0x000000000008d665                vACI_OptimisedCcmStar
+                0x000000000008d87d                vTAIdisableInterrupt
+                0x000000000008d896                vUpdateRegisters.31428
+                0x000000000008d8dd                psRemove.part.0.31378
+                0x000000000008d90c                vMAC_MISCpollConfirm
+                0x000000000008d93d                MAC_u8AclFindInfo
+                0x000000000008da67                vTASretrieveSecurity
+                0x000000000008da89                MAC_bLookUpKeyDescriptor.28930
+                0x000000000008db03                u8TSCframeIncrease
+                0x000000000008db3c                vTSCpostTransmitUpdate
+                0x000000000008db6c                vCopyToDataFromMacAddr.28840
+                0x000000000008db9f                bTSCgetOutgoingInfo
+                0x000000000008dca8                vDoGoOff.28120
+                0x000000000008dcc2                psTAQsearchFifo
+                0x000000000008dd0b                bTAQremoveFromFifo
+                0x000000000008dd48                vTTITransactionTimerExpired
+                0x000000000008dd71                vTAMinsertEvent
+                0x000000000008ddd7                vTTITimer2Expired
+                0x000000000008dddb                vTTITimer1Expired
+                0x000000000008dddf                vTAM_TxRetryTimeout
+                0x000000000008dde3                vTACsetTxFrameDefaults
+                0x000000000008de09                u8TACgetHeaderSize
+                0x000000000008de46                bUpdateTime.27158
+                0x000000000008de81                vTACbuildBeacon
+                0x000000000008e089                u32TACpayloadToU32M
+ .text          0x000000000008e0aa      0x85d C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans22.ltrans.o
+                0x000000000008e0aa                ToCoNet_vMain
+ *fill*         0x000000000008e907        0x1 00
+ .text          0x000000000008e908      0x658 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans23.ltrans.o
+                0x000000000008e908                TWEINTCT_vSerUpdateScreen_nvmutils
+                0x000000000008ea29                TWEINTCT_vSerUpdateScreen_defmenus
+                0x000000000008eb7c                s_TWEINTCT_vSerUpdateScreen_settings.14948
+ .text          0x000000000008ef60      0xbb4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o
+                0x000000000008ef60                _out_fct.16487
+                0x000000000008ef72                _out_null.16493
+                0x000000000008ef75                _out_buffer.16481
+                0x000000000008f00c                TWESTGS_VLD_u32String
+                0x000000000008f055                _out_rev.16499
+                0x000000000008f266                _ntoa_long_long.16535
+                0x000000000008f33d                _ntoa_long.16523
+                0x000000000008f412                _etoa.16581
+                0x000000000008f7cc                TWESTR_i32DecstrToNum
+                0x000000000008f81b                s_u32ElementsListAdd
+                0x000000000008f9a0                TWESTG_vSetUDatumFrUDatum
+                0x000000000008f9e9                TWESTGS_VLD_u32MinMax
+                0x000000000008fa6a                TWESTGS_VLD_u32AppId
+                0x000000000008fac1                TWESTG_u32GetU32FrUDatum
+ .text          0x000000000008fb14      0x79e C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans25.ltrans.o
+                0x000000000008fb14                mac_vLPBAdjustBeaconOffset
+                0x000000000008fb71                mac_u32LPBGetBeaconTimeout
+                0x000000000008fb7a                eWEnDTmrExpiry.21815
+                0x000000000008fb85                eWEnDEdDone.21812
+                0x000000000008fbe0                eGenlDontCare.21809
+                0x000000000008fbe5                eGenlIllegal.21434
+                0x000000000008fbec                u32GetTimer0
+                0x000000000008fbf3                vSetTimer0
+                0x000000000008fc02                _ZN3mwx2L111_printobj_2ImtE9_do_printEPvPFvcS3_ES3_.local.365
+                0x000000000008fc1a                _ZN3mwx2L111_printobj_1IiE9_do_printEPvPFvcS3_ES3_.local.364
+                0x000000000008fc2f                _ZN3mwx2L111_printobj_1ItE9_do_printEPvPFvcS3_ES3_.local.363
+                0x000000000008fc44                _ZN3mwx2L111_printobj_1ImE9_do_printEPvPFvcS3_ES3_.local.362
+                0x000000000008fc59                _ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_.local.361
+                0x000000000008fc71                _ZN3mwx2L111_printobj_2IhtE9_do_printEPvPFvcS3_ES3_.local.360
+                0x000000000008fc89                _ZN3mwx2L111_printobj_3IsssE9_do_printEPvPFvcS3_ES3_.local.359
+                0x000000000008fcb3                _ZN3mwx2L111_printobj_2IiiE9_do_printEPvPFvcS3_ES3_.local.113
+                0x000000000008fccb                _ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_.local.112
+                0x000000000008fce0                vTACu32ToPayloadM
+                0x000000000008fcf8                bTACframeInProgress
+                0x000000000008fd22                bTACassessBeaconForPayload
+                0x000000000008fd73                bIsBbcSafeForTx
+                0x000000000008fda8                vTATwriteAclMaterialToHardware
+                0x000000000008fdcd                vTATsetBLE
+                0x000000000008fe04                vTATgetFramePayload
+                0x000000000008fe21                eTATreadTXstatus
+                0x000000000008fe67                vTAHsetPhyStateDirect.part.0.26299
+                0x000000000008fe83                vMEMreturn
+                0x000000000008fef4                vTACinformOriginator
+                0x000000000008ff16                pvMEMget
+                0x000000000008ff42                vTAMDEdetermineNullState
+                0x000000000008ff5c                vTAMCOupdatePendingList
+                0x000000000009002e                vTAMCOsetCoordinator
+                0x0000000000090054                vPhySetChannel
+                0x000000000009006d                eScanHandleEvt.part.0.21845
+                0x0000000000090096                mac_eDcfmIndPost
+                0x00000000000900b7                mac_psDcfmIndGetBuf
+                0x00000000000900d8                vMLMErxEnableConfirm
+                0x000000000009010a                vMLMEcommStatus
+                0x000000000009016d                vMLMEcommStatusFromFrame
+                0x00000000000901b1                vMLMEsyncLoss
+                0x00000000000901e4                vPMICpostFailedAssocDcfm
+                0x000000000009021c                vPMICassocReqTO_2.20262
+                0x0000000000090233                MAC_vPibSetPanId
+                0x000000000009024e                vHandleTofRequest.18368
+                0x0000000000090251                vAppApiDefSetPrbsSeed
+                0x0000000000090275                TWE_CRC8_u8CalcU32
+ .text          0x00000000000902b2      0xa27 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o
+                0x00000000000902b2                _ftoa.16561
+                0x0000000000090622                _vsnprintf
+                0x0000000000090c87                fctprintf
+                0x0000000000090cb1                snprintf_
+ *fill*         0x0000000000090cd9        0x3 00
+ .text          0x0000000000090cdc      0x784 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans27.ltrans.o
+                0x0000000000090cdc                eGenTmrExpiry.22127
+                0x0000000000090d1e                eWEDTEdDone.22130
+                0x0000000000090d42                TSV_eStop
+                0x0000000000090e00                bPMICdisassocReqSent.20251
+                0x0000000000090eba                MAC_vHandleMcpsReqRsp
+                0x0000000000090f47                bMCPSframeTXcomplete.22862
+                0x0000000000090f9c                bSendSyncLoss.27093
+                0x0000000000090fb4                bPollReqSent.30689
+                0x0000000000090fcc                bTASsendCommStatusInd
+                0x0000000000090fe1                bAssocRespSent.20247
+                0x0000000000090ff4                eTACprocessFrameTXcomplete
+                0x0000000000091171                vTAMCOframeTXnobeacon
+                0x0000000000091187                vTAMCOframeStarting
+                0x00000000000911a1                vTAMDEframeTXDEnull
+                0x00000000000911c4                vTAMDEframeTXtrackingCAPgts
+                0x00000000000911f0                bPMICassocReqSent.20243
+                0x0000000000091272                bPMICassocReqPollSent.20258
+                0x00000000000912c6                eWChCChanChgd.21842
+ .text          0x0000000000091460      0x221 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans28.ltrans.o
+                0x0000000000091460                TWEINTRCT_u32MenuOpKey
+                0x0000000000091515                TWEINTCT_vProcessInputByte_nvmutils
+ *fill*         0x0000000000091681        0x3 00
+ .text          0x0000000000091684      0x470 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans29.ltrans.o
+                0x0000000000091684                _ZN3mwx2L114periph_twowireILi32EE8_init_hwEb.isra.20.6990.constprop.420
+                0x00000000000916b5                vTimerConfig
+                0x00000000000918c1                cbAppWarmStart.part.28.4811
+ .text          0x0000000000091af4       0x34 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+                0x0000000000091af4                vAppApiDefMlmeRequest
+                0x0000000000091b1f                pvAppApiDefGetMacHandle
+ .text.unlikely
+                0x0000000000091b28      0x318 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+                0x0000000000091b45                vProcessIncomingHwEvent.11523
+ .text          0x0000000000091e40      0x3bf C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans31.ltrans.o
+                0x0000000000091e8b                vAHI_IntHandlerTickTimer
+                0x0000000000091ed2                SERIAL_bTxChar
+                0x0000000000091f83                TWETERM_iPutS.16378
+                0x0000000000091fa8                TWETERM_iPutC.16382
+                0x0000000000091fb9                TWETERM_vFlush.16355
+                0x0000000000092037                eGenRxHdrDone.21825
+                0x0000000000092047                _ZN3mwx2L110serial_jen5writeEi.local.31
+                0x0000000000092069                _ZN3mwx2L16streamINS0_10serial_jenEElsERNS0_18MWX_Stream_EndLineE.isra.8.7096
+                0x0000000000092081                _ZN3mwx2L16streamINS0_10serial_jenEE6_printEPKc.local.20
+                0x00000000000920a2                TWEINTRCT_cbu32GenericHandler
+ .text          0x00000000000921ff       0x25 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x00000000000921ff                memcmp
+ .text          0x0000000000092224       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                0x0000000000092224                strlen
+ *fill*         0x0000000000092236        0x2 00
+ .text          0x0000000000092238      0x204 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x0000000000092238                __udivsi3
+ .text          0x000000000009243c       0x30 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                0x000000000009243c                __divsi3
+ .text          0x000000000009246c      0x1b0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x000000000009246c                __umodsi3
+ .text          0x000000000009261c       0x24 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                0x000000000009261c                __modsi3
+ .text          0x0000000000092640       0x39 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+                0x0000000000092640                __fixunsdfsi
+ .text          0x0000000000092679      0x350 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                0x0000000000092679                __udivdi3
+ .text          0x00000000000929c9      0x312 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+                0x00000000000929c9                __umoddi3
+ .text          0x0000000000092cdb      0x682 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+                0x0000000000092cdb                __adddf3
+ *fill*         0x000000000009335d        0x3 00
+ .text          0x0000000000093360      0x5c8 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+                0x0000000000093360                __divdf3
+ .text          0x0000000000093928       0x7f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+                0x0000000000093928                __nedf2
+                0x0000000000093928                __eqdf2
+ .text          0x00000000000939a7       0xca c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+                0x00000000000939a7                __gedf2
+                0x00000000000939a7                __gtdf2
+ .text          0x0000000000093a71       0xcb c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+                0x0000000000093a71                __ledf2
+                0x0000000000093a71                __ltdf2
+ .text          0x0000000000093b3c      0x488 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+                0x0000000000093b3c                __muldf3
+ .text          0x0000000000093fc4      0x693 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+                0x0000000000093fc4                __subdf3
+ .text          0x0000000000094657       0x64 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+                0x0000000000094657                __fixdfsi
+ .text          0x00000000000946bb       0x61 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+                0x00000000000946bb                __floatsidf
+ .text          0x000000000009471c       0x4f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+                0x000000000009471c                __floatunsidf
+ .text          0x000000000009476b       0x27 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                0x000000000009476b                vAHI_InterruptSetPriority
+                0x0000000000094789                vAHI_InterruptSetActivePriorityLevel
+ .text.vMicroSyscall
+                0x0000000000094792       0x17 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x0000000000094792                vMicroSyscall
+ .text          0x00000000000947a9       0x19 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x00000000000947c2       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x00000000000947c2                memset
+ .text          0x00000000000947d4       0x38 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+                0x00000000000947d4                strncmp
+                0x000000000009480c                _flash_end = ABSOLUTE (.)
+
+.rela.dyn       0x000000000009480c        0x0
+ .rela.text     0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+ .rela.text.unlikely
+                0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+ .rela.rodata   0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+ .rela.data     0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+                0x000000000400004c                . = ORIGIN (ram)
+
+.data           0x000000000400004c       0x3c load address 0x000000000009480c
+                0x000000000400004c                _ram_data_start = ABSOLUTE (.)
+ *(.data*)
+ .data          0x000000000400004c       0x28 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans2.ltrans.o
+                0x000000000400004c                INTRCT_USER_APP_NAME
+                0x0000000004000050                INTRCT_USER_APP_ID
+                0x0000000004000054                SETSTD_CUST_COMMON
+ .data          0x0000000004000074        0x4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+                0x0000000004000074                u32HeapStart
+ .data.initinboot
+                0x0000000004000078        0x8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+ .data          0x0000000004000080        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans13.ltrans.o
+                0x0000000004000080                _toconet_tx_u8_init_queue_flag
+ .data          0x0000000004000081        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+ .data.initinboot
+                0x0000000004000082        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+                0x0000000004000082                gMAC_u8MaxBuffers
+ .data          0x0000000004000083        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+                0x0000000004000083                u8TxWkrNow.12138
+ .data          0x0000000004000084        0x2 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans22.ltrans.o
+ *(.data.*)
+                0x0000000004000088                . = ALIGN (0x4)
+ *fill*         0x0000000004000086        0x2 00
+                0x0000000004000088                _ram_data_end = ABSOLUTE (.)
+
+.bss            0x0000000004000088     0x182c load address 0x0000000000094848
+                0x0000000004000088                _bss_start = ABSOLUTE (.)
+ *(.bss*)
+ .bss           0x0000000004000088       0x40 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans1.ltrans.o
+                0x0000000004000088                g_sLP
+                0x00000000040000c4                g_pvMac
+ .bss.initinboot
+                0x00000000040000c8      0x1c0 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans1.ltrans.o
+                0x00000000040000c8                g_sMac
+ .bss           0x0000000004000288       0x34 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans2.ltrans.o
+                0x0000000004000288                Serial
+ .bss           0x00000000040002bc        0x8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans3.ltrans.o
+ .bss           0x00000000040002c4      0x138 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans4.ltrans.o
+                0x00000000040002c4                sAppHousekeeping
+                0x00000000040002dc                prApAppCallback.31919
+                0x00000000040002e0                bIntEnableFlag.31916
+ .bss           0x00000000040003fc       0x5c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans5.ltrans.o
+                0x00000000040003fc                TxWorker_u8Num.12095
+                0x0000000004000400                prUart1AppCallback.32820
+                0x0000000004000404                prUart0AppCallback.32819
+                0x0000000004000408                sOpt.14172
+ .bss           0x0000000004000458       0x10 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+ .bss.dontinitinboot
+                0x0000000004000468        0x4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+ .bss           0x000000000400046c       0x10 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+                0x000000000400046c                pvPostFunc.11225
+                0x0000000004000470                u32PostArg.11224
+                0x0000000004000474                evPost.11223
+ .bss           0x000000000400047c       0x8c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans9.ltrans.o
+                0x000000000400047c                _ZL5_vcbs.5053
+                0x000000000400048c                sToCoNet_AppContext
+                0x00000000040004a8                sToCoNet_Context
+                0x00000000040004f0                sAssocSecurity.20872
+                0x00000000040004fc                g_bJenieBackwardsCompatibilityMode
+ .bss           0x0000000004000508      0x284 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+                0x0000000004000508                u8AppId_Pkt_head.13869
+                0x000000000400050c                u32AppId.13866
+                0x0000000004000510                u32MyAddr.13868
+                0x0000000004000514                bRxQueue_Init.13867
+                0x0000000004000518                psRxQueueList.13865
+                0x000000000400052c                asEventHandler.11211
+                0x00000000040005cc                sEvVars
+                0x00000000040005e8                u32TickCount_ms
+                0x00000000040005ec                au8Txdatabuff_idx_sTxQueue
+                0x00000000040005f0                u8TxBuffSiz_sTxQueue
+                0x00000000040005f4                sTxdatabuff_sTxQueue
+                0x00000000040005f8                sTxQueue
+                0x0000000004000614                au8Rxdatabuff_idx_sRxQueue
+                0x0000000004000618                u8RxBuffSiz_sRxQueue
+                0x000000000400061c                sRxdatabuff_sRxQueue
+                0x0000000004000620                sRxQueue
+                0x000000000400063c                au8Rxdatabuff_idx_sRxQueueCmd
+                0x0000000004000640                u8RxBuffSiz_sRxQueueCmd
+                0x0000000004000644                sRxdatabuff_sRxQueueCmd
+                0x0000000004000648                sRxQueueCmd.11662
+                0x0000000004000664                sContext.13990
+                0x0000000004000690                the_twelite
+                0x0000000004000720                sToCoNet_Modules
+ .bss           0x000000000400078c        0x3 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+ *fill*         0x000000000400078f        0x1 00
+ .bss.dontinitinboot
+                0x0000000004000790        0x8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+ .bss           0x0000000004000798       0x34 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans12.ltrans.o
+                0x0000000004000798                _ZL6sFinal.7577
+                0x00000000040007c8                _psSerial
+ .bss           0x00000000040007cc      0x614 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans13.ltrans.o
+                0x00000000040007cc                prAppHwCallback.12925
+ .bss           0x0000000004000de0       0x10 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+                0x0000000004000de0                g_sXcv
+                0x0000000004000de4                prMcpsRequest.17255
+                0x0000000004000de8                prMlmeRequest.17254
+                0x0000000004000dec                prOriginalHandler.14000
+ .bss.initinboot
+                0x0000000004000df0        0x8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+                0x0000000004000df0                g_u32MacAddrLocation
+                0x0000000004000df4                prvUserTxStartedCallback
+ .bss           0x0000000004000df8        0x8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans15.ltrans.o
+ .bss.dontinitinboot
+                0x0000000004000e00        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans15.ltrans.o
+ *fill*         0x0000000004000e01        0x3 00
+ .bss           0x0000000004000e04       0x94 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+                0x0000000004000e04                sCh_Context.12557
+                0x0000000004000e08                the_vhw
+                0x0000000004000e2c                the_vnet
+                0x0000000004000e50                the_vapp
+                0x0000000004000e74                asTx.12094
+ .bss.initinboot
+                0x0000000004000e98        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+ *fill*         0x0000000004000e99        0x3 00
+ .bss           0x0000000004000e9c      0x71c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans17.ltrans.o
+                0x0000000004000e9c                prSpiAppCallback.32153
+                0x0000000004000ea0                prSiAppCallback.33366
+                0x0000000004000ea4                prAppMcpsCallback.12923
+                0x0000000004000ea8                prAppMlmeCallback.12924
+                0x0000000004000eac                bTxEventQueued.27988
+                0x0000000004000ead                u8TxEventStatus.27989
+                0x0000000004000eae                gbTimeOutFlag.32352
+ .bss.initinboot
+                0x00000000040015b8        0x4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans17.ltrans.o
+                0x00000000040015b8                prSysCtrlAppCallback.32356
+ .bss           0x00000000040015bc       0x10 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+                0x00000000040015bc                _ZL9u8AppSlot.7592
+                0x00000000040015bd                _ZL9u8AppKind.7593
+                0x00000000040015be                _ZL10u8MenuMode.7641
+                0x00000000040015c0                i_savct.15147
+                0x00000000040015c4                i_defct.15145
+                0x00000000040015c8                i_modct.15146
+ .bss           0x00000000040015cc       0x34 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans20.ltrans.o
+                0x00000000040015cc                pf_vProcessInputByte.14920
+                0x00000000040015d0                sSerInpStr.14917
+ .bss           0x0000000004001600        0x1 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans21.ltrans.o
+                0x0000000004001600                u8TAM_TxStatusOverride
+ *fill*         0x0000000004001601        0x3 00
+ .bss           0x0000000004001604       0x98 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans22.ltrans.o
+                0x0000000004001604                sMcpsIndQueue.12919
+                0x0000000004001614                sMcpsIndBufferQueue.12917
+                0x0000000004001624                sMlmeIndQueue.12920
+                0x0000000004001634                sMlmeIndBufferQueue.12918
+                0x0000000004001644                sHwIndQueue.12921
+                0x0000000004001654                sHwIndBufferQueue.12922
+                0x0000000004001664                _u32_INT_adc_comp
+                0x0000000004001668                _u32_INT_ticktimer
+                0x000000000400166c                the_vsettings
+                0x0000000004001690                _periph_availmap
+ .bss           0x000000000400169c        0x8 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans25.ltrans.o
+ .bss           0x00000000040016a4       0x14 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans27.ltrans.o
+                0x00000000040016a4                s_sTimerList
+                0x00000000040016b4                u8AssocResponsesInProgress.20871
+ .bss           0x00000000040016b8       0x48 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans28.ltrans.o
+                0x00000000040016b8                sSerCmd_P3.14916
+                0x00000000040016c4                sIntrct_Context.14919
+ .bss           0x0000000004001700       0x24 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans29.ltrans.o
+                0x0000000004001700                apfTimerAppCallback.32565
+                0x0000000004001714                prTickTimeAppCallback
+                0x0000000004001718                au16TimerSettings.32514
+ .bss           0x0000000004001724       0xf4 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+                0x0000000004001724                the_mac
+                0x0000000004001734                Timer4
+                0x000000000400173c                Timer3
+                0x0000000004001744                Timer2
+                0x000000000400174c                Timer1
+                0x0000000004001754                Timer0
+                0x000000000400175c                Analogue
+                0x0000000004001774                SPI
+                0x0000000004001778                Wire
+                0x00000000040017a8                SerialParser
+                0x00000000040017e4                Serial1
+                0x0000000004001804                Buttons
+                0x000000000400180c                PulseCounter1
+                0x0000000004001810                PulseCounter0
+ .bss           0x0000000004001818       0x5c C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans31.ltrans.o
+                0x0000000004001818                asUARTS.14165
+                0x0000000004001838                _SERIAL_bmTxIntEnabled
+                0x000000000400183c                asSerialPorts
+ .bss.dontinitinboot
+                0x0000000004001874       0x40 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000004001874                isr_handlers
+ *(.bss.*)
+ *(.scommon*)
+ *(.scommon.*)
+ *(COMMON)
+                0x00000000040018b4                . = ALIGN (0x4)
+                0x00000000040018b4                _bss_end = ABSOLUTE (.)
+
+.heap           0x00000000040018b4     0x1000 load address 0x0000000000096074
+                0x00000000040018b4                _heap_start = ABSOLUTE (.)
+                0x00000000040028b4                . = (. + _minimum_heap_size)
+ *fill*         0x00000000040018b4     0x1000 00
+
+.stack          0x0000000004007400      0xc00 load address 0x000000000009bbc0
+                0x0000000004007400                _heap_end = ABSOLUTE (.)
+                0x0000000004007400                _stack_low_water_mark = ABSOLUTE (.)
+                0x0000000004008000                . = (. + _stack_size)
+ *fill*         0x0000000004007400      0xc00 00
+
+.test           0x0000000000094848        0x1
+                0x0000000000094848        0x1 BYTE 0xff
+                0x000000000009480c                _flash_data_start = LOADADDR (.data)
+                0x000000000000003c                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
+                0x000000000000182c                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000014848                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000001001580                _app_ram_start = 0x1001580
+                0x0000000004000074                PROVIDE (_heap_location, u32HeapStart)
+                0x0000000004000074                PROVIDE (heap_location, u32HeapStart)
+                0x000000000008b2de                TSV_eOpenVector = TSV_eOpen
+                0x000000000008ae5f                TSV_eStartVector = TSV_eStart
+                0x0000000000090d42                TSV_eStopVector = TSV_eStop
+                0x0000000000091b1f                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
+                0x000000000008a153                u32AppApiInit = u32AppApiDefInit
+                0x0000000000091af4                vAppApiMlmeRequest = vAppApiDefMlmeRequest
+                0x000000000008b586                vAppApiMcpsRequest = vAppApiDefMcpsRequest
+                0x000000000008b52d                eAppApiPlmeSet = eAppApiDefPlmeSet
+                0x000000000008b4db                eAppApiPlmeGet = eAppApiDefPlmeGet
+                0x000000000008b4d2                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
+                0x000000000008b3b7                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
+                0x000000000008b2e6                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
+OUTPUT(objs_BLUE/software_BLUE_L1305_V0-1-0.elf elf32-ba)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans20.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans21.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans22.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans23.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans24.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans25.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans26.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans27.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans28.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans29.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans30.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccNyZ45a.ltrans31.ltrans.o
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .comment       0x0000000000000000       0x11 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+.debug_info     0x0000000000000000     0x35ee
+ .debug_info    0x0000000000000000       0xf3 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_info    0x00000000000000f3       0xc8 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_info    0x00000000000001bb       0xb7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_info    0x0000000000000272       0xb7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_info    0x0000000000000329       0xb7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_info    0x00000000000003e0       0xb7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_info    0x0000000000000497       0xd3 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_info    0x000000000000056a      0x648 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000bb2      0x69d c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_info    0x000000000000124f      0x4b2 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_info    0x0000000000001701      0x5c5 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_info    0x0000000000001cc6      0x1e7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_info    0x0000000000001ead      0x20b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_info    0x00000000000020b8      0x20b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_info    0x00000000000022c3      0x5c7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_info    0x000000000000288a      0x4b2 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_info    0x0000000000002d3c      0x1b7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_info    0x0000000000002ef3      0x1d6 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_info    0x00000000000030c9      0x1cb c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_info    0x0000000000003294       0xaa C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_info    0x000000000000333e      0x106 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000003444       0xd7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_info    0x000000000000351b       0xd3 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+.debug_abbrev   0x0000000000000000     0x122d
+ .debug_abbrev  0x0000000000000000       0x8e c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000008e       0x7f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x000000000000010d       0x14 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_abbrev  0x0000000000000121       0x14 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_abbrev  0x0000000000000135       0x14 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_abbrev  0x0000000000000149       0x14 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_abbrev  0x000000000000015d       0x60 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_abbrev  0x00000000000001bd      0x15d c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x000000000000031a      0x175 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x000000000000048f      0x133 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_abbrev  0x00000000000005c2      0x12f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_abbrev  0x00000000000006f1      0x128 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_abbrev  0x0000000000000819      0x137 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_abbrev  0x0000000000000950      0x139 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_abbrev  0x0000000000000a89      0x141 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_abbrev  0x0000000000000bca      0x133 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_abbrev  0x0000000000000cfd      0x12a c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x0000000000000e27      0x128 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_abbrev  0x0000000000000f4f      0x128 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_abbrev  0x0000000000001077       0x14 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_abbrev  0x000000000000108b       0xa4 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x000000000000112f       0x8e c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000000011bd       0x70 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+.debug_loc      0x0000000000000000     0x5a35
+ .debug_loc     0x0000000000000000       0x73 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000000073       0x3f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000000000000b2       0x48 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_loc     0x00000000000000fa      0xa7b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_loc     0x0000000000000b75      0x985 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_loc     0x00000000000014fa     0x10f3 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_loc     0x00000000000025ed     0x117e c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_loc     0x000000000000376b       0x83 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_loc     0x00000000000037ee      0x154 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_loc     0x0000000000003942       0xe6 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_loc     0x0000000000003a28      0xa0e c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_loc     0x0000000000004436     0x114e c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_loc     0x0000000000005584       0xa8 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_loc     0x000000000000562c      0x1be c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_loc     0x00000000000057ea      0x179 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_loc     0x0000000000005963       0x39 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x000000000000599c       0x3f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_loc     0x00000000000059db       0x5a c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+.debug_aranges  0x0000000000000000      0x2e0
+ .debug_aranges
+                0x0000000000000000       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000120       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_aranges
+                0x0000000000000140       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_aranges
+                0x0000000000000160       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_aranges
+                0x0000000000000180       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_aranges
+                0x0000000000000200       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x0000000000000220       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_aranges
+                0x0000000000000240       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_aranges
+                0x0000000000000260       0x20 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_aranges
+                0x0000000000000280       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+.debug_line     0x0000000000000000     0x2e6c
+ .debug_line    0x0000000000000000      0x15a c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_line    0x000000000000015a      0x134 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_line    0x000000000000028e      0x47b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_line    0x0000000000000709       0xbb c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_line    0x00000000000007c4      0x3c7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_line    0x0000000000000b8b       0xa3 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_line    0x0000000000000c2e       0x9f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_line    0x0000000000000ccd      0x1b7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000e84      0x1b7 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_line    0x000000000000103b      0x63d c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_line    0x0000000000001678      0x3b5 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_line    0x0000000000001a2d       0xf1 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_line    0x0000000000001b1e      0x15f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_line    0x0000000000001c7d      0x15f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_line    0x0000000000001ddc      0x269 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_line    0x0000000000002045      0x656 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_line    0x000000000000269b       0xc8 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_line    0x0000000000002763       0xbc c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_line    0x000000000000281f       0xbe c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_line    0x00000000000028dd      0x197 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_line    0x0000000000002a74      0x14e c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000002bc2      0x144 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_line    0x0000000000002d06      0x166 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+.debug_str      0x0000000000000000      0x758
+ .debug_str     0x0000000000000000       0x49 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                                        0x155 (size before relaxing)
+ .debug_str     0x0000000000000049       0x4f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                                        0x15b (size before relaxing)
+ .debug_str     0x0000000000000098       0xc5 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+                                        0x169 (size before relaxing)
+ .debug_str     0x000000000000015d       0x7b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                                        0x1d7 (size before relaxing)
+ .debug_str     0x00000000000001d8        0xa c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+                                        0x1d7 (size before relaxing)
+ .debug_str     0x00000000000001e2       0xc6 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+                                        0x1ba (size before relaxing)
+ .debug_str     0x00000000000002a8       0x7a c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+                                        0x1f9 (size before relaxing)
+ .debug_str     0x0000000000000322       0x3f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+                                        0x16e (size before relaxing)
+ .debug_str     0x0000000000000361       0x57 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+                                        0x186 (size before relaxing)
+ .debug_str     0x00000000000003b8       0x3f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+                                        0x186 (size before relaxing)
+ .debug_str     0x00000000000003f7       0x72 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+                                        0x1eb (size before relaxing)
+ .debug_str     0x0000000000000469       0x41 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+                                        0x1ba (size before relaxing)
+ .debug_str     0x00000000000004aa       0x4b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+                                        0x17f (size before relaxing)
+ .debug_str     0x00000000000004f5       0x54 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+                                        0x188 (size before relaxing)
+ .debug_str     0x0000000000000549       0x4b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+                                        0x185 (size before relaxing)
+ .debug_str     0x0000000000000594      0x130 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                                        0x169 (size before relaxing)
+ .debug_str     0x00000000000006c4       0x49 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                                        0x155 (size before relaxing)
+ .debug_str     0x000000000000070d       0x4b c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+                                        0x157 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x28c
+ .debug_frame   0x0000000000000000       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000020       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000040       0x2c c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x000000000000006c       0x30 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_frame   0x000000000000009c       0x34 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_frame   0x00000000000000d0       0x30 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_frame   0x0000000000000100       0x34 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_frame   0x0000000000000134       0x34 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_frame   0x0000000000000168       0x34 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_frame   0x000000000000019c       0x30 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_frame   0x00000000000001cc       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+ .debug_frame   0x00000000000001ec       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+ .debug_frame   0x000000000000020c       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+ .debug_frame   0x000000000000022c       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x000000000000024c       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_frame   0x000000000000026c       0x20 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+
+.debug_ranges   0x0000000000000000      0x558
+ .debug_ranges  0x0000000000000000       0xa0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000000000000a0       0x80 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000000120       0x80 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+ .debug_ranges  0x00000000000001a0       0xb0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+ .debug_ranges  0x0000000000000250       0x38 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+ .debug_ranges  0x0000000000000288       0x58 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+ .debug_ranges  0x00000000000002e0       0x40 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+ .debug_ranges  0x0000000000000320      0x1a8 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+ .debug_ranges  0x00000000000004c8       0x78 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+ .debug_ranges  0x0000000000000540       0x18 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
