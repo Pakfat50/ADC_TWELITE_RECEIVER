@@ -63,69 +63,35 @@ void loop() {
 }
 
 void on_rx_packet(packet_rx& rx, bool_t &handled) {
-	//Serial << ".. coming packet (" << int(millis()&0xffff) << ')' << mwx::crlf;
+	SensorData<FS3000_DATA_SIZE> FS3000SensorData(FS3000_TYPE_ID);
+	float fs3000Data = 0.0;
+	uint8_t byteData[FS3000SensorData.byteSize];
 
-	// output type1 (raw packet)
-	//   uint8_t  : 0x01
-	//   uint8_t  : src addr (LID)
-	//   uint32_t : src addr (long)
-	//   uint32_t : dst addr (LID/long)
-	//   uint8_t  : repeat count
-	//     total 11 bytes of header.
-	//     
-	//   N        : payload
-	if(0) { // this part is disabed.
-		serparser_attach pout;
-		pout.begin(PARSER::ASCII, rx.get_psRxDataApp()->auData, rx.get_psRxDataApp()->u8Len, rx.get_psRxDataApp()->u8Len);
-
-		Serial << "RAW PACKET -> ";
-		pout >> Serial;
-		Serial.flush();
+	smplbuf_u8<256> buf;
+	/*
+	pack_bytes(buf
+		, uint8_t(rx.get_addr_src_lid())		// *1:src addr (LID)
+		, uint8_t(0xCC)							// *2:cmd id (0xCC, fixed)
+		, uint8_t(rx.get_psRxDataApp()->u8Seq)	// *3:seqence number
+		, uint32_t(rx.get_addr_src_long())		// *4:src addr (long)
+		, uint32_t(rx.get_addr_dst())			// *5:dst addr
+		, uint8_t(rx.get_lqi())					// *6:LQI
+		, uint16_t(rx.get_length())				// *7:payload length
+		, rx.get_payload() 						// *8:payload
+			// , make_pair(rx.get_payload().begin() + 4, rx.get_payload().size() - 4)
+			//   note: if you want the part of payload, use make_pair().
+	);
+	*/
+	pack_bytes(buf, rx.get_payload() );
+	
+	for (int i = 0; i < FS3000SensorData.byteSize; i++){
+		byteData[i] = rx.get_payload()[i];
 	}
+	FS3000SensorData.getFloatData(byteData, &fs3000Data);
+	Serial << fs3000Data;
+	Serial << mwx::crlf;
+	Serial.flush();
 
-	// output type2 (generate ASCII FORMAT)
-	//  :0DCC3881025A17000000008D000F424154310F0D2F01D200940100006B39
-	//   *1*2*3*4------*5------*6*7--*8
-	if (1) {
-		SensorData<FS3000_DATA_SIZE> FS3000SensorData(FS3000_TYPE_ID);
-
-		smplbuf_u8<256> buf;
-		/*
-		pack_bytes(buf
-			, uint8_t(rx.get_addr_src_lid())		// *1:src addr (LID)
-			, uint8_t(0xCC)							// *2:cmd id (0xCC, fixed)
-			, uint8_t(rx.get_psRxDataApp()->u8Seq)	// *3:seqence number
-			, uint32_t(rx.get_addr_src_long())		// *4:src addr (long)
-			, uint32_t(rx.get_addr_dst())			// *5:dst addr
-			, uint8_t(rx.get_lqi())					// *6:LQI
-			, uint16_t(rx.get_length())				// *7:payload length
-			, rx.get_payload() 						// *8:payload
-				// , make_pair(rx.get_payload().begin() + 4, rx.get_payload().size() - 4)
-				//   note: if you want the part of payload, use make_pair().
-		);
-		*/
-		pack_bytes(buf
-			, rx.get_payload()						// *8:payload
-				// , make_pair(rx.get_payload().begin() + 4, rx.get_payload().size() - 4)
-				//   note: if you want the part of payload, use make_pair().
-		);
-		float fs3000Data = 0.0;
-		uint8_t byteData[FS3000SensorData.byteSize];
-		for (int i = 0; i < FS3000SensorData.byteSize; i++){
-			byteData[i] = rx.get_payload()[i];
-		}
-		FS3000SensorData.getFloatData(byteData, &fs3000Data);
-		serparser_attach pout;
-		pout.begin(PARSER::ASCII, buf.begin(), buf.size(), buf.size());
-		
-		Serial << fs3000Data;
-		//pout >> Serial;
-		Serial << mwx::crlf;
-		Serial.flush();
-	}
-
-	// packet analyze
-	//analyze_payload(rx);
 }
 
 bool analyze_payload(packet_rx& rx) {

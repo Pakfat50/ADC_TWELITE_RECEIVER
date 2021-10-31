@@ -64,10 +64,6 @@ C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(t
                               objs_BLUE/settings/mwx_stgs_standard_core.o (symbol from plugin) (TWEINTCT_vSerUpdateScreen_nvmutils)
 C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweprintf.o)
                               objs_BLUE/mwx_debug.o (symbol from plugin) (TWE_fprintf)
-C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesercmd_ascii.o)
-                              objs_BLUE/receiver.o (symbol from plugin) (TWESERCMD_Ascii_vInit)
-C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesercmd_binary.o)
-                              objs_BLUE/receiver.o (symbol from plugin) (TWESERCMD_Binary_vInit)
 C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(twesercmd_plus3.o)
                               tweinteractive.o (symbol from plugin) (TWESERCMD_Plus3_u8Parse)
 C:/Users/hirar/Documents/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_BLUE.a(tweserial.o)
@@ -233,51 +229,51 @@ c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-e
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
                               objs_BLUE/receiver.o (symbol from plugin) (strncmp)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans4.ltrans.o (memcmp)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans1.ltrans.o (memcmp)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o (strlen)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o (strlen)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o (__udivsi3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__udivsi3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o (__divsi3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o (__divsi3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__umodsi3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__umodsi3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o (__modsi3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o (__modsi3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o (__fixunsdfsi)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o (__fixunsdfsi)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__udivdi3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__udivdi3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__umoddi3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__umoddi3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gesf2.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o (__gtsf2)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o (__gtsf2)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(lesf2.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o (__ltsf2)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o (__ltsf2)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(unordsf2.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o (__unordsf2)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o (__unordsf2)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__adddf3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__adddf3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__divdf3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__divdf3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__nedf2)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__nedf2)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__gedf2)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__gedf2)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o (__ledf2)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o (__ledf2)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__muldf3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__muldf3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__subdf3)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__subdf3)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__fixdfsi)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__fixdfsi)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o (__floatsidf)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o (__floatsidf)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o (__floatunsidf)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o (__floatunsidf)
 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(extendsfdf2.o)
-                              C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o (__extendsfdf2)
+                              C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o (__extendsfdf2)
 
 Allocating common symbols
 Common symbol       size              file
@@ -295,6 +291,8 @@ _TWENET_TX_POWER_VALUE
                     0x1               AppStart.o (symbol from plugin)
 g_tSpiConfiguration
                     0x4               AHI_Flash.o (symbol from plugin)
+u8TAM_TxStatusOverride
+                    0x1               TAMevent.o (symbol from plugin)
 prMAC_TofRxHandler  0x4               TAMcommon.o (symbol from plugin)
 _MAC_u8TxFailReason
                     0x1               mac.o (symbol from plugin)
@@ -315,43 +313,37 @@ EEPROM_6X_SEGMENT_SIZE
 Discarded input sections
 
  .text          0x0000000000000000        0x0 objs_BLUE/sensors/legacy/SMBus.o (symbol from plugin)
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
- .bss           0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans1.ltrans.o
- .rodata        0x0000000000000000       0x14 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans1.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans4.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans7.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans9.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans10.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans11.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans13.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans14.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans16.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans16.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans18.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans20.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans22.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans22.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans25.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
- .text.exit     0x0000000000000000        0x3 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
- .text.startup  0x0000000000000000       0xfe C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
- .ctors         0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans28.ltrans.o
- .rodata        0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans28.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans29.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans30.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans31.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans31.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans18.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans18.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans23.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans23.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans25.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+ .text.exit     0x0000000000000000        0x3 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+ .text.startup  0x0000000000000000       0xfe C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+ .ctors         0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans27.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans27.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans28.ltrans.o
  .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .bss           0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .data          0x0000000000000000        0x0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
@@ -548,8 +540,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 tweinteractive_defmenus.o (symbol from plugin)
  .text          0x0000000000000000        0x0 tweinteractive_nvmutils.o (symbol from plugin)
  .text          0x0000000000000000        0x0 tweprintf.o (symbol from plugin)
- .text          0x0000000000000000        0x0 twesercmd_ascii.o (symbol from plugin)
- .text          0x0000000000000000        0x0 twesercmd_binary.o (symbol from plugin)
  .text          0x0000000000000000        0x0 twesercmd_plus3.o (symbol from plugin)
  .text          0x0000000000000000        0x0 tweserial.o (symbol from plugin)
  .text          0x0000000000000000        0x0 twesettings.o (symbol from plugin)
@@ -661,38 +651,35 @@ ram              0x000000000400004c 0x0000000000007fb4
 Linker script and memory map
 
 LOAD objs_BLUE/sensors/legacy/SMBus.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans1.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans4.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans6.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans7.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans9.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans10.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans11.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans13.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans14.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans16.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans18.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans19.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans20.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans21.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans22.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans25.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans28.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans29.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans30.ltrans.o
-LOAD C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans31.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans1.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans3.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans6.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans8.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans9.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans10.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans11.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans12.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans14.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans15.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans18.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans19.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans21.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans22.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans23.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans25.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans27.ltrans.o
+LOAD C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans28.ltrans.o
 LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
 LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
 LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
@@ -790,14 +777,14 @@ LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc
                 0x000000000008001c        0x2 SHORT 0x0
                 0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
                 0x0000000000080020                _enc_start = ABSOLUTE (.)
-                0x0000000000080020        0x4 LONG 0x14164 ABSOLUTE (_image_len)
-                0x0000000000080024        0x4 LONG 0x94128 ABSOLUTE (_flash_data_start)
+                0x0000000000080020        0x4 LONG 0x13da0 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x93d60 ABSOLUTE (_flash_data_start)
                 0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
-                0x000000000008002a        0x2 SHORT 0xf ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
-                0x000000000008002c        0x2 SHORT 0x22 ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
-                0x000000000008002e        0x2 SHORT 0x60b ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
-                0x0000000000080030        0x4 LONG 0x88854 ABSOLUTE (AppWarmStart)
-                0x0000000000080034        0x4 LONG 0x89204 ABSOLUTE (AppColdStart)
+                0x000000000008002a        0x2 SHORT 0x10 ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
+                0x000000000008002c        0x2 SHORT 0x23 ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
+                0x000000000008002e        0x2 SHORT 0x60a ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x89fc8 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x8a978 ABSOLUTE (AppColdStart)
                 0x0000000000000000                _enc_offset = (_enc_start & 0xf)
                 0x0000000000000044                PROVIDE (vException_BusError, restore_state)
                 0x0000000000000044                PROVIDE (vException_UnalignedAccess, restore_state)
@@ -821,804 +808,784 @@ LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc
                 0x0000000000080050                _exception_external_interrupt
                 0x00000000000800f8                _default_vsr_dummy
 
-.rodata         0x0000000000080100     0x13cc
+.rodata         0x0000000000080100     0x13bc
  *(.rodata*)
- .rodata        0x0000000000080100      0x117 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
  .rodata.str1.1
-                0x0000000000080217       0x1a C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
+                0x0000000000080100       0x1a C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
                                          0x1d (size before relaxing)
- *fill*         0x0000000000080231        0x3 00
- .rodata        0x0000000000080234       0x1c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
-                0x0000000000080234                psTamXcvContext
+ .rodata        0x000000000008011a      0x100 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+ .rodata        0x000000000008021a       0x9a C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans1.ltrans.o
+ .rodata        0x00000000000802b4       0x1c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
+                0x00000000000802b4                psTamXcvContext
+ .rodata        0x00000000000802d0       0xd4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans3.ltrans.o
+                0x00000000000802d0                s_aprScanHandleEvt.21685
+                0x0000000000080300                apvActionCalls
+                0x0000000000080388                aprLPBMacVectorRamTable
+                0x000000000008039c                psTamMacContext
+                0x00000000000803a0                psTAMcontext
  .rodata.str1.1
-                0x0000000000080250       0x88 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
- .rodata        0x00000000000802d8       0x10 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
- .rodata        0x00000000000802e8        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans4.ltrans.o
+                0x00000000000803a4       0x88 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+ .rodata        0x000000000008042c       0x10 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+ .rodata        0x000000000008043c        0xc C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
+ .rodata        0x0000000000080448        0x4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans6.ltrans.o
  .rodata.str1.1
-                0x00000000000802ec       0x22 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
- *fill*         0x000000000008030e        0x2 00
- .rodata        0x0000000000080310       0x38 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
-                0x0000000000080310                asStateFuncTbl.11745
+                0x000000000008044c       0x22 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+ *fill*         0x000000000008046e        0x2 00
+ .rodata        0x0000000000080470       0x38 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+                0x0000000000080470                asStateFuncTbl.11708
+ .rodata        0x00000000000804a8      0x100 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans8.ltrans.o
+                0x00000000000804a8                u8CRCTable.16197
  .rodata.str1.1
-                0x0000000000080348       0x14 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans6.ltrans.o
-                                         0x16 (size before relaxing)
- .rodata        0x000000000008035c        0x5 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans6.ltrans.o
-                0x000000000008035c                gbHighPowerMode
-                0x000000000008035d                gu8ModuleID
- .rodata        0x0000000000080361      0x100 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans7.ltrans.o
-                0x0000000000080361                u8CRCTable.16371
- *fill*         0x0000000000080461        0x3 00
- .rodata        0x0000000000080464       0x4c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
- .rodata        0x00000000000804b0        0xa C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans9.ltrans.o
+                0x00000000000805a8        0xd C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans9.ltrans.o
+ .rodata        0x00000000000805b5        0xa C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans10.ltrans.o
  .rodata.str1.1
-                0x00000000000804ba      0x19d C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans10.ltrans.o
- .rodata        0x0000000000080657       0x61 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans10.ltrans.o
-                0x0000000000080657                menu_string.15270
-                0x00000000000806b7                _ZL14u8SetSlotCount.7327
- .rodata        0x00000000000806b8        0x6 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans11.ltrans.o
-                0x00000000000806b8                aeXcvPhyEvtToScanEvt.5394.21862
+                0x00000000000805bf      0x19d C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans11.ltrans.o
+ .rodata        0x000000000008075c       0x61 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans11.ltrans.o
+                0x000000000008075c                menu_string.15233
+                0x00000000000807bc                _ZL14u8SetSlotCount.7290
+ .rodata        0x00000000000807bd        0x6 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans12.ltrans.o
+                0x00000000000807bd                aeXcvPhyEvtToScanEvt.5394.21688
  .rodata.str1.1
-                0x00000000000806be       0x11 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
- *fill*         0x00000000000806cf        0x1 00
- .rodata        0x00000000000806d0       0x7c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
-                0x0000000000080704                u32MacLow_TOCOS
-                0x0000000000080708                u32MacHigh_TOCOS
+                0x00000000000807c3       0x11 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+ .rodata        0x00000000000807d4       0x7c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+                0x0000000000080808                u32MacLow_TOCOS
+                0x000000000008080c                u32MacHigh_TOCOS
  .rodata.str1.1
-                0x000000000008074c       0x28 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans13.ltrans.o
+                0x0000000000080850       0x90 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans14.ltrans.o
+                                         0xa0 (size before relaxing)
+ .rodata        0x00000000000808e0        0x5 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans14.ltrans.o
+                0x00000000000808e0                gbHighPowerMode
+                0x00000000000808e1                gu8ModuleID
+ .rodata.str1.1
+                0x00000000000808e5       0x28 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans15.ltrans.o
                                          0x33 (size before relaxing)
  .rodata.str1.1
-                0x0000000000080774       0x7c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans14.ltrans.o
-                                         0x8a (size before relaxing)
- .rodata        0x00000000000807f0       0x11 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans14.ltrans.o
- .rodata.str1.1
-                0x0000000000080801       0x40 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
+                0x000000000008090d       0x40 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
                                          0x43 (size before relaxing)
- .rodata        0x0000000000080841        0x5 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
+ .rodata        0x000000000008094d       0x45 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+ .rodata        0x0000000000080992       0x14 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
  .rodata.str1.1
-                0x0000000000080846      0x13e C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans16.ltrans.o
+                0x00000000000809a6      0x13e C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans18.ltrans.o
                                         0x141 (size before relaxing)
- .rodata        0x0000000000080984      0x178 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans16.ltrans.o
-                0x0000000000080984                _ZL7asFuncs.7268
+ .rodata        0x0000000000080ae4      0x178 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans18.ltrans.o
+                0x0000000000080ae4                _ZL7asFuncs.7231
  .rodata.str1.1
-                0x0000000000080afc        0xd C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
- .rodata        0x0000000000080b09       0x14 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
- .rodata.str1.1
-                0x0000000000080b1d       0x6b C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans18.ltrans.o
+                0x0000000000080c5c       0x6b C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans19.ltrans.o
                                          0x76 (size before relaxing)
  .rodata.str1.1
-                0x0000000000080b88      0x2bc C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans19.ltrans.o
+                0x0000000000080cc7       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o
+ *fill*         0x0000000000080cd9        0x7 00
+ .rodata        0x0000000000080ce0       0x88 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o
+ .rodata.str1.1
+                0x0000000000080d68      0x2bc C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans21.ltrans.o
                                         0x2bd (size before relaxing)
- .rodata        0x0000000000080e44      0x2fc C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans19.ltrans.o
-                0x0000000000080e44                _ZL8pSetList.7273
-                0x0000000000080e48                _ZL14SetList_SINGLE.7274
- .rodata        0x0000000000081140       0x9a C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans20.ltrans.o
+ .rodata        0x0000000000081024      0x2fc C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans21.ltrans.o
+                0x0000000000081024                _ZL8pSetList.7236
+                0x0000000000081028                _ZL14SetList_SINGLE.7237
  .rodata.str1.1
-                0x0000000000000000       0x11 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans21.ltrans.o
+                0x0000000000000000       0x11 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans22.ltrans.o
  .rodata.str1.1
-                0x00000000000811da      0x131 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans22.ltrans.o
+                0x0000000000081320      0x131 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans23.ltrans.o
                                         0x13c (size before relaxing)
  .rodata.str1.1
-                0x000000000008130b        0x5 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
- .rodata        0x0000000000081310       0x28 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
-                0x0000000000081310                au32TimerBaseAddress
-                0x0000000000081324                CSWTCH.35.32198.32198
- .rodata        0x0000000000081338       0x31 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans25.ltrans.o
+                0x0000000000081451        0x5 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+ *fill*         0x0000000000081456        0x2 00
+ .rodata        0x0000000000081458       0x28 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+                0x0000000000081458                au32TimerBaseAddress
+                0x000000000008146c                CSWTCH.35.32024.32024
  .rodata.str1.1
-                0x0000000000081369       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o
- *fill*         0x000000000008137b        0x5 00
- .rodata        0x0000000000081380       0x50 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o
- .rodata.str1.1
-                0x00000000000813d0       0x15 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans28.ltrans.o
+                0x0000000000081480       0x15 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans27.ltrans.o
                                          0x33 (size before relaxing)
  .rodata.str1.1
-                0x00000000000813e5       0x1d C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans30.ltrans.o
- *fill*         0x0000000000081402        0x2 00
- .rodata        0x0000000000081404        0x8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans30.ltrans.o
-                0x0000000000081404                au32UartAddrOffset
- .rodata        0x000000000008140c       0xc0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans31.ltrans.o
-                0x000000000008140c                apvActionCalls
-                0x0000000000081494                s_aprScanHandleEvt.21859
-                0x00000000000814c4                psTamMacContext
-                0x00000000000814c8                psTAMcontext
+                0x0000000000081495       0x1d C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans28.ltrans.o
+ *fill*         0x00000000000814b2        0x2 00
+ .rodata        0x00000000000814b4        0x8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans28.ltrans.o
+                0x00000000000814b4                au32UartAddrOffset
 
-.text           0x00000000000814cc    0x12c5b
+.text           0x00000000000814bc    0x128a3
  *(.text*)
- .text          0x00000000000814cc      0xa54 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
-                0x00000000000814cc                _TWE_fputs
-                0x00000000000814eb                SerCmdBinary_Output.15447
-                0x0000000000081554                SerCmdBinary_u8Parse.15400
-                0x000000000008165c                SerCmdAscii_u8Parse.15332
-                0x00000000000817c5                vOutputStream.15313
-                0x00000000000817d1                TWEINTCT_vProcessInputString_defmenus
-                0x00000000000817fa                TWEINTCT_vProcessInputString_settings
-                0x00000000000818a7                _ZN3mwx2L110serial_jen7vOutputEcPv.local.330
-                0x00000000000818c2                vHandlerPatch.13681
-                0x00000000000818f9                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vHwEventEPvmm.local.332
-                0x00000000000818fc                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE17_cbTweNet_u8HwIntEPvmm.local.331
-                0x0000000000081901                _ZN3mwx2L114processev_crtpINS0_12BrdMonoStickEE14vProcessEvCoreEP8_tsEvent7teEventm.local.343
-                0x0000000000081904                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vHwEventEPvmm.local.342
-                0x0000000000081907                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE17_cbTweNet_u8HwIntEPvmm.local.341
-                0x000000000008190c                _ZN3mwx2L112StgsStandard7_serial5_readEPv.local.110
-                0x000000000008193f                TWEINTCT_u32ProcessMenuEvent_hw(_TWEINTRCT_sContext*, unsigned long, unsigned long, unsigned long, void*)
-                0x0000000000081944                TWEINTCT_vProcessInputString_hw(_TWEINTRCT_sContext*, _tsInpStr_Context*)
-                0x0000000000081947                _ZN3mwx2L112StgsStandard7_serial10_availableEPv.local.114
-                0x000000000008195a                mwx::L1::StgsStandard::_vProcessInputByte(_TWEINTRCT_sContext*, short)
-                0x0000000000081992                _ZN3mwx2L114processev_crtpINS0_12StgsStandardEE14vProcessEvCoreEP8_tsEvent7teEventm.local.340
-                0x0000000000081995                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vHwEventEPvmm.local.338
-                0x0000000000081998                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE17_cbTweNet_u8HwIntEPvmm.local.337
-                0x000000000008199d                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.351
-                0x00000000000819b7                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.352
-                0x00000000000819c8                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE15_cbTweNet_vMainEPv.local.353
-                0x00000000000819cb                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.354
-                0x00000000000819ce                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.355
-                0x00000000000819d1                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.356
-                0x00000000000819d4                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.357
-                0x00000000000819d7                s_iConvBytesToDatum.15571
-                0x0000000000081a5d                TWEINTRCT_u32MenuChange
-                0x0000000000081a98                TWEINTRCT_bSetInteractive.part.1.14551
-                0x0000000000081ab4                u8CCITT8
-                0x0000000000081ada                bAES_CCM_KeyReg
-                0x0000000000081b19                bFifoPush.12386
-                0x0000000000081b52                vAppQApiPostMlme.12372
-                0x0000000000081b71                vAppQApiPostMcps.12379
-                0x0000000000081b8c                pvFifoPull.12383
-                0x0000000000081bb3                psAppQApiGetMlmeBuffer.12369
-                0x0000000000081bbb                psAppQApiGetMcpsBuffer.12376
-                0x0000000000081bc3                PRSEV_vSetState
-                0x0000000000081bd3                PRSEV_u8RegisterEx
-                0x0000000000081c11                PRSEV_vProcessEv_core.10829
-                0x0000000000081cb3                PRSEV_vProcessEvPost
-                0x0000000000081ce5                _PRSEV_vProcessEvSingle
-                0x0000000000081cf2                ToCoNet_vMacStart
-                0x0000000000081cff                mwx::L1::duplciate_checker::_node_ele_init(mwx::L1::duplciate_checker::_node_ele*)
-                0x0000000000081d1e                _ZN3mwx2L113serial_parserINS0_10alloc_heapIhEEEC1Ev.local.140
-                0x0000000000081d40                _ZN3mwx2L16twenetC1Ev.local.144
-                0x0000000000081dc8                _ZN3mwx2L110serial_jenC1Eh.local.164
-                0x0000000000081df8                _ZN3mwx2L115periph_analogueC1Ev.local.178
-                0x0000000000081e23                _ZN3mwx2L112appdefs_virt8on_eventEmRm.local.186
-                0x0000000000081e35                _ZN3mwx2L112appdefs_virt18cbToCoNet_vTxEventERNS0_12packet_ev_txE.local.189
-                0x0000000000081e47                _ZN3mwx2L112appdefs_virt19cbToCoNet_vNwkEventERNS0_13packet_ev_nwkE.local.191
-                0x0000000000081e59                _ZN3mwx2L112appdefs_virt5setupEv.local.193
-                0x0000000000081e77                _ZN3mwx2L18settings10find_by_idEh.local.323
-                0x0000000000081eaa                _ZN3mwx2L18settings12element_type9get_valueEv.local.325
-                0x0000000000081ebe                _ZN3mwx2L112StgsStandard7u8retryEv.local.315
-                0x0000000000081ee4                _ZN3mwx2L112StgsStandard9is_hiddenE14E_STGSTD_SETID.isra.23.2575
+ .text          0x00000000000814bc     0x1334 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+                0x00000000000814bc                _out_fct.15998
+                0x00000000000814ce                _out_null.16004
+                0x00000000000814d1                _out_buffer.15992
+                0x0000000000081568                _TWE_fputs
+                0x0000000000081587                vOutputStream.15276
+                0x0000000000081593                TWEINTCT_vProcessInputString_defmenus
+                0x00000000000815bc                TWEINTCT_vProcessInputString_settings
+                0x0000000000081669                _ZN3mwx2L110serial_jen7vOutputEcPv.local.326
+                0x0000000000081684                vHandlerPatch.13644
+                0x00000000000816bb                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vHwEventEPvmm.local.328
+                0x00000000000816be                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE17_cbTweNet_u8HwIntEPvmm.local.327
+                0x00000000000816c3                _ZN3mwx2L114processev_crtpINS0_12BrdMonoStickEE14vProcessEvCoreEP8_tsEvent7teEventm.local.339
+                0x00000000000816c6                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vHwEventEPvmm.local.338
+                0x00000000000816c9                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE17_cbTweNet_u8HwIntEPvmm.local.337
+                0x00000000000816ce                _ZN3mwx2L112StgsStandard7_serial5_readEPv.local.110
+                0x0000000000081701                TWEINTCT_u32ProcessMenuEvent_hw(_TWEINTRCT_sContext*, unsigned long, unsigned long, unsigned long, void*)
+                0x0000000000081706                TWEINTCT_vProcessInputString_hw(_TWEINTRCT_sContext*, _tsInpStr_Context*)
+                0x0000000000081709                _ZN3mwx2L112StgsStandard7_serial10_availableEPv.local.114
+                0x000000000008171c                mwx::L1::StgsStandard::_vProcessInputByte(_TWEINTRCT_sContext*, short)
+                0x0000000000081754                _ZN3mwx2L114processev_crtpINS0_12StgsStandardEE14vProcessEvCoreEP8_tsEvent7teEventm.local.336
+                0x0000000000081757                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vHwEventEPvmm.local.334
+                0x000000000008175a                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE17_cbTweNet_u8HwIntEPvmm.local.333
+                0x000000000008175f                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.347
+                0x0000000000081779                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.348
+                0x000000000008178a                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE15_cbTweNet_vMainEPv.local.349
+                0x000000000008178d                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.350
+                0x0000000000081790                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.351
+                0x0000000000081793                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.352
+                0x0000000000081796                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE19_cbTweNet_vNwkEventEPvRNS0_13packet_ev_nwkE.local.353
+                0x0000000000081799                TWESTGS_VLD_u32String
+                0x00000000000817e2                _out_rev.16010
+                0x00000000000819f3                _ntoa_long_long.16046
+                0x0000000000081aca                _ntoa_long.16034
+                0x0000000000081b9f                _etoa.16092
+                0x0000000000081f5a                TWESTR_i32DecstrToNum
+                0x0000000000081fa9                TWESTG_vSetUDatumFrUDatum
+                0x0000000000081ff5                TWESTGS_VLD_u32MinMax
+                0x0000000000082076                TWESTGS_VLD_u32AppId
+                0x00000000000820cd                TWESTG_u32GetU32FrUDatum
+                0x0000000000082120                s_iConvBytesToDatum.15397
+                0x00000000000821a6                s_u32ElementsListAdd
+                0x000000000008232b                TWEINTRCT_u32MenuChange
+                0x0000000000082366                TWEINTRCT_bSetInteractive.part.1.14514
+                0x0000000000082382                u8CCITT8
+                0x00000000000823a8                bAES_CCM_KeyReg
+                0x00000000000823e7                bFifoPush.12349
+                0x0000000000082420                vAppQApiPostMlme.12335
+                0x000000000008243f                vAppQApiPostMcps.12342
+                0x000000000008245a                pvFifoPull.12346
+                0x0000000000082481                psAppQApiGetMlmeBuffer.12332
+                0x0000000000082489                psAppQApiGetMcpsBuffer.12339
+                0x0000000000082491                PRSEV_vSetState
+                0x00000000000824a1                PRSEV_u8RegisterEx
+                0x00000000000824df                PRSEV_vProcessEv_core.10792
+                0x0000000000082581                PRSEV_vProcessEvPost
+                0x00000000000825b3                _PRSEV_vProcessEvSingle
+                0x00000000000825c0                ToCoNet_vMacStart
+                0x00000000000825cd                mwx::L1::duplciate_checker::_node_ele_init(mwx::L1::duplciate_checker::_node_ele*)
+                0x00000000000825ec                _ZN3mwx2L113serial_parserINS0_10alloc_heapIhEEEC1Ev.local.140
+                0x000000000008260e                _ZN3mwx2L16twenetC1Ev.local.144
+                0x0000000000082696                _ZN3mwx2L110serial_jenC1Eh.local.164
+                0x00000000000826c6                _ZN3mwx2L115periph_analogueC1Ev.local.178
+                0x00000000000826f1                _ZN3mwx2L112appdefs_virt8on_eventEmRm.local.186
+                0x0000000000082703                _ZN3mwx2L112appdefs_virt18cbToCoNet_vTxEventERNS0_12packet_ev_txE.local.189
+                0x0000000000082715                _ZN3mwx2L112appdefs_virt19cbToCoNet_vNwkEventERNS0_13packet_ev_nwkE.local.191
+                0x0000000000082727                _ZN3mwx2L112appdefs_virt5setupEv.local.193
+                0x0000000000082745                _ZN3mwx2L18settings10find_by_idEh.local.319
+                0x0000000000082778                _ZN3mwx2L18settings12element_type9get_valueEv.local.321
+                0x000000000008278c                _ZN3mwx2L112StgsStandard7u8retryEv.local.311
+                0x00000000000827b2                _ZN3mwx2L112StgsStandard9is_hiddenE14E_STGSTD_SETID.isra.23.2568
  .text.unlikely
-                0x0000000000081f20       0x60 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
-                0x0000000000081f20                PRSEV_u8Register
-                0x0000000000081f5e                _PRSEV_vProcessEvSingleH
-                0x0000000000081f6e                _ZN3mwx2L112appdefs_virt18cbToCoNet_vRxEventERNS0_9packet_rxE.local.190
- *fill*         0x0000000000081f80        0x0 00
- .text          0x0000000000081f80      0xbb0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans1.ltrans.o
-                0x0000000000081f80                bPMICdisassocReqSent.19936
-                0x0000000000081ff7                eWCoRRxDone.21507
-                0x00000000000820a1                eWBcnRxDone.21519
-                0x0000000000082271                bTACprocessFrameRXcomplete
-                0x000000000008268e                vTAMCOframeTXbeacon
-                0x0000000000082755                vTAMDEframeRXsyncReq
-                0x00000000000829a5                vTAMDEint1FiredTrackingCAPgts
-                0x0000000000082a58                bPMICassocReqSent.19928
-                0x0000000000082ada                bPMICassocReqPollSent.19943
- .text          0x0000000000082b30      0xac0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
-                0x0000000000082b30                vPMICassocReqTO_1.19940
-                0x0000000000082bb8                vTAMDEstartSync
-                0x0000000000082c37                eTAMselect
-                0x0000000000082d78                MAC_pvCtor
-                0x0000000000083193                u32AppApiDefInit
-                0x0000000000083248                _ToCoNet_vMacInit
-                0x00000000000832ae                _ToCoNet_vRfConfig
-                0x00000000000833f0                vDeterminePowerState.24765
-                0x0000000000083475                vTAMDEint1FiredTrackingBeacon
-                0x0000000000083515                vTAMDEint2FiredTrackingDR
-                0x000000000008353a                vTAMDEframeTXtrackingDR
-                0x0000000000083594                vTAMDEint2FiredPollActive
-                0x00000000000835c8                vTAMDEreqTXnullTrackingCAP
-                0x00000000000835e1                vTAM_TxRetryTimer
- .text          0x00000000000835f0      0xb05 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
-                0x0000000000083605                vExpireHead.31068
-                0x0000000000083635                MWX_DebugMsg
-                0x0000000000083683                bAHI_SetClockRate
-                0x000000000008378e                vMicroIntEnableOnly.constprop.495
-                0x00000000000837ba                QUEUE__u8RemoveItem.part.1.13883
-                0x00000000000837f5                QUEUE__vAddItem.constprop.494
-                0x0000000000083827                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.333
-                0x0000000000083eea                _ToCoNet_bRfChChannel
-                0x0000000000083f7f                ToCoNet_ChMgr_bCh_Reconfig
-                0x0000000000083fe7                ToCoNet_ChMgr_vCh_TxFin
-                0x0000000000084013                vHnd_E_STATE_WAIT_TX.11713
-                0x0000000000084083                vHnd_E_STATE_IDLE.11705
-                0x00000000000840e7                vAHI_ProtocolPower.constprop.484
+                0x00000000000827f0       0x60 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+                0x00000000000827f0                PRSEV_u8Register
+                0x000000000008282e                _PRSEV_vProcessEvSingleH
+                0x000000000008283e                _ZN3mwx2L112appdefs_virt18cbToCoNet_vRxEventERNS0_9packet_rxE.local.190
+ .text          0x0000000000082850      0xcfb C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans1.ltrans.o
+                0x0000000000082850                vTTIBLETimerExpired
+                0x000000000008285b                vACI_CmdWaitBusy
+                0x0000000000082868                vEcbEncodeStripe.31249
+                0x00000000000828bf                vTAIdisableInterrupt
+                0x00000000000828d8                vUpdateRegisters.30939
+                0x000000000008291f                psRemove.part.0.30889
+                0x000000000008294e                vMAC_MISCpollConfirm
+                0x0000000000082980                MAC_u8AclFindInfo
+                0x0000000000082aaa                vTASretrieveSecurity
+                0x0000000000082acc                MAC_bLookUpKeyDescriptor.28441
+                0x0000000000082b46                u8TSCframeIncrease
+                0x0000000000082b7f                vCopyToDataFromMacAddr.28351
+                0x0000000000082bb2                bTSCgetOutgoingInfo
+                0x0000000000082cbb                psTAQsearchFifo
+                0x0000000000082d04                bTAQremoveFromFifo
+                0x0000000000082d41                vTAMinsertEvent
+                0x0000000000082da7                vTTITimer2Expired
+                0x0000000000082dab                vTTITimer1Expired
+                0x0000000000082daf                vTAM_TxRetryTimeout
+                0x0000000000082db3                vTACsetTxFrameDefaults
+                0x0000000000082dd9                u8TACgetHeaderSize
+                0x0000000000082e16                bUpdateTime.26669
+                0x0000000000082e51                u32TACpayloadToU32M
+                0x0000000000082e72                vTACu32ToPayloadM
+                0x0000000000082e8a                vTACbuildBeacon
+                0x0000000000083092                bTACframeInProgress
+                0x00000000000830bc                bTACassessBeaconForPayload
+                0x000000000008310d                bIsBbcSafeForTx
+                0x0000000000083142                vTATwriteAclMaterialToHardware
+                0x0000000000083167                vTATsetBLE
+                0x000000000008319e                vTATgetFramePayload
+                0x00000000000831bb                eTATreadTXstatus
+                0x0000000000083201                vTAHsetPhyStateDirect.part.0.25810
+                0x000000000008321d                vDoGoOff.27631
+                0x0000000000083237                vMLMErxEnableConfirm
+                0x000000000008326b                vMLMEcommStatus
+                0x00000000000832d0                vMLMEcommStatusFromFrame
+                0x0000000000083314                vTSCpostTransmitUpdate
+                0x0000000000083343                vMLMEsyncLoss
+                0x0000000000083378                vMEMreturn
+                0x00000000000833e9                vTACinformOriginator
+                0x000000000008340b                vTTITransactionTimerExpired
+                0x0000000000083433                pvMEMget
+                0x000000000008345f                vTAMDEdetermineNullState
+                0x0000000000083479                vTAMCOupdatePendingList
+ *fill*         0x000000000008354b        0x1 00
+ .text          0x000000000008354c      0xac0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
+                0x000000000008354c                vPMICassocReqTO_1.19766
+                0x00000000000835d4                vTAMDEstartSync
+                0x0000000000083653                eTAMselect
+                0x0000000000083794                MAC_pvCtor
+                0x0000000000083baf                u32AppApiDefInit
+                0x0000000000083c64                _ToCoNet_vMacInit
+                0x0000000000083cca                _ToCoNet_vRfConfig
+                0x0000000000083e0c                vDeterminePowerState.24591
+                0x0000000000083e91                vTAMDEint1FiredTrackingBeacon
+                0x0000000000083f31                vTAMDEint2FiredTrackingDR
+                0x0000000000083f56                vTAMDEframeTXtrackingDR
+                0x0000000000083fb0                vTAMDEint2FiredPollActive
+                0x0000000000083fe4                vTAMDEreqTXnullTrackingCAP
+                0x0000000000083ffd                vTAM_TxRetryTimer
+ .text          0x000000000008400c      0xba8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans3.ltrans.o
+                0x000000000008400c                eWBRTTxDone.21342
+                0x000000000008402a                vTAMCOframeTXgoingIdle
+                0x0000000000084044                vTAMCOframeTXcap
+                0x0000000000084068                eWCoRRxDone.21333
+                0x0000000000084112                eWBcnRxDone.21345
+                0x00000000000846fe                vTAMCOframeRXcap
+                0x0000000000084710                vTAMCOframeRXgoingIdle
+                0x0000000000084726                vTAMCOframeRXnobeacon
+                0x0000000000084738                vTAMDEframeRX
+                0x0000000000084761                vTAMDEframeRXtrackingDR
+                0x00000000000847a4                vTAMDEframePreSyncReq
+                0x00000000000847bc                vTAMCOframeTXbeacon
+                0x0000000000084883                vTAMDEframeRXsyncReq
+                0x0000000000084ad3                vTAMDEint1FiredTrackingCAPgts
+                0x0000000000084b86                eWONTTxDone.21339
+ .text          0x0000000000084bb4      0xb05 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+                0x0000000000084bc9                vExpireHead.30894
+                0x0000000000084bf9                MWX_DebugMsg
+                0x0000000000084c47                bAHI_SetClockRate
+                0x0000000000084d52                vMicroIntEnableOnly.constprop.490
+                0x0000000000084d7e                QUEUE__u8RemoveItem.part.1.13846
+                0x0000000000084db9                QUEUE__vAddItem.constprop.489
+                0x0000000000084deb                _ZN3mwx2L112appdefs_crtpINS0_9NwkSimpleEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.329
+                0x00000000000854ae                _ToCoNet_bRfChChannel
+                0x0000000000085543                ToCoNet_ChMgr_bCh_Reconfig
+                0x00000000000855ab                ToCoNet_ChMgr_vCh_TxFin
+                0x00000000000855d7                vHnd_E_STATE_WAIT_TX.11676
+                0x0000000000085647                vHnd_E_STATE_IDLE.11668
+                0x00000000000856ab                vAHI_ProtocolPower.constprop.479
  .text.unlikely
-                0x00000000000840f5       0x45 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
-                0x00000000000840f5                vAHI_MemoryHold.31964
- .text          0x000000000008413a      0xb1f C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans4.ltrans.o
-                0x000000000008413a                vAHI_IntHandlerTickTimer
-                0x0000000000084181                vTACintRXheader
-                0x000000000008497c                vTAMCOint1Fired
-                0x0000000000084a98                vTAMCOint1FiredCAP
-                0x0000000000084b0a                vTAMCOreqTXnoBeacon
-                0x0000000000084b1c                vTAMCOstartBeacon
-                0x0000000000084b57                vStartStoreValues.24166
-                0x0000000000084c0e                bStartCallback.24195
-                0x0000000000084c3d                vTrySendFromDirectCAP.24098
- .text          0x0000000000084c59      0xd03 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
-                0x0000000000084c59                TSV_eStart
-                0x0000000000084d3d                eTAStransmitRequest
-                0x00000000000850d8                vTAM_MCPSdataRequest
-                0x000000000008511b                bTACcheckPANconflict
-                0x00000000000851d4                TSV_eOpen
-                0x00000000000851dc                vAppApiDefRestoreMacSettings
-                0x00000000000852ad                vAppApiDefSaveMacSettings
-                0x000000000008530a                mac_vLPBSleep
-                0x00000000000853c8                pvAppApiDefGetMacAddrLocation
-                0x00000000000853d1                eAppApiDefPlmeGet
-                0x0000000000085423                eAppApiDefPlmeSet
-                0x000000000008547c                vAppApiDefMcpsRequest
-                0x00000000000854a7                vHnd_E_STATE_PREPARE_TX.11700
- .text          0x000000000008595c      0x8f9 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans6.ltrans.o
-                0x000000000008595c                UART_vHandleUartInterrupt.13808
-                0x00000000000859e3                TWETERM_iGetC.16071
-                0x0000000000085a46                vRxChar.13706
-                0x0000000000085a97                vXCV_IntHandlerPhy
-                0x0000000000085b49                vScanHandleTimer.21116
-                0x0000000000085b4f                bAES_CCM_DecodeKey
-                0x0000000000085c0b                cbAppColdStart.part.31.4596
-                0x0000000000085df2                _ZN3mwx2L114periph_twowireILi32EE9busy_waitEv.isra.6.10495
-                0x0000000000085e3b                _ZN3mwx2L114periph_twowireILi32EE11cmd_tx_stopEv.isra.10.10499
-                0x0000000000085e5a                _ZN3mwx2L114periph_twowireILi32EE17beginTransmissionEh.local.27
-                0x0000000000085e8e                _ZN3mwx2L114periph_twowireILi32EE14cmd_tx_no_stopEv.isra.11.10501
-                0x0000000000085ead                _ZN3mwx2L110serial_jen13_set_baudrateEt.isra.2.4117
-                0x0000000000085f5e                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
-                0x0000000000085fd0                phy_ePibSet.part.1.23326
-                0x0000000000086018                TWENVM_bRead
-                0x00000000000860bf                u32AHI_ReadIndexSectorBits.constprop.370
-                0x0000000000086120                vTAIsetCapTime
-                0x0000000000086141                vTAIsetRxEnableTime
-                0x0000000000086162                vDoGoActive.27807
-                0x0000000000086184                vTAMRXEint2Fired
-                0x00000000000861bb                _ZN3mwx2L115periph_analogue5setupEbhPFvvE.local.177.constprop.423
- .text          0x0000000000086255      0x75c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans7.ltrans.o
-                0x00000000000862e7                vHnd_E_STATE_RUNNING.11721
-                0x0000000000086531                SERIAL_vTxReady
-                0x0000000000086592                vHnd_E_STATE_FINISH_TX_FAIL.11690
-                0x0000000000086648                vHnd_E_STATE_FINISH_TX_SUCCESS.11695
-                0x00000000000866da                _ZN3mwx2L110serial_jen6_beginEv.part.22.4163
-                0x000000000008695f                TWESTG_cbu32SaveSetting.constprop.402
+                0x00000000000856b9       0x45 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+                0x00000000000856b9                vAHI_MemoryHold.31790
+ .text          0x00000000000856fe      0xb63 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
+                0x000000000008595a                vTimerCallback.31676
+                0x00000000000859d0                EEP_6x_bRW_core.33059
+                0x0000000000085b3d                pvHeap_Alloc
+                0x0000000000085b3f                operator new(unsigned long)
+                0x0000000000085b62                u32AHI_Init
+                0x0000000000085c24                vMicroIntRestoreState
+                0x0000000000085c30                vAHI_DoSetDataOut
+                0x0000000000085c44                bAHI_DoEnableOutputs
+                0x0000000000085c6d                u8AHI_WakeTimerFiredStatus
+                0x0000000000085c81                vAHI_WakeTimerStop.part.3.32356
+                0x0000000000085ca1                mac_vLPBStopTimer
+                0x0000000000085cab                vAHI_UartSetClocksPerBit.part.18.32152
+                0x0000000000085cd2                vAHI_UartSetRTSCTS.part.15.32137
+                0x0000000000085cf9                vAHI_UartReset.part.4.32110
+                0x0000000000085d31                vAHI_UartSetControl.part.2.32094
+                0x0000000000085d82                vAHI_UartSetBaudDivisor.part.1.32090
+                0x0000000000085dc1                vAHI_WatchdogStop
+                0x0000000000085dd8                vAHI_CpuDoze
+                0x0000000000085deb                vAHI_SwReset
+                0x0000000000085e1b                _ZN3mwx2L120periph_pulse_counter10_on_wakeupEv.part.15.4107
+                0x0000000000085e91                u32AHI_DioWakeStatus
+                0x0000000000085ea2                vAHI_DioWakeEdge
+                0x0000000000085ec2                vAHI_DioSetPullup
+                0x0000000000085ee2                vAHI_DioSetOutput
+                0x0000000000085f91                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE15_cbTweNet_vMainEPv.local.300
+                0x0000000000085fd4                _ZN3mwx2L116periph_led_timer5beginEh.local.309
+                0x0000000000085ff7                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.307
+                0x0000000000086016                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.308
+                0x0000000000086035                vAHI_DioSetDirection
+                0x0000000000086049                vACI_OptimisedCcmStar
  .text.unlikely
-                0x00000000000869b1      0x181 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans7.ltrans.o
-                0x0000000000086a2a                bStartXtal32k.31874
- .text          0x0000000000086b32      0xa52 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
-                0x0000000000086b32                mac_vLPBStartTimer
-                0x0000000000086e85                vTimerCallback.31850
-                0x0000000000086efb                EEP_6x_bRW_core.33233
-                0x0000000000087068                TWENVM_bErase
-                0x0000000000087078                pvHeap_Alloc
-                0x000000000008707a                operator new(unsigned long)
-                0x000000000008709d                u32AHI_Init
-                0x000000000008715f                vMicroIntRestoreState
-                0x000000000008716b                vAHI_DoSetDataOut
-                0x000000000008717f                bAHI_DoEnableOutputs
-                0x00000000000871a8                u8AHI_WakeTimerFiredStatus
-                0x00000000000871bc                vAHI_WakeTimerStop.part.3.32530
-                0x00000000000871dc                mac_vLPBStopTimer
-                0x00000000000871e6                vAHI_UartSetClocksPerBit.part.18.32326
-                0x000000000008720d                vAHI_UartSetRTSCTS.part.15.32311
-                0x0000000000087234                vAHI_UartReset.part.4.32284
-                0x000000000008726c                vAHI_UartSetControl.part.2.32268
-                0x00000000000872bd                vAHI_UartSetBaudDivisor.part.1.32264
-                0x00000000000872fc                vAHI_WatchdogStop
-                0x0000000000087313                vAHI_CpuDoze
-                0x0000000000087326                vAHI_SwReset
-                0x0000000000087356                _ZN3mwx2L120periph_pulse_counter10_on_wakeupEv.part.15.4144
-                0x00000000000873cc                u32AHI_DioWakeStatus
-                0x00000000000873dd                vAHI_DioWakeEdge
-                0x00000000000873fd                vAHI_DioSetPullup
-                0x000000000008741d                vAHI_DioSetOutput
-                0x00000000000874cc                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE15_cbTweNet_vMainEPv.local.304
-                0x000000000008750f                _ZN3mwx2L116periph_led_timer5beginEh.local.313
-                0x0000000000087532                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vRxEventEPvRNS0_9packet_rxE.local.311
-                0x0000000000087551                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE18_cbTweNet_vTxEventEPvRNS0_12packet_ev_txE.local.312
-                0x0000000000087570                vAHI_DioSetDirection
+                0x0000000000086261       0x11 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
+                0x0000000000086261                vStartXtal32kExternalRc.31690
+ .text          0x0000000000086272      0xb1f C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans6.ltrans.o
+                0x0000000000086272                vAHI_IntHandlerTickTimer
+                0x00000000000862b9                vTACintRXheader
+                0x0000000000086ab4                vTAMCOint1Fired
+                0x0000000000086bd0                vTAMCOint1FiredCAP
+                0x0000000000086c42                vTAMCOreqTXnoBeacon
+                0x0000000000086c54                vTAMCOstartBeacon
+                0x0000000000086c8f                vStartStoreValues.23992
+                0x0000000000086d46                bStartCallback.24021
+                0x0000000000086d75                vTrySendFromDirectCAP.23924
+ .text          0x0000000000086d91      0xd03 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+                0x0000000000086d91                TSV_eStart
+                0x0000000000086e75                eTAStransmitRequest
+                0x0000000000087210                vTAM_MCPSdataRequest
+                0x0000000000087253                bTACcheckPANconflict
+                0x000000000008730c                TSV_eOpen
+                0x0000000000087314                vAppApiDefRestoreMacSettings
+                0x00000000000873e5                vAppApiDefSaveMacSettings
+                0x0000000000087442                mac_vLPBSleep
+                0x0000000000087500                pvAppApiDefGetMacAddrLocation
+                0x0000000000087509                eAppApiDefPlmeGet
+                0x000000000008755b                eAppApiDefPlmeSet
+                0x00000000000875b4                vAppApiDefMcpsRequest
+                0x00000000000875df                vHnd_E_STATE_PREPARE_TX.11663
+ .text          0x0000000000087a94      0x75c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans8.ltrans.o
+                0x0000000000087b26                vHnd_E_STATE_RUNNING.11684
+                0x0000000000087d70                SERIAL_vTxReady
+                0x0000000000087dd1                vHnd_E_STATE_FINISH_TX_FAIL.11653
+                0x0000000000087e87                vHnd_E_STATE_FINISH_TX_SUCCESS.11658
+                0x0000000000087f19                _ZN3mwx2L110serial_jen6_beginEv.part.22.4126
+                0x000000000008819e                TWESTG_cbu32SaveSetting.constprop.398
  .text.unlikely
-                0x0000000000087584       0x11 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
-                0x0000000000087584                vStartXtal32kExternalRc.31864
- .text          0x0000000000087595      0xa43 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans9.ltrans.o
-                0x00000000000876f5                bAES_CCM_EncodeKey
-                0x00000000000877a2                bTAM_AES_CCMstarPatch
-                0x00000000000878e6                bTAM_AES_CCMstarPatch2006
-                0x00000000000879ed                vWriteFrame.26343
-                0x0000000000087bc5                bTATsendFrame
-                0x0000000000087c18                vTrySendFromDirectNoBeacon.24102
-                0x0000000000087c43                vTAMCOreqTXinCAP
-                0x0000000000087c68                vTrySendUnslotted.24643
-                0x0000000000087c81                bSendDataRequest.24645
-                0x0000000000087d93                bProcessBeaconRX.24648
-                0x0000000000087e64                _ZN3mwx2L110serial_jen10_on_wakeupEv.part.24.4194
-                0x0000000000087ede                _MWX_periph_init()
- .text          0x0000000000087fd8      0x7a5 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans10.ltrans.o
-                0x0000000000087fd8                TWEINTCT_vProcessInputByte_settings
-                0x0000000000088533                TWEINTCT_vProcessInputByte_defmenus
-                0x0000000000088611                TWEINTCT_vProcessInputByte_nvmutils
- *fill*         0x000000000008877d        0x3 00
- .text          0x0000000000088780      0xa84 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans11.ltrans.o
-                0x0000000000088780                vPostDcfm.21503
-                0x0000000000088854                AppWarmStart
-                0x0000000000088924                vSetNextChannel.21551
-                0x000000000008897d                MAC_vHandleMlmeReqRsp
-                0x000000000008912d                vTAMDEint1FiredTracking
-                0x000000000008919d                vTAMDEint1FiredSyncReq
- .text          0x0000000000089204      0x53c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
-                0x0000000000089204                AppColdStart
+                0x00000000000881f0      0x181 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans8.ltrans.o
+                0x0000000000088269                bStartXtal32k.31700
+ .text          0x0000000000088371      0x99b C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans9.ltrans.o
+                0x0000000000088371                UART_vHandleUartInterrupt.13771
+                0x0000000000088646                vXCV_IntHandlerPhy
+                0x00000000000886f8                vScanHandleTimer.20942
+                0x00000000000886fd                bAES_CCM_DecodeKey
+                0x00000000000887b9                _ZN3mwx2L114processev_crtpINS0_9NwkSimpleEE14vProcessEvCoreEP8_tsEvent7teEventm.local.331
+                0x000000000008886c                _ZL13s_appLoadDatahhh.6568
+                0x0000000000088b77                u32AHI_ReadIndexSectorBits.constprop.366
+                0x0000000000088bd8                vTAIsetCapTime
+                0x0000000000088bf9                vTAIsetRxEnableTime
+                0x0000000000088c1a                vDoGoActive.27633
+                0x0000000000088c3c                vTAMRXEint2Fired
+                0x0000000000088c72                _ZN3mwx2L115periph_analogue5setupEbhPFvvE.local.177.constprop.419
+ .text          0x0000000000088d0c      0xa43 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans10.ltrans.o
+                0x0000000000088e6c                bAES_CCM_EncodeKey
+                0x0000000000088f19                bTAM_AES_CCMstarPatch
+                0x000000000008905d                bTAM_AES_CCMstarPatch2006
+                0x0000000000089164                vWriteFrame.26169
+                0x000000000008933c                bTATsendFrame
+                0x000000000008938f                vTrySendFromDirectNoBeacon.23928
+                0x00000000000893ba                vTAMCOreqTXinCAP
+                0x00000000000893df                vTrySendUnslotted.24469
+                0x00000000000893f8                bSendDataRequest.24471
+                0x000000000008950a                bProcessBeaconRX.24474
+                0x00000000000895db                _ZN3mwx2L110serial_jen10_on_wakeupEv.part.24.4157
+                0x0000000000089655                _MWX_periph_init()
+ .text          0x000000000008974f      0x7a5 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans11.ltrans.o
+                0x000000000008974f                TWEINTCT_vProcessInputByte_settings
+                0x0000000000089caa                TWEINTCT_vProcessInputByte_defmenus
+                0x0000000000089d88                TWEINTCT_vProcessInputByte_nvmutils
+ *fill*         0x0000000000089ef4        0x0 00
+ .text          0x0000000000089ef4      0xa84 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans12.ltrans.o
+                0x0000000000089ef4                vPostDcfm.21329
+                0x0000000000089fc8                AppWarmStart
+                0x000000000008a098                vSetNextChannel.21377
+                0x000000000008a0f1                MAC_vHandleMlmeReqRsp
+                0x000000000008a8a1                vTAMDEint1FiredTracking
+                0x000000000008a911                vTAMDEint1FiredSyncReq
+ .text          0x000000000008a978      0x53c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+                0x000000000008a978                AppColdStart
  .text.unlikely
-                0x0000000000089740      0x43b C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
-                0x0000000000089740                ToCoNet_vStart
- .text          0x0000000000089b7b      0x2ce C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans13.ltrans.o
-                0x0000000000089b7b                TWEINTCT_u32ProcessMenuEvent_settings
-                0x0000000000089bb8                TWEINTCT_u32ProcessMenuEvent_defmenus
-                0x0000000000089bdf                TWEINTCT_u32ProcessMenuEvent_nvmutils
-                0x0000000000089c06                TWEINTRCT_vSerHeadLine
-                0x0000000000089d30                mwx::L1::StgsStandard::_setup()
-                0x0000000000089e2d                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE9_on_eventEPvmRm.local.336
- .text          0x0000000000089e49      0xa21 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans14.ltrans.o
-                0x0000000000089e49                SerCmdAscii_Output.15381
-                0x000000000008a091                vAppQApiPostHwIntT.12365
-                0x000000000008a165                cbToCoNet_vTxEvent
-                0x000000000008a24a                TWE_fprintf
-                0x000000000008a287                MWX_Panic
-                0x000000000008a2f3                s_bDumpSector.15235
-                0x000000000008a36a                TWEINTCT_vProcessInputString_nvmutils
-                0x000000000008a55f                _ZL13s_appLoadDatahhh.6605
- *fill*         0x000000000008a86a        0x2 00
- .text          0x000000000008a86c      0xa64 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
-                0x000000000008a8a0                vProcessEvCoreTx.11682
-                0x000000000008a925                TWESTGS_VLD_u32ChList
-                0x000000000008aa46                XCV_vCtor.constprop.482
-                0x000000000008abab                pinMode(unsigned char, mwx::L1::enum_wapper<PIN_MODE::eMWX_DIO_MODE, unsigned char>)
-                0x000000000008ad24                _ZN3mwx2L112BrdMonoStick6_setupEv.isra.47.2602
-                0x000000000008ad5a                _ZN3mwx2L16twenet5beginEv.local.169.constprop.457
-                0x000000000008ad9f                vAHI_TimerEnable.part.1.32065.constprop.448
-                0x000000000008ae0a                vTimerStart
-                0x000000000008af23                vAHI_SiMasterConfigure.constprop.434
-                0x000000000008af57                _ZN3mwx2L115periph_analogue10_adc_startEv.local.125.constprop.420
-                0x000000000008b040                u8HwEventHandler.11039
-                0x000000000008b0e5                mwx::L1::periph_analogue::ADC_handler(unsigned long, unsigned long)
-                0x000000000008b12c                TWEINTRCT_vSerFootLine.constprop.401
-                0x000000000008b1d0                _ZN3mwx2L16streamINS0_10serial_jenEElsEONS0_10mwx_formatE.local.28
-                0x000000000008b204                bAES_CCMstar
- .text          0x000000000008b2d0      0x53e C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans16.ltrans.o
-                0x000000000008b2fc                TWEINTCT_vProcessInputByte_hw(_TWEINTRCT_sContext*, short)
- .text          0x000000000008b80e      0x9ed C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
-                0x000000000008b80e                _ZN3mwx2L114processev_crtpINS0_9NwkSimpleEE14vProcessEvCoreEP8_tsEvent7teEventm.local.335
-                0x000000000008b8c1                vXCV_IntHandlerBbc
-                0x000000000008b964                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE9_on_eventEPvmRm.local.306
-                0x000000000008b9d2                TWESYSUTL_vWaitPoll
-                0x000000000008ba73                _ZL5delaym.6610
-                0x000000000008ba9e                vTAMRXEsetPhy
-                0x000000000008bb61                vTAHsetPhyState
-                0x000000000008bb91                vTAMCOint2Fired
-                0x000000000008bbb1                vSetPHYfromMacValue.24641
-                0x000000000008bbe3                vTAMDEint1FiredWaitDR
-                0x000000000008bbf0                vTACsetPHYfromMacValue
-                0x000000000008bc11                vTAMRXEsetReceiveForPibChange
-                0x000000000008bc51                vMLMEbeaconNotify
-                0x000000000008bdaf                vMCPSframeReceived
-                0x000000000008be72                bAHI_ReadMACID
-                0x000000000008beb8                ToCoNet_vInit
+                0x000000000008aeb4      0x43c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+                0x000000000008aeb4                ToCoNet_vStart
+ .text          0x000000000008b2f0      0x98f C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans14.ltrans.o
+                0x000000000008b2f0                vAppQApiPostHwIntT.12328
+                0x000000000008b3c4                TWETERM_iGetC.15897
+                0x000000000008b427                vRxChar.13669
+                0x000000000008b478                cbToCoNet_vTxEvent
+                0x000000000008b55d                TWE_fprintf
+                0x000000000008b59a                MWX_Panic
+                0x000000000008b606                s_bDumpSector.15198
+                0x000000000008b67d                TWEINTCT_vProcessInputString_nvmutils
+                0x000000000008b872                cbAppColdStart.part.31.4559
+                0x000000000008ba59                _ZN3mwx2L114periph_twowireILi32EE9busy_waitEv.isra.6.10458
+                0x000000000008baa2                _ZN3mwx2L114periph_twowireILi32EE11cmd_tx_stopEv.isra.10.10462
+                0x000000000008bac1                _ZN3mwx2L114periph_twowireILi32EE17beginTransmissionEh.local.27
+                0x000000000008baf5                _ZN3mwx2L114periph_twowireILi32EE14cmd_tx_no_stopEv.isra.11.10464
+                0x000000000008bb14                _ZN3mwx2L110serial_jen13_set_baudrateEt.isra.2.4080
+                0x000000000008bbc5                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
+                0x000000000008bc37                phy_ePibSet.part.1.23152
+ .text          0x000000000008bc7f      0x2ce C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans15.ltrans.o
+                0x000000000008bc7f                TWEINTCT_u32ProcessMenuEvent_settings
+                0x000000000008bcbc                TWEINTCT_u32ProcessMenuEvent_defmenus
+                0x000000000008bce3                TWEINTCT_u32ProcessMenuEvent_nvmutils
+                0x000000000008bd0a                TWEINTRCT_vSerHeadLine
+                0x000000000008be34                mwx::L1::StgsStandard::_setup()
+                0x000000000008bf31                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE9_on_eventEPvmRm.local.332
+ *fill*         0x000000000008bf4d        0x3 00
+ .text          0x000000000008bf50      0xa70 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+                0x000000000008bf84                mac_vLPBStartTimer
+                0x000000000008c09b                vProcessEvCoreTx.11645
+                0x000000000008c120                TWESTGS_VLD_u32ChList
+                0x000000000008c241                XCV_vCtor.constprop.477
+                0x000000000008c3a6                pinMode(unsigned char, mwx::L1::enum_wapper<PIN_MODE::eMWX_DIO_MODE, unsigned char>)
+                0x000000000008c51c                _ZN3mwx2L112BrdMonoStick6_setupEv.isra.47.2595
+                0x000000000008c552                _ZN3mwx2L16twenet5beginEv.local.169.constprop.453
+                0x000000000008c597                vAHI_TimerEnable.part.1.31891.constprop.444
+                0x000000000008c602                vAHI_SiMasterConfigure.constprop.430
+                0x000000000008c636                _ZN3mwx2L115periph_analogue10_adc_startEv.local.125.constprop.416
+                0x000000000008c71f                u8HwEventHandler.11002
+                0x000000000008c7c4                mwx::L1::periph_analogue::ADC_handler(unsigned long, unsigned long)
+                0x000000000008c80b                TWEINTRCT_vSerFootLine.constprop.397
+                0x000000000008c8af                _ZN3mwx2L16streamINS0_10serial_jenEElsEONS0_10mwx_formatE.local.28
+                0x000000000008c8e3                bAES_CCMstar
+                0x000000000008c9af                TWENVM_bErase
+ .text          0x000000000008c9c0      0xa52 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
+                0x000000000008c9c0                vXCV_IntHandlerBbc
+                0x000000000008ca63                _ZN3mwx2L112appdefs_crtpINS0_12BrdMonoStickEE9_on_eventEPvmRm.local.302
+                0x000000000008cad1                TWESYSUTL_vWaitPoll
+                0x000000000008cb71                _ZL5delaym.6573
+                0x000000000008cb9c                vMLMEbeaconNotify
+                0x000000000008ccfa                vMCPSframeReceived
+                0x000000000008cdbd                bAHI_ReadMACID
+                0x000000000008ce03                vTAMRXEsetPhy
+                0x000000000008cec6                vTAHsetPhyState
+                0x000000000008cef6                vTAMCOint2Fired
+                0x000000000008cf16                vSetPHYfromMacValue.24467
+                0x000000000008cf48                vTAMDEint1FiredWaitDR
+                0x000000000008cf55                vTACsetPHYfromMacValue
+                0x000000000008cf76                vTAMRXEsetReceiveForPibChange
+                0x000000000008cfb6                vTimerStart
+                0x000000000008d0cf                ToCoNet_vInit
  .text.unlikely
-                0x000000000008c1fb        0xf C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
-                0x000000000008c1fb                u32AppQApiInitInt_PATCH
- .text          0x000000000008c20a      0x538 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans18.ltrans.o
-                0x000000000008c20a                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE15_cbTweNet_vMainEPv.local.339
-                0x000000000008c6e9                TWEINTCT_vSerUpdateScreen_hw(_TWEINTRCT_sContext*)
-                0x000000000008c73d                TWEINTCT_vSerUpdateScreen_settings
- .text          0x000000000008c742      0x6c8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans19.ltrans.o
-                0x000000000008c882                vProcessEvCoreMac
-                0x000000000008c8ea                setup()
- .text          0x000000000008ce0a      0xad4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans20.ltrans.o
-                0x000000000008ce0a                vAHI_IntHandlerAnalogPeriph
-                0x000000000008ce2a                vTTIBLETimerExpired
-                0x000000000008ce35                vACI_CmdWaitBusy
-                0x000000000008ce99                vACI_OptimisedCcmStar
-                0x000000000008d0b1                vTAIdisableInterrupt
-                0x000000000008d0ca                vUpdateRegisters.31113
-                0x000000000008d111                psRemove.part.0.31063
-                0x000000000008d140                vMAC_MISCpollConfirm
-                0x000000000008d171                MAC_u8AclFindInfo
-                0x000000000008d29b                vTASretrieveSecurity
-                0x000000000008d2bd                MAC_bLookUpKeyDescriptor.28615
-                0x000000000008d337                u8TSCframeIncrease
-                0x000000000008d370                vTSCpostTransmitUpdate
-                0x000000000008d3a0                vCopyToDataFromMacAddr.28525
-                0x000000000008d3d3                bTSCgetOutgoingInfo
-                0x000000000008d4dc                vDoGoOff.27805
-                0x000000000008d4f6                psTAQsearchFifo
-                0x000000000008d53f                bTAQremoveFromFifo
-                0x000000000008d57c                vTTITransactionTimerExpired
-                0x000000000008d5a5                vTAMinsertEvent
-                0x000000000008d60b                vTTITimer2Expired
-                0x000000000008d60f                vTTITimer1Expired
-                0x000000000008d613                vTAM_TxRetryTimeout
-                0x000000000008d617                vTACsetTxFrameDefaults
-                0x000000000008d63d                u8TACgetHeaderSize
-                0x000000000008d67a                bUpdateTime.26843
-                0x000000000008d6b5                vTACbuildBeacon
-                0x000000000008d8bd                u32TACpayloadToU32M
- .text          0x000000000008d8de      0x85d C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans21.ltrans.o
-                0x000000000008d8de                ToCoNet_vMain
- *fill*         0x000000000008e13b        0x1 00
- .text          0x000000000008e13c      0x658 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans22.ltrans.o
-                0x000000000008e13c                TWEINTCT_vSerUpdateScreen_nvmutils
-                0x000000000008e25d                TWEINTCT_vSerUpdateScreen_defmenus
-                0x000000000008e3b0                s_TWEINTCT_vSerUpdateScreen_settings.14633
- .text          0x000000000008e794      0x470 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
-                0x000000000008e794                _ZN3mwx2L114periph_twowireILi32EE8_init_hwEb.isra.20.6675.constprop.403
-                0x000000000008e7c5                vTimerConfig
-                0x000000000008e9d1                cbAppWarmStart.part.28.4496
+                0x000000000008d412        0xf C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
+                0x000000000008d412                u32AppQApiInitInt_PATCH
+ .text          0x000000000008d421      0x53e C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans18.ltrans.o
+                0x000000000008d44d                TWEINTCT_vProcessInputByte_hw(_TWEINTRCT_sContext*, short)
+ .text          0x000000000008d95f      0x538 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans19.ltrans.o
+                0x000000000008d95f                _ZN3mwx2L112appdefs_crtpINS0_12StgsStandardEE15_cbTweNet_vMainEPv.local.335
+                0x000000000008de3e                TWEINTCT_vSerUpdateScreen_hw(_TWEINTRCT_sContext*)
+                0x000000000008de92                TWEINTCT_vSerUpdateScreen_settings
+ .text          0x000000000008de97      0xccf C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o
+                0x000000000008de97                mac_vLPBAdjustBeaconOffset
+                0x000000000008def4                mac_u32LPBGetBeaconTimeout
+                0x000000000008defd                eWEnDTmrExpiry.21326
+                0x000000000008df08                eWEnDEdDone.21323
+                0x000000000008df63                eGenlDontCare.21320
+                0x000000000008df68                eGenlIllegal.20945
+                0x000000000008df6f                u32GetTimer0
+                0x000000000008df76                vSetTimer0
+                0x000000000008df85                vTAMCOsetCoordinator
+                0x000000000008dfab                vPhySetChannel
+                0x000000000008dfc4                eScanHandleEvt.part.0.21356
+                0x000000000008dfed                mac_eDcfmIndPost
+                0x000000000008e00e                mac_psDcfmIndGetBuf
+                0x000000000008e02f                vPMICpostFailedAssocDcfm
+                0x000000000008e067                vPMICassocReqTO_2.19773
+                0x000000000008e07e                MAC_vPibSetPanId
+                0x000000000008e099                vHandleTofRequest.17879
+                0x000000000008e09c                vAppApiDefSetPrbsSeed
+                0x000000000008e0c0                TWE_CRC8_u8CalcU32
+                0x000000000008e0fd                _ftoa.16072
+                0x000000000008e46d                _vsnprintf
+                0x000000000008ead2                fctprintf
+                0x000000000008eafc                _ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_.local.342
+                0x000000000008eb13                _ZN3mwx2L111_printobj_2IiiE9_do_printEPvPFvcS3_ES3_.local.113
+                0x000000000008eb2a                _ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_.local.112
+                0x000000000008eb3e                snprintf_
+ .text          0x000000000008eb66      0x6c8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans21.ltrans.o
+                0x000000000008eca6                vProcessEvCoreMac
+                0x000000000008ed0e                setup()
+ .text          0x000000000008f22e      0x85d C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans22.ltrans.o
+                0x000000000008f22e                ToCoNet_vMain
+ *fill*         0x000000000008fa8b        0x1 00
+ .text          0x000000000008fa8c      0x658 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans23.ltrans.o
+                0x000000000008fa8c                TWEINTCT_vSerUpdateScreen_nvmutils
+                0x000000000008fbad                TWEINTCT_vSerUpdateScreen_defmenus
+                0x000000000008fd00                s_TWEINTCT_vSerUpdateScreen_settings.14596
+ .text          0x00000000000900e4      0x470 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+                0x00000000000900e4                _ZN3mwx2L114periph_twowireILi32EE8_init_hwEb.isra.20.6638.constprop.399
+                0x0000000000090115                vTimerConfig
+                0x0000000000090321                cbAppWarmStart.part.28.4459
  .text.unlikely
-                0x000000000008ec04      0x14c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
-                0x000000000008ec04                on_rx_packet(mwx::L1::packet_rx&, unsigned char&)
- *fill*         0x000000000008ed50        0x0 00
- .text          0x000000000008ed50      0xbb4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o
-                0x000000000008ed50                _out_fct.16172
-                0x000000000008ed62                _out_null.16178
-                0x000000000008ed65                _out_buffer.16166
-                0x000000000008edfc                TWESTGS_VLD_u32String
-                0x000000000008ee45                _out_rev.16184
-                0x000000000008f056                _ntoa_long_long.16220
-                0x000000000008f12d                _ntoa_long.16208
-                0x000000000008f202                _etoa.16266
-                0x000000000008f5bc                TWESTR_i32DecstrToNum
-                0x000000000008f60b                s_u32ElementsListAdd
-                0x000000000008f790                TWESTG_vSetUDatumFrUDatum
-                0x000000000008f7d9                TWESTGS_VLD_u32MinMax
-                0x000000000008f85a                TWESTGS_VLD_u32AppId
-                0x000000000008f8b1                TWESTG_u32GetU32FrUDatum
- .text          0x000000000008f904      0x754 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans25.ltrans.o
-                0x000000000008f904                mac_vLPBAdjustBeaconOffset
-                0x000000000008f961                mac_u32LPBGetBeaconTimeout
-                0x000000000008f96a                eWEnDTmrExpiry.21500
-                0x000000000008f975                eWEnDEdDone.21497
-                0x000000000008f9d0                eGenlDontCare.21494
-                0x000000000008f9d5                eGenlIllegal.21119
-                0x000000000008f9dc                u32GetTimer0
-                0x000000000008f9e3                vSetTimer0
-                0x000000000008f9f2                vTACu32ToPayloadM
-                0x000000000008fa0a                bTACframeInProgress
-                0x000000000008fa34                bTACassessBeaconForPayload
-                0x000000000008fa85                bIsBbcSafeForTx
-                0x000000000008faba                vTATwriteAclMaterialToHardware
-                0x000000000008fadf                vTATsetBLE
-                0x000000000008fb16                vTATgetFramePayload
-                0x000000000008fb33                eTATreadTXstatus
-                0x000000000008fb79                vTAHsetPhyStateDirect.part.0.25984
-                0x000000000008fb95                vMEMreturn
-                0x000000000008fc06                vTACinformOriginator
-                0x000000000008fc28                pvMEMget
-                0x000000000008fc54                vTAMDEdetermineNullState
-                0x000000000008fc6e                vTAMCOupdatePendingList
-                0x000000000008fd40                vTAMCOsetCoordinator
-                0x000000000008fd66                vPhySetChannel
-                0x000000000008fd7f                eScanHandleEvt.part.0.21530
-                0x000000000008fda8                mac_eDcfmIndPost
-                0x000000000008fdc9                mac_psDcfmIndGetBuf
-                0x000000000008fdea                vMLMErxEnableConfirm
-                0x000000000008fe1c                vMLMEcommStatus
-                0x000000000008fe7f                vMLMEcommStatusFromFrame
-                0x000000000008fec3                vMLMEsyncLoss
-                0x000000000008fef6                vPMICpostFailedAssocDcfm
-                0x000000000008ff2e                vPMICassocReqTO_2.19947
-                0x000000000008ff45                MAC_vPibSetPanId
-                0x000000000008ff60                vHandleTofRequest.18053
-                0x000000000008ff63                vAppApiDefSetPrbsSeed
-                0x000000000008ff87                TWE_CRC8_u8CalcU32
-                0x000000000008ffc4                fctprintf
-                0x000000000008ffee                _ZN3mwx2L111_printobj_2IhhE9_do_printEPvPFvcS3_ES3_.local.346
-                0x0000000000090005                _ZN3mwx2L111_printobj_2IiiE9_do_printEPvPFvcS3_ES3_.local.113
-                0x000000000009001c                _ZN3mwx2L111_printobj_1IhE9_do_printEPvPFvcS3_ES3_.local.112
-                0x0000000000090030                snprintf_
- .text          0x0000000000090058      0x9d5 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o
-                0x0000000000090058                _ftoa.16246
-                0x00000000000903c8                _vsnprintf
- .text          0x0000000000090a2d       0x34 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
-                0x0000000000090a2d                vAppApiDefMlmeRequest
-                0x0000000000090a58                pvAppApiDefGetMacHandle
- *fill*         0x0000000000090a61        0x3 00
+                0x0000000000090554      0x10e C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+                0x0000000000090554                on_rx_packet(mwx::L1::packet_rx&, unsigned char&)
+ *fill*         0x0000000000090662        0x2 00
+ .text          0x0000000000090664      0x78c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans25.ltrans.o
+                0x0000000000090664                eGenTmrExpiry.21638
+                0x00000000000906a6                eWEDTEdDone.21641
+                0x00000000000906ca                TSV_eStop
+                0x0000000000090789                bPMICdisassocReqSent.19762
+                0x0000000000090843                MAC_vHandleMcpsReqRsp
+                0x00000000000908d1                bMCPSframeTXcomplete.22373
+                0x0000000000090926                bSendSyncLoss.26604
+                0x000000000009093e                bPollReqSent.30200
+                0x0000000000090956                bTASsendCommStatusInd
+                0x000000000009096b                bAssocRespSent.19758
+                0x000000000009097e                eTACprocessFrameTXcomplete
+                0x0000000000090afd                vTAMCOframeTXnobeacon
+                0x0000000000090b13                vTAMCOframeStarting
+                0x0000000000090b2d                vTAMDEframeTXDEnull
+                0x0000000000090b52                vTAMDEframeTXtrackingCAPgts
+                0x0000000000090b80                bPMICassocReqSent.19754
+                0x0000000000090c02                bPMICassocReqPollSent.19769
+                0x0000000000090c56                eWChCChanChgd.21353
+ .text          0x0000000000090df0       0x34 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+                0x0000000000090df0                vAppApiDefMlmeRequest
+                0x0000000000090e1b                pvAppApiDefGetMacHandle
  .text.unlikely
-                0x0000000000090a64      0x318 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
-                0x0000000000090a81                vProcessIncomingHwEvent.11208
- .text          0x0000000000090d7c       0xb5 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans28.ltrans.o
-                0x0000000000090d7c                TWEINTRCT_u32MenuOpKey
- .text          0x0000000000090e31      0x435 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans29.ltrans.o
-                0x0000000000090e31                eGenTmrExpiry.21812
-                0x0000000000090e73                eWEDTEdDone.21815
-                0x0000000000090e97                TSV_eStop
-                0x0000000000090f38                vTAStidyUpAfterFrameTX
-                0x0000000000090f94                MAC_vHandleMcpsReqRsp
-                0x0000000000091022                bMCPSframeTXcomplete.22547
-                0x0000000000091077                bSendSyncLoss.26778
-                0x000000000009108f                bPollReqSent.30374
-                0x00000000000910a7                bTASsendCommStatusInd
-                0x00000000000910bc                bAssocRespSent.19932
-                0x00000000000910cf                eWChCChanChgd.21527
- .text          0x0000000000091266      0x378 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans30.ltrans.o
-                0x00000000000912b1                SERIAL_bTxChar
-                0x0000000000091362                TWETERM_iPutS.16063
-                0x0000000000091387                TWETERM_iPutC.16067
-                0x0000000000091398                TWETERM_vFlush.16040
-                0x0000000000091416                eGenRxHdrDone.21510
-                0x0000000000091426                _ZN3mwx2L110serial_jen5writeEi.local.31
-                0x0000000000091448                _ZN3mwx2L16streamINS0_10serial_jenEElsERNS0_18MWX_Stream_EndLineE.isra.8.6781
-                0x0000000000091460                _ZN3mwx2L16streamINS0_10serial_jenEE6_printEPKc.local.20
-                0x0000000000091481                TWEINTRCT_cbu32GenericHandler
- *fill*         0x00000000000915de        0x2 00
- .text          0x00000000000915e0      0x350 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans31.ltrans.o
-                0x00000000000915e0                vTAMCOframeRXcap
-                0x00000000000915f3                vTAMCOframeRXgoingIdle
-                0x0000000000091609                vTAMCOframeRXnobeacon
-                0x000000000009161c                vTAMDEframeRX
-                0x00000000000917c1                eWONTTxDone.21513
-                0x00000000000917ef                eWBRTTxDone.21516
-                0x000000000009180d                vTAMCOframeTXgoingIdle
-                0x0000000000091826                vTAMCOframeTXcap
-                0x000000000009184c                vTAMCOframeTXnobeacon
-                0x0000000000091863                vTAMCOframeStarting
-                0x000000000009187d                vTAMDEframeTXDEnull
-                0x00000000000918a2                vTAMDEframeTXtrackingCAPgts
-                0x00000000000918d0                vTAMDEframePreSyncReq
-                0x00000000000918e9                vTAMDEframeRXtrackingDR
- .text          0x0000000000091930       0x25 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
-                0x0000000000091930                memcmp
- .text          0x0000000000091955       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
-                0x0000000000091955                strlen
- *fill*         0x0000000000091967        0x1 00
- .text          0x0000000000091968      0x204 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
-                0x0000000000091968                __udivsi3
- .text          0x0000000000091b6c       0x30 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
-                0x0000000000091b6c                __divsi3
- .text          0x0000000000091b9c      0x1b0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
-                0x0000000000091b9c                __umodsi3
- .text          0x0000000000091d4c       0x24 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
-                0x0000000000091d4c                __modsi3
- .text          0x0000000000091d70       0x39 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
-                0x0000000000091d70                __fixunsdfsi
- .text          0x0000000000091da9      0x350 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
-                0x0000000000091da9                __udivdi3
- .text          0x00000000000920f9      0x312 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
-                0x00000000000920f9                __umoddi3
- .text          0x000000000009240b       0xac c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gesf2.o)
-                0x000000000009240b                __gesf2
-                0x000000000009240b                __gtsf2
- .text          0x00000000000924b7       0xac c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(lesf2.o)
-                0x00000000000924b7                __ltsf2
-                0x00000000000924b7                __lesf2
- .text          0x0000000000092563       0x3c c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(unordsf2.o)
-                0x0000000000092563                __unordsf2
- .text          0x000000000009259f      0x682 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
-                0x000000000009259f                __adddf3
- *fill*         0x0000000000092c21        0x3 00
- .text          0x0000000000092c24      0x5c8 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
-                0x0000000000092c24                __divdf3
- .text          0x00000000000931ec       0x7f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
-                0x00000000000931ec                __nedf2
-                0x00000000000931ec                __eqdf2
- .text          0x000000000009326b       0xca c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
-                0x000000000009326b                __gedf2
-                0x000000000009326b                __gtdf2
- .text          0x0000000000093335       0xcb c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
-                0x0000000000093335                __ledf2
-                0x0000000000093335                __ltdf2
- .text          0x0000000000093400      0x488 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
-                0x0000000000093400                __muldf3
- .text          0x0000000000093888      0x693 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
-                0x0000000000093888                __subdf3
- .text          0x0000000000093f1b       0x64 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
-                0x0000000000093f1b                __fixdfsi
- .text          0x0000000000093f7f       0x61 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
-                0x0000000000093f7f                __floatsidf
- .text          0x0000000000093fe0       0x4f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
-                0x0000000000093fe0                __floatunsidf
- .text          0x000000000009402f       0x8f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(extendsfdf2.o)
-                0x000000000009402f                __extendsfdf2
- .text          0x00000000000940be       0x27 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
-                0x00000000000940be                vAHI_InterruptSetPriority
-                0x00000000000940dc                vAHI_InterruptSetActivePriorityLevel
+                0x0000000000090e24      0x318 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+                0x0000000000090e41                vProcessIncomingHwEvent.11171
+ .text          0x000000000009113c       0xb5 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans27.ltrans.o
+                0x000000000009113c                TWEINTRCT_u32MenuOpKey
+ .text          0x00000000000911f1      0x378 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans28.ltrans.o
+                0x000000000009123c                SERIAL_bTxChar
+                0x00000000000912ed                TWETERM_iPutS.15889
+                0x0000000000091312                TWETERM_iPutC.15893
+                0x0000000000091323                TWETERM_vFlush.15866
+                0x00000000000913a1                eGenRxHdrDone.21336
+                0x00000000000913b1                _ZN3mwx2L110serial_jen5writeEi.local.31
+                0x00000000000913d3                _ZN3mwx2L16streamINS0_10serial_jenEElsERNS0_18MWX_Stream_EndLineE.isra.8.6744
+                0x00000000000913eb                _ZN3mwx2L16streamINS0_10serial_jenEE6_printEPKc.local.20
+                0x000000000009140c                TWEINTRCT_cbu32GenericHandler
+ .text          0x0000000000091569       0x25 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x0000000000091569                memcmp
+ .text          0x000000000009158e       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                0x000000000009158e                strlen
+ *fill*         0x00000000000915a0        0x0 00
+ .text          0x00000000000915a0      0x204 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x00000000000915a0                __udivsi3
+ .text          0x00000000000917a4       0x30 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                0x00000000000917a4                __divsi3
+ .text          0x00000000000917d4      0x1b0 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x00000000000917d4                __umodsi3
+ .text          0x0000000000091984       0x24 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                0x0000000000091984                __modsi3
+ .text          0x00000000000919a8       0x39 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
+                0x00000000000919a8                __fixunsdfsi
+ .text          0x00000000000919e1      0x350 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                0x00000000000919e1                __udivdi3
+ .text          0x0000000000091d31      0x312 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_umoddi3.o)
+                0x0000000000091d31                __umoddi3
+ .text          0x0000000000092043       0xac c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gesf2.o)
+                0x0000000000092043                __gesf2
+                0x0000000000092043                __gtsf2
+ .text          0x00000000000920ef       0xac c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(lesf2.o)
+                0x00000000000920ef                __ltsf2
+                0x00000000000920ef                __lesf2
+ .text          0x000000000009219b       0x3c c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(unordsf2.o)
+                0x000000000009219b                __unordsf2
+ .text          0x00000000000921d7      0x682 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(adddf3.o)
+                0x00000000000921d7                __adddf3
+ *fill*         0x0000000000092859        0x3 00
+ .text          0x000000000009285c      0x5c8 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(divdf3.o)
+                0x000000000009285c                __divdf3
+ .text          0x0000000000092e24       0x7f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(eqdf2.o)
+                0x0000000000092e24                __nedf2
+                0x0000000000092e24                __eqdf2
+ .text          0x0000000000092ea3       0xca c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(gedf2.o)
+                0x0000000000092ea3                __gedf2
+                0x0000000000092ea3                __gtdf2
+ .text          0x0000000000092f6d       0xcb c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(ledf2.o)
+                0x0000000000092f6d                __ledf2
+                0x0000000000092f6d                __ltdf2
+ .text          0x0000000000093038      0x488 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(muldf3.o)
+                0x0000000000093038                __muldf3
+ .text          0x00000000000934c0      0x693 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(subdf3.o)
+                0x00000000000934c0                __subdf3
+ .text          0x0000000000093b53       0x64 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(fixdfsi.o)
+                0x0000000000093b53                __fixdfsi
+ .text          0x0000000000093bb7       0x61 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatsidf.o)
+                0x0000000000093bb7                __floatsidf
+ .text          0x0000000000093c18       0x4f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(floatunsidf.o)
+                0x0000000000093c18                __floatunsidf
+ .text          0x0000000000093c67       0x8f c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(extendsfdf2.o)
+                0x0000000000093c67                __extendsfdf2
+ .text          0x0000000000093cf6       0x27 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                0x0000000000093cf6                vAHI_InterruptSetPriority
+                0x0000000000093d14                vAHI_InterruptSetActivePriorityLevel
  .text.vMicroSyscall
-                0x00000000000940e5       0x17 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
-                0x00000000000940e5                vMicroSyscall
- .text          0x00000000000940fc       0x19 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
- .text          0x0000000000094115       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
-                0x0000000000094115                memset
-                0x0000000000094127                _flash_end = ABSOLUTE (.)
+                0x0000000000093d1d       0x17 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x0000000000093d1d                vMicroSyscall
+ .text          0x0000000000093d34       0x19 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x0000000000093d4d       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x0000000000093d4d                memset
+                0x0000000000093d5f                _flash_end = ABSOLUTE (.)
 
-.rela.dyn       0x0000000000094128        0x0
- .rela.text     0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
+.rela.dyn       0x0000000000093d60        0x0
+ .rela.text     0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
  .rela.text.unlikely
-                0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
- .rela.rodata   0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
- .rela.data     0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
+                0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+ .rela.rodata   0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+ .rela.data     0x0000000000000000        0x0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
                 0x000000000400004c                . = ORIGIN (ram)
 
-.data           0x000000000400004c       0x3c load address 0x0000000000094128
+.data           0x000000000400004c       0x40 load address 0x0000000000093d60
                 0x000000000400004c                _ram_data_start = ABSOLUTE (.)
  *(.data*)
- .data          0x000000000400004c        0x1 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
+ .data          0x000000000400004c        0x1 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
  .data.initinboot
-                0x000000000400004d        0x1 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
+                0x000000000400004d        0x1 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
                 0x000000000400004d                gMAC_u8MaxBuffers
- .data          0x000000000400004e        0x1 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
-                0x000000000400004e                u8TxWkrNow.11823
- .data          0x000000000400004f        0x1 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans6.ltrans.o
-                0x000000000400004f                _toconet_tx_u8_init_queue_flag
- .data          0x0000000004000050        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
+ *fill*         0x000000000400004e        0x2 00
+ .data          0x0000000004000050        0x4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
                 0x0000000004000050                u32HeapStart
+ .data          0x0000000004000054        0x1 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+                0x0000000004000054                u8TxWkrNow.11786
+ .data          0x0000000004000055        0x1 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans14.ltrans.o
+                0x0000000004000055                _toconet_tx_u8_init_queue_flag
+ *fill*         0x0000000004000056        0x2 00
  .data.initinboot
-                0x0000000004000054        0x8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
- .data          0x000000000400005c       0x28 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans19.ltrans.o
-                0x000000000400005c                INTRCT_USER_APP_NAME
-                0x0000000004000060                INTRCT_USER_APP_ID
-                0x0000000004000064                SETSTD_CUST_COMMON
- .data          0x0000000004000084        0x2 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans21.ltrans.o
+                0x0000000004000058        0x8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+ .data          0x0000000004000060       0x28 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans21.ltrans.o
+                0x0000000004000060                INTRCT_USER_APP_NAME
+                0x0000000004000064                INTRCT_USER_APP_ID
+                0x0000000004000068                SETSTD_CUST_COMMON
+ .data          0x0000000004000088        0x2 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans22.ltrans.o
  *(.data.*)
-                0x0000000004000088                . = ALIGN (0x4)
- *fill*         0x0000000004000086        0x2 00
-                0x0000000004000088                _ram_data_end = ABSOLUTE (.)
+                0x000000000400008c                . = ALIGN (0x4)
+ *fill*         0x000000000400008a        0x2 00
+                0x000000000400008c                _ram_data_end = ABSOLUTE (.)
 
-.bss            0x0000000004000088     0x182c load address 0x0000000000094164
-                0x0000000004000088                _bss_start = ABSOLUTE (.)
+.bss            0x000000000400008c     0x1828 load address 0x0000000000093da0
+                0x000000000400008c                _bss_start = ABSOLUTE (.)
  *(.bss*)
- .bss           0x0000000004000088       0x40 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans1.ltrans.o
-                0x0000000004000088                g_sLP
-                0x00000000040000c4                g_pvMac
+ .bss           0x000000000400008c        0x8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans1.ltrans.o
+ .bss           0x0000000004000094       0x20 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
+                0x0000000004000094                g_sXcv
+                0x0000000004000098                prMcpsRequest.16766
+                0x000000000400009c                prMlmeRequest.16765
+                0x00000000040000a0                prOriginalHandler.13648
  .bss.initinboot
-                0x00000000040000c8        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans1.ltrans.o
- .bss           0x00000000040000cc       0x20 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
-                0x00000000040000cc                g_sXcv
-                0x00000000040000d0                prMcpsRequest.16940
-                0x00000000040000d4                prMlmeRequest.16939
-                0x00000000040000d8                prOriginalHandler.13685
+                0x00000000040000b4        0x8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
+                0x00000000040000b4                g_u32MacAddrLocation
+                0x00000000040000b8                prvUserTxStartedCallback
+ .bss           0x00000000040000bc       0x40 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans3.ltrans.o
+                0x00000000040000bc                g_sLP
+                0x00000000040000f8                g_pvMac
  .bss.initinboot
-                0x00000000040000ec        0x8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
-                0x00000000040000ec                g_u32MacAddrLocation
-                0x00000000040000f0                prvUserTxStartedCallback
- .bss           0x00000000040000f4       0x10 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
-                0x00000000040000f4                pvPostFunc.10910
-                0x00000000040000f8                u32PostArg.10909
-                0x00000000040000fc                evPost.10908
- .bss           0x0000000004000104        0x8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans4.ltrans.o
- .bss           0x000000000400010c       0x94 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
-                0x000000000400010c                sCh_Context.12242
-                0x0000000004000110                the_vhw
-                0x0000000004000134                the_vnet
-                0x0000000004000158                the_vapp
-                0x000000000400017c                asTx.11779
- .bss.initinboot
-                0x00000000040001a0        0x1 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
- *fill*         0x00000000040001a1        0x3 00
- .bss           0x00000000040001a4      0x618 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans6.ltrans.o
-                0x00000000040001a4                prApAppCallback.31604
-                0x00000000040001a8                bIntEnableFlag.31601
- .bss           0x00000000040007bc       0x5c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans7.ltrans.o
-                0x00000000040007bc                TxWorker_u8Num.11780
-                0x00000000040007bd                gbTimeOutFlag.32037
-                0x00000000040007c0                prUart1AppCallback.32505
-                0x00000000040007c4                prUart0AppCallback.32504
-                0x00000000040007c8                sOpt.13857
- .bss           0x0000000004000818       0x10 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
+                0x00000000040000fc      0x1c0 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans3.ltrans.o
+                0x00000000040000fc                g_sMac
+ .bss           0x00000000040002bc       0x10 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+                0x00000000040002bc                pvPostFunc.10873
+                0x00000000040002c0                u32PostArg.10872
+                0x00000000040002c4                evPost.10871
+ .bss           0x00000000040002cc       0x10 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
  .bss.dontinitinboot
-                0x0000000004000828        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
- .bss           0x000000000400082c        0x8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans9.ltrans.o
- .bss.dontinitinboot
-                0x0000000004000834        0x1 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans9.ltrans.o
- *fill*         0x0000000004000835        0x3 00
- .bss           0x0000000004000838       0x10 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans10.ltrans.o
-                0x0000000004000838                _ZL9u8AppSlot.7277
-                0x0000000004000839                _ZL9u8AppKind.7278
-                0x000000000400083a                _ZL10u8MenuMode.7326
-                0x000000000400083c                i_savct.14832
-                0x0000000004000840                i_defct.14830
-                0x0000000004000844                i_modct.14831
- .bss           0x0000000004000848       0x8c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans11.ltrans.o
-                0x0000000004000848                _ZL5_vcbs.4738
-                0x0000000004000858                sToCoNet_AppContext
-                0x0000000004000874                sToCoNet_Context
-                0x00000000040008bc                sAssocSecurity.20557
-                0x00000000040008c8                g_bJenieBackwardsCompatibilityMode
- .bss           0x00000000040008d4      0x284 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
-                0x00000000040008d4                u8AppId_Pkt_head.13554
-                0x00000000040008d8                u32AppId.13551
-                0x00000000040008dc                u32MyAddr.13553
-                0x00000000040008e0                bRxQueue_Init.13552
-                0x00000000040008e4                psRxQueueList.13550
-                0x00000000040008f8                asEventHandler.10896
-                0x0000000004000998                sEvVars
-                0x00000000040009b4                u32TickCount_ms
-                0x00000000040009b8                au8Txdatabuff_idx_sTxQueue
-                0x00000000040009bc                u8TxBuffSiz_sTxQueue
-                0x00000000040009c0                sTxdatabuff_sTxQueue
-                0x00000000040009c4                sTxQueue
-                0x00000000040009e0                au8Rxdatabuff_idx_sRxQueue
-                0x00000000040009e4                u8RxBuffSiz_sRxQueue
-                0x00000000040009e8                sRxdatabuff_sRxQueue
-                0x00000000040009ec                sRxQueue
-                0x0000000004000a08                au8Rxdatabuff_idx_sRxQueueCmd
-                0x0000000004000a0c                u8RxBuffSiz_sRxQueueCmd
-                0x0000000004000a10                sRxdatabuff_sRxQueueCmd
-                0x0000000004000a14                sRxQueueCmd.11347
-                0x0000000004000a30                sContext.13675
-                0x0000000004000a5c                the_twelite
-                0x0000000004000aec                sToCoNet_Modules
- .bss           0x0000000004000b58       0x34 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans13.ltrans.o
-                0x0000000004000b58                _ZL6sFinal.7262
-                0x0000000004000b88                _psSerial
- .bss           0x0000000004000b8c      0x11c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans14.ltrans.o
-                0x0000000004000b8c                prAppHwCallback.12610
- .bss           0x0000000004000ca8        0x2 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
- *fill*         0x0000000004000caa        0x2 00
- .bss.dontinitinboot
-                0x0000000004000cac        0x8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
- .bss           0x0000000004000cb4      0x734 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
-                0x0000000004000cb4                prSpiAppCallback.31838
-                0x0000000004000cb8                prSiAppCallback.33051
-                0x0000000004000cbc                prAppMcpsCallback.12608
-                0x0000000004000cc0                prAppMlmeCallback.12609
-                0x0000000004000cc4                bTxEventQueued.27673
-                0x0000000004000cc5                u8TxEventStatus.27674
-                0x0000000004000cc8                sAppHousekeeping
+                0x00000000040002dc        0x4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
+ .bss           0x00000000040002e0        0x8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans6.ltrans.o
+ .bss           0x00000000040002e8       0x94 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+                0x00000000040002e8                sCh_Context.12205
+                0x00000000040002ec                the_vhw
+                0x0000000004000310                the_vnet
+                0x0000000004000334                the_vapp
+                0x0000000004000358                asTx.11742
  .bss.initinboot
-                0x00000000040013e8        0x4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
-                0x00000000040013e8                prSysCtrlAppCallback.32041
- .bss           0x00000000040013ec       0x34 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans18.ltrans.o
-                0x00000000040013ec                pf_vProcessInputByte.14605
-                0x00000000040013f0                sSerInpStr.14602
- .bss           0x0000000004001420       0x24 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans19.ltrans.o
-                0x0000000004001420                Serial
- .bss           0x0000000004001444        0x1 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans20.ltrans.o
-                0x0000000004001444                u8TAM_TxStatusOverride
- *fill*         0x0000000004001445        0x3 00
- .bss           0x0000000004001448       0x98 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans21.ltrans.o
-                0x0000000004001448                sMcpsIndQueue.12604
-                0x0000000004001458                sMcpsIndBufferQueue.12602
-                0x0000000004001468                sMlmeIndQueue.12605
-                0x0000000004001478                sMlmeIndBufferQueue.12603
-                0x0000000004001488                sHwIndQueue.12606
-                0x0000000004001498                sHwIndBufferQueue.12607
-                0x00000000040014a8                _u32_INT_adc_comp
-                0x00000000040014ac                _u32_INT_ticktimer
-                0x00000000040014b0                the_vsettings
-                0x00000000040014d4                _periph_availmap
- .bss           0x00000000040014e0       0x24 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
-                0x00000000040014e0                apfTimerAppCallback.32250
-                0x00000000040014f4                prTickTimeAppCallback
-                0x00000000040014f8                au16TimerSettings.32199
- .bss           0x0000000004001504        0x8 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans25.ltrans.o
- .bss           0x000000000400150c       0xf4 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
-                0x000000000400150c                the_mac
-                0x000000000400151c                Timer4
-                0x0000000004001524                Timer3
-                0x000000000400152c                Timer2
-                0x0000000004001534                Timer1
-                0x000000000400153c                Timer0
-                0x0000000004001544                Analogue
-                0x000000000400155c                SPI
-                0x0000000004001560                Wire
-                0x0000000004001590                SerialParser
-                0x00000000040015cc                Serial1
-                0x00000000040015ec                Buttons
-                0x00000000040015f4                PulseCounter1
-                0x00000000040015f8                PulseCounter0
- .bss           0x0000000004001600       0x48 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans28.ltrans.o
-                0x0000000004001600                sSerCmd_P3.14601
-                0x000000000400160c                sIntrct_Context.14604
- .bss           0x0000000004001648       0x14 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans29.ltrans.o
-                0x0000000004001648                s_sTimerList
-                0x0000000004001658                u8AssocResponsesInProgress.20556
- .bss           0x000000000400165c       0x5c C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans30.ltrans.o
-                0x000000000400165c                asUARTS.13850
-                0x000000000400167c                _SERIAL_bmTxIntEnabled
-                0x0000000004001680                asSerialPorts
+                0x000000000400037c        0x1 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+ *fill*         0x000000000400037d        0x3 00
+ .bss           0x0000000004000380       0x5c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans8.ltrans.o
+                0x0000000004000380                TxWorker_u8Num.11743
+                0x0000000004000381                gbTimeOutFlag.31863
+                0x0000000004000384                prUart1AppCallback.32331
+                0x0000000004000388                prUart0AppCallback.32330
+                0x000000000400038c                sOpt.13820
+ .bss           0x00000000040003dc      0x120 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans9.ltrans.o
+                0x00000000040003dc                prApAppCallback.31430
+                0x00000000040003e0                bIntEnableFlag.31427
+ .bss           0x00000000040004fc        0x8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans10.ltrans.o
+ .bss.dontinitinboot
+                0x0000000004000504        0x1 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans10.ltrans.o
+ *fill*         0x0000000004000505        0x3 00
+ .bss           0x0000000004000508       0x10 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans11.ltrans.o
+                0x0000000004000508                _ZL9u8AppSlot.7240
+                0x0000000004000509                _ZL9u8AppKind.7241
+                0x000000000400050a                _ZL10u8MenuMode.7289
+                0x000000000400050c                i_savct.14795
+                0x0000000004000510                i_defct.14793
+                0x0000000004000514                i_modct.14794
+ .bss           0x0000000004000518       0x8c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans12.ltrans.o
+                0x0000000004000518                _ZL5_vcbs.4701
+                0x0000000004000528                sToCoNet_AppContext
+                0x0000000004000544                sToCoNet_Context
+                0x000000000400058c                sAssocSecurity.20383
+                0x0000000004000598                g_bJenieBackwardsCompatibilityMode
+ .bss           0x00000000040005a4      0x284 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+                0x00000000040005a4                u8AppId_Pkt_head.13517
+                0x00000000040005a8                u32AppId.13514
+                0x00000000040005ac                u32MyAddr.13516
+                0x00000000040005b0                bRxQueue_Init.13515
+                0x00000000040005b4                psRxQueueList.13513
+                0x00000000040005c8                asEventHandler.10859
+                0x0000000004000668                sEvVars
+                0x0000000004000684                u32TickCount_ms
+                0x0000000004000688                au8Txdatabuff_idx_sTxQueue
+                0x000000000400068c                u8TxBuffSiz_sTxQueue
+                0x0000000004000690                sTxdatabuff_sTxQueue
+                0x0000000004000694                sTxQueue
+                0x00000000040006b0                au8Rxdatabuff_idx_sRxQueue
+                0x00000000040006b4                u8RxBuffSiz_sRxQueue
+                0x00000000040006b8                sRxdatabuff_sRxQueue
+                0x00000000040006bc                sRxQueue
+                0x00000000040006d8                au8Rxdatabuff_idx_sRxQueueCmd
+                0x00000000040006dc                u8RxBuffSiz_sRxQueueCmd
+                0x00000000040006e0                sRxdatabuff_sRxQueueCmd
+                0x00000000040006e4                sRxQueueCmd.11310
+                0x0000000004000700                sContext.13638
+                0x000000000400072c                the_twelite
+                0x00000000040007bc                sToCoNet_Modules
+ .bss           0x0000000004000828      0x614 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans14.ltrans.o
+                0x0000000004000828                prAppHwCallback.12573
+ .bss           0x0000000004000e3c       0x34 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans15.ltrans.o
+                0x0000000004000e3c                _ZL6sFinal.7225
+                0x0000000004000e6c                _psSerial
+ .bss           0x0000000004000e70        0x2 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+ *fill*         0x0000000004000e72        0x2 00
+ .bss.dontinitinboot
+                0x0000000004000e74        0x8 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+ .bss           0x0000000004000e7c      0x734 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
+                0x0000000004000e7c                prSpiAppCallback.31664
+                0x0000000004000e80                prSiAppCallback.32877
+                0x0000000004000e84                prAppMcpsCallback.12571
+                0x0000000004000e88                prAppMlmeCallback.12572
+                0x0000000004000e8c                bTxEventQueued.27499
+                0x0000000004000e8d                u8TxEventStatus.27500
+                0x0000000004000e90                sAppHousekeeping
  .bss.initinboot
-                0x00000000040016b8      0x1bc C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans31.ltrans.o
-                0x00000000040016b8                g_sMac
+                0x00000000040015b0        0x4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
+                0x00000000040015b0                prSysCtrlAppCallback.31867
+ .bss           0x00000000040015b4       0x34 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans19.ltrans.o
+                0x00000000040015b4                pf_vProcessInputByte.14568
+                0x00000000040015b8                sSerInpStr.14565
+ .bss           0x00000000040015e8       0x24 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans21.ltrans.o
+                0x00000000040015e8                Serial
+ .bss           0x000000000400160c       0x98 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans22.ltrans.o
+                0x000000000400160c                sMcpsIndQueue.12567
+                0x000000000400161c                sMcpsIndBufferQueue.12565
+                0x000000000400162c                sMlmeIndQueue.12568
+                0x000000000400163c                sMlmeIndBufferQueue.12566
+                0x000000000400164c                sHwIndQueue.12569
+                0x000000000400165c                sHwIndBufferQueue.12570
+                0x000000000400166c                _u32_INT_adc_comp
+                0x0000000004001670                _u32_INT_ticktimer
+                0x0000000004001674                the_vsettings
+                0x0000000004001698                _periph_availmap
+ .bss           0x00000000040016a4       0x24 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+                0x00000000040016a4                apfTimerAppCallback.32076
+                0x00000000040016b8                prTickTimeAppCallback
+                0x00000000040016bc                au16TimerSettings.32025
+ .bss           0x00000000040016c8       0x14 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans25.ltrans.o
+                0x00000000040016c8                s_sTimerList
+                0x00000000040016d8                u8AssocResponsesInProgress.20382
+ .bss           0x00000000040016dc       0xf4 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+                0x00000000040016dc                the_mac
+                0x00000000040016ec                Timer4
+                0x00000000040016f4                Timer3
+                0x00000000040016fc                Timer2
+                0x0000000004001704                Timer1
+                0x000000000400170c                Timer0
+                0x0000000004001714                Analogue
+                0x000000000400172c                SPI
+                0x0000000004001730                Wire
+                0x0000000004001760                SerialParser
+                0x000000000400179c                Serial1
+                0x00000000040017bc                Buttons
+                0x00000000040017c4                PulseCounter1
+                0x00000000040017c8                PulseCounter0
+ .bss           0x00000000040017d0       0x48 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans27.ltrans.o
+                0x00000000040017d0                sSerCmd_P3.14564
+                0x00000000040017dc                sIntrct_Context.14567
+ .bss           0x0000000004001818       0x5c C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans28.ltrans.o
+                0x0000000004001818                asUARTS.13813
+                0x0000000004001838                _SERIAL_bmTxIntEnabled
+                0x000000000400183c                asSerialPorts
  .bss.dontinitinboot
                 0x0000000004001874       0x40 C:/Users/hirar/Documents/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
                 0x0000000004001874                isr_handlers
@@ -1629,75 +1596,72 @@ LOAD c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc
                 0x00000000040018b4                . = ALIGN (0x4)
                 0x00000000040018b4                _bss_end = ABSOLUTE (.)
 
-.heap           0x00000000040018b4     0x1000 load address 0x0000000000095990
+.heap           0x00000000040018b4     0x1000 load address 0x00000000000955c8
                 0x00000000040018b4                _heap_start = ABSOLUTE (.)
                 0x00000000040028b4                . = (. + _minimum_heap_size)
  *fill*         0x00000000040018b4     0x1000 00
 
-.stack          0x0000000004007400      0xc00 load address 0x000000000009b4dc
+.stack          0x0000000004007400      0xc00 load address 0x000000000009b114
                 0x0000000004007400                _heap_end = ABSOLUTE (.)
                 0x0000000004007400                _stack_low_water_mark = ABSOLUTE (.)
                 0x0000000004008000                . = (. + _stack_size)
  *fill*         0x0000000004007400      0xc00 00
 
-.test           0x0000000000094164        0x1
-                0x0000000000094164        0x1 BYTE 0xff
-                0x0000000000094128                _flash_data_start = LOADADDR (.data)
-                0x000000000000003c                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
-                0x000000000000182c                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
-                0x0000000000014164                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+.test           0x0000000000093da0        0x1
+                0x0000000000093da0        0x1 BYTE 0xff
+                0x0000000000093d60                _flash_data_start = LOADADDR (.data)
+                0x0000000000000040                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000001828                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000013da0                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
                 0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
                 0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
                 0x0000000001001580                _app_ram_start = 0x1001580
                 0x0000000004000050                PROVIDE (_heap_location, u32HeapStart)
                 0x0000000004000050                PROVIDE (heap_location, u32HeapStart)
-                0x00000000000851d4                TSV_eOpenVector = TSV_eOpen
-                0x0000000000084c59                TSV_eStartVector = TSV_eStart
-                0x0000000000090e97                TSV_eStopVector = TSV_eStop
-                0x0000000000090a58                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
-                0x0000000000083193                u32AppApiInit = u32AppApiDefInit
-                0x0000000000090a2d                vAppApiMlmeRequest = vAppApiDefMlmeRequest
-                0x000000000008547c                vAppApiMcpsRequest = vAppApiDefMcpsRequest
-                0x0000000000085423                eAppApiPlmeSet = eAppApiDefPlmeSet
-                0x00000000000853d1                eAppApiPlmeGet = eAppApiDefPlmeGet
-                0x00000000000853c8                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
-                0x00000000000852ad                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
-                0x00000000000851dc                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
+                0x000000000008730c                TSV_eOpenVector = TSV_eOpen
+                0x0000000000086d91                TSV_eStartVector = TSV_eStart
+                0x00000000000906ca                TSV_eStopVector = TSV_eStop
+                0x0000000000090e1b                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
+                0x0000000000083baf                u32AppApiInit = u32AppApiDefInit
+                0x0000000000090df0                vAppApiMlmeRequest = vAppApiDefMlmeRequest
+                0x00000000000875b4                vAppApiMcpsRequest = vAppApiDefMcpsRequest
+                0x000000000008755b                eAppApiPlmeSet = eAppApiDefPlmeSet
+                0x0000000000087509                eAppApiPlmeGet = eAppApiDefPlmeGet
+                0x0000000000087500                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
+                0x00000000000873e5                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
+                0x0000000000087314                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
 OUTPUT(objs_BLUE/software_BLUE_L1305_V0-1-0.elf elf32-ba)
 
 .comment        0x0000000000000000       0x11
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans0.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans1.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans2.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans3.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans4.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans5.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans6.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans7.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans8.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans9.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans10.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans11.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans12.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans13.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans14.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans15.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans16.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans17.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans18.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans19.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans20.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans21.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans22.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans23.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans24.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans25.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans26.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans27.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans28.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans29.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans30.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\ccWjIDSd.ltrans31.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans20.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans21.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans22.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans23.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans24.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans25.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans26.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans27.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hirar\AppData\Local\Temp\cctVF33P.ltrans28.ltrans.o
  .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
  .comment       0x0000000000000000       0x12 c:/users/hirar/documents/mwstage/tools/ba-elf-ba2-r36379.w10/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_fixunsdfsi.o)
