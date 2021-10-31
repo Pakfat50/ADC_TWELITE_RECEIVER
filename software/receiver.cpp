@@ -13,12 +13,13 @@ const uint8_t DEFAULT_CHANNEL = 13;
 // option bits
 uint32_t OPT_BITS = 0;
 
-/*** function prototype */
-bool analyze_payload(packet_rx& rx);
-
 /*** application defs */
 constexpr uint8_t FS3000_TYPE_ID = 10;
-constexpr size_t FS3000_DATA_SIZE = 1;
+constexpr size_t FS3000_FLOAT_DATA_SIZE = 1;
+constexpr size_t FS3000_BYTE_DATA_SIZE = floatSizeToByteSize(FS3000_FLOAT_DATA_SIZE);
+
+std::array<float, FS3000_FLOAT_DATA_SIZE> fs3000FloatData;
+smplbuf_u8<FS3000_BYTE_DATA_SIZE> fs3000ByteData;
 
 /*** setup procedure (run once at cold boot) */
 void setup() {
@@ -63,217 +64,11 @@ void loop() {
 }
 
 void on_rx_packet(packet_rx& rx, bool_t &handled) {
-	SensorData<FS3000_DATA_SIZE> FS3000SensorData(FS3000_TYPE_ID);
-	float fs3000Data = 0.0;
-	uint8_t byteData[FS3000SensorData.byteSize];
-
-	smplbuf_u8<256> buf;
-	/*
-	pack_bytes(buf
-		, uint8_t(rx.get_addr_src_lid())		// *1:src addr (LID)
-		, uint8_t(0xCC)							// *2:cmd id (0xCC, fixed)
-		, uint8_t(rx.get_psRxDataApp()->u8Seq)	// *3:seqence number
-		, uint32_t(rx.get_addr_src_long())		// *4:src addr (long)
-		, uint32_t(rx.get_addr_dst())			// *5:dst addr
-		, uint8_t(rx.get_lqi())					// *6:LQI
-		, uint16_t(rx.get_length())				// *7:payload length
-		, rx.get_payload() 						// *8:payload
-			// , make_pair(rx.get_payload().begin() + 4, rx.get_payload().size() - 4)
-			//   note: if you want the part of payload, use make_pair().
-	);
-	*/
-	pack_bytes(buf, rx.get_payload() );
+	SensorData FS3000SensorData(FS3000_TYPE_ID, FS3000_FLOAT_DATA_SIZE);
 	
-	for (int i = 0; i < FS3000SensorData.byteSize; i++){
-		byteData[i] = rx.get_payload()[i];
-	}
-	FS3000SensorData.getFloatData(byteData, &fs3000Data);
-	Serial << fs3000Data;
+	FS3000SensorData.getFloatData(rx.get_payload(), fs3000ByteData);
+	Serial << fs3000ByteData[0];
 	Serial << mwx::crlf;
 	Serial.flush();
 
 }
-
-bool analyze_payload(packet_rx& rx) {
-	bool b_handled = false;
-
-#if 1
-	// expand packet payload (shall match with sent packet data structure, see pack_bytes())
-	uint8_t fourchars[4]{}; // init all elements as default (0).
-	auto&& np = expand_bytes(rx.get_payload().begin(), rx.get_payload().end()
-		, fourchars
-    );
-#else
-	// an example to pass std::pair<char*,int>.
-	char fourchars[5]{};
-	auto&& np = expand_bytes(
-		    rx.get_payload().begin(), rx.get_payload().end()
-			, make_pair((char *)fourchars, 4)
-		);
-#endif
-
-	// if heading 4 bytes are not present, unexpected packet data.
-	if (np == nullptr) return false;
-
-	// display fourchars at first
-	Serial
-		<< fourchars 
-		<< format("(ID=%d/LQ=%d)", rx.get_addr_src_lid(), rx.get_lqi())
-		<< "-> ";
-
-	// Slp_Wk_and_Tx
-	if (!b_handled && !strncmp((char*)fourchars, "TXSP", 4)) {
-		b_handled = true;
-		uint32_t tick_ms;
-		uint16_t u16work_ct;
-
-		np = expand_bytes(np, rx.get_payload().end()
-			, tick_ms
-			, u16work_ct
-		);
-
-		if (np != nullptr) {
-			Serial << format("Tick=%d WkCt=%d", tick_ms, u16work_ct);
-		} else {
-			Serial << ".. error ..";
-		}
-	}
-
-	// BRD_APPTWELITE
-	if (!b_handled && !strncmp((char*)fourchars, "BAT1", 4)) {
-		b_handled = true;
-
-		uint8_t u8DI_BM_remote = 0xff;
-		uint16_t au16AI_remote[5];
-		np = expand_bytes(np, rx.get_payload().end()
-			, u8DI_BM_remote
-			, au16AI_remote[0]
-			, au16AI_remote[1]
-			, au16AI_remote[2]
-			, au16AI_remote[3]
-			, au16AI_remote[4]
-		);
-
-		if (np != nullptr) {
-			Serial << format("DI:%04b", u8DI_BM_remote & 0x0F);
-			for (auto&& x : au16AI_remote) {
-				Serial << format("/%04d", x);
-			}
-		} else {
-			Serial << ".. error ..";
-		}
-	}
-
-	// AMB
-	if 	(!b_handled && 
-			(  !strncmp((char*)fourchars, "PAB1", 4) // PAL_AMB
-			|| !strncmp((char*)fourchars, "PAB2", 4) // PAL_AMB_usernap
-			)
-		)
-	{
-		b_handled = true;
-
-		uint32_t u32lumi;
-		uint16_t u16temp;
-		uint16_t u16humd;
-
-		np = expand_bytes(np, rx.get_payload().end()
-			, u32lumi
-			, u16temp
-			, u16humd
-		);
-
-		if (np != nullptr) {
-			Serial 	<< format("Lumi:%d", u32lumi)
-					<< " Temp:" << div100(int16_t(u16temp))
-					<< " Humid:" << div100(int16_t(u16humd))
-					;
-		} else {
-			Serial << ".. error ..";
-		}
-	}
-	
-	// MAG
-	if 	(!b_handled && 
-			(  !strncmp((char*)fourchars, "PMG1", 4) // PAL_AMB
-			)
-		)
-	{
-		b_handled = true;
-
-		uint8_t b_north;
-		uint8_t b_south;
-
-		np = expand_bytes(np, rx.get_payload().end()
-			, b_north
-			, b_south
-		);
-
-		if (np != nullptr) {
-			Serial 	<< format("N=%d S=%d", b_north, b_south)
-					;
-		} else {
-			Serial << ".. error ..";
-		}
-	}
-
-	// MOT
-	if 	(!b_handled && 
-			(  !strncmp((char*)fourchars, "PMT1", 4) // PAL_AMB
-			)
-		)
-	{
-		b_handled = true;
-
-		uint8_t siz = 255;
-		uint16_t seq = 65535;
-
-		int16_t x[16], y[16], z[16];
-
-		np = expand_bytes(np, rx.get_payload().end()
-				, seq
-				, siz
-			);
-
-		Serial << format("SZ=%d SQ=%d ", siz, seq);
-		
-		if (np != nullptr && siz > 0) {
-			uint32_t v1;
-			uint8_t v2;
-			for (int i = 0; i < siz; i++) {
-				np = expand_bytes(np, rx.get_payload().end(), v1, v2);
-				if (np != nullptr) {
-					// Coming value format is signed 13bit format (-4000-4000 milliG).
-					// v1: [13bit X][13bit Y][6bit Z MSBside]
-					// v2: [7bit Z LSBside]
-				
-					// Each values are splitted into 13bits and expand to int16_t for signess ((v << 3) >> 3).
-					x[i] = int16_t(((v1 >> 19) & 0x1FFF) << 3) >> 3; 
-					y[i] = int16_t(((v1 >> 6) & 0x1FFF) << 3) >> 3;
-					z[i] = int16_t((((v1 & 0x3F) << 7) + (v2 & 0x7F)) << 3) >> 3;
-				} else break;
-			}
-		}
-
-		if (np != nullptr) {
-			for (int i = 0; i < siz; i++) {
-				Serial << format("(%d,%d,%d)", x[i], y[i], z[i]);
-			}
-		} else {
-			Serial << ".. error ..";
-		}
-	}
-
-	// Unknown
-	if (!b_handled) Serial << "..not analyzed..";
-
-	// finally put line break.
-	Serial << mwx::crlf;
-
-	// returns status
-	return b_handled;
-}
-
-/* Copyright (C) 2019-2021 Mono Wireless Inc. All Rights Reserved. *
- * Released under MW-SLA-*J,*E (MONO WIRELESS SOFTWARE LICENSE     *
- * AGREEMENT).                                                     */
